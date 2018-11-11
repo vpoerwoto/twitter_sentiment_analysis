@@ -1,0 +1,1193 @@
+@relation 'PRAB_TWCL_3_bi-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1200-prune-rate-1.0-T-I-N1-L-stemmerweka.core.stemmers.NullStemmer-M3-stopwordsD:\\~tesis\\~play\\stopword_list_tala.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 2'
+
+@attribute @@class@@ {POS,NEG}
+@attribute 'ala kubu' numeric
+@attribute 'antas korupsi' numeric
+@attribute 'apresiasi komitmen' numeric
+@attribute 'arifin ilham' numeric
+@attribute 'calon presiden' numeric
+@attribute 'dana miliar' numeric
+@attribute 'dana teliti' numeric
+@attribute 'debat roket' numeric
+@attribute 'desa ala' numeric
+@attribute 'dukung dukung' numeric
+@attribute 'dukung presiden' numeric
+@attribute 'embang desa' numeric
+@attribute 'erhati lingkung' numeric
+@attribute 'ganjar khawatir' numeric
+@attribute 'gus dur' numeric
+@attribute 'hidup hidup' numeric
+@attribute 'indonesia bangkit' numeric
+@attribute 'kampanye hitam' numeric
+@attribute 'koalisi merah' numeric
+@attribute 'komitmen erhati' numeric
+@attribute 'kubu dana' numeric
+@attribute 'lagu enang' numeric
+@attribute 'lingkung apresiasi' numeric
+@attribute 'merah putih' numeric
+@attribute 'nu dukung' numeric
+@attribute 'pancasila abad' numeric
+@attribute 'persen suara' numeric
+@attribute 'pilih dukung' numeric
+@attribute 'pilih no' numeric
+@attribute 'presiden calon' numeric
+@attribute 'presiden indonesia' numeric
+@attribute 'raih persen' numeric
+@attribute 'relaw dukung' numeric
+@attribute 'ribu warga' numeric
+@attribute 'salam jari' numeric
+@attribute 'suara pasang' numeric
+@attribute 'surat guru' numeric
+@attribute 'teliti triliun' numeric
+@attribute 'wakil presiden' numeric
+@attribute 'warga nu' numeric
+@attribute 'atribut kampanye' numeric
+@attribute 'culik isu' numeric
+@attribute 'debat dukung' numeric
+@attribute 'duduk damping' numeric
+@attribute 'dukung panitia' numeric
+@attribute 'gambar gus' numeric
+@attribute 'gara gara' numeric
+@attribute 'garuda merah' numeric
+@attribute 'hitung suara' numeric
+@attribute 'isu culik' numeric
+@attribute 'ita kostum' numeric
+@attribute 'jahat badan' numeric
+@attribute 'kaidah statistik' numeric
+@attribute 'kait surat' numeric
+@attribute 'kalah aja' numeric
+@attribute 'kalah via' numeric
+@attribute 'kampanye debat' numeric
+@attribute 'kapal penuh' numeric
+@attribute 'koalisi manen' numeric
+@attribute 'kostum nazi' numeric
+@attribute 'kubu khawatir' numeric
+@attribute 'kubu lemah' numeric
+@attribute 'langgar ham' numeric
+@attribute 'lembaga surve' numeric
+@attribute 'luarga cendana' numeric
+@attribute 'luarga gus' numeric
+@attribute 'luarga marah' numeric
+@attribute 'marah ita' numeric
+@attribute 'menang curang' numeric
+@attribute 'menang kalah' numeric
+@attribute 'menga kalah' numeric
+@attribute 'nama gus' numeric
+@attribute 'nasi kotak' numeric
+@attribute 'nazi baju' numeric
+@attribute 'panggil tim' numeric
+@attribute 'penuh korupsi' numeric
+@attribute 'politik dukung' numeric
+@attribute 'politik uang' numeric
+@attribute 'positif pilih' numeric
+@attribute 'protes spanduk' numeric
+@attribute 'sikap luarga' numeric
+@attribute 'spanduk gambar' numeric
+@attribute 'suara kubu' numeric
+@attribute 'surve kaidah' numeric
+@attribute 'tim kait' numeric
+@attribute 'tua tim' numeric
+@attribute 'uang surat' numeric
+@attribute 'wawancara culik' numeric
+
+@data
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{64 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{10 1.026758}
+{}
+{}
+{}
+{4 1.026758}
+{}
+{}
+{}
+{29 1.026758}
+{22 1.026758}
+{25 1.026758}
+{}
+{}
+{}
+{}
+{}
+{22 1.026758}
+{28 1.026758}
+{}
+{}
+{}
+{22 1.026758}
+{}
+{}
+{}
+{}
+{4 1.026758}
+{}
+{}
+{22 1.026758}
+{}
+{}
+{88 1.026758}
+{}
+{44 0.740589,65 0.711167}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{39 1.026758}
+{}
+{}
+{}
+{}
+{}
+{35 1.026758}
+{}
+{}
+{16 1.026758}
+{}
+{7 0.726027,38 0.726027}
+{}
+{}
+{}
+{}
+{16 1.026758}
+{28 1.026758}
+{7 0.726027,38 0.726027}
+{}
+{}
+{}
+{7 0.726027,38 0.726027}
+{}
+{}
+{}
+{}
+{}
+{15 1.026758}
+{}
+{}
+{}
+{34 1.026758}
+{}
+{}
+{}
+{7 0.726027,38 0.726027}
+{65 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{14 1.026758}
+{}
+{14 1.026758}
+{}
+{14 1.026758}
+{}
+{}
+{37 0.537465,78 0.581997,87 0.653179}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{37 0.448015,54 0.544471,75 0.510505,85 0.544471}
+{}
+{25 1.026758}
+{}
+{}
+{}
+{}
+{37 0.448015,54 0.544471,75 0.510505,85 0.544471}
+{}
+{}
+{}
+{}
+{18 0.551113,37 0.453481,78 0.491054,87 0.551113}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{15 1.026758}
+{11 0.596197,25 0.553159,40 0.626734}
+{}
+{}
+{}
+{33 1.026758}
+{}
+{}
+{18 1.026758}
+{}
+{}
+{}
+{}
+{}
+{33 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{34 1.026758}
+{}
+{}
+{}
+{}
+{33 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{15 1.026758}
+{}
+{28 1.026758}
+{}
+{}
+{}
+{}
+{17 1.026758}
+{}
+{}
+{}
+{5 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{36 1.026758}
+{}
+{}
+{18 1.026758}
+{}
+{26 1.026758}
+{}
+{26 1.026758}
+{}
+{}
+{}
+{}
+{17 1.026758}
+{}
+{15 1.026758}
+{}
+{31 0.692494,39 0.758079}
+{}
+{}
+{11 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{17 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{35 0.645832,48 0.798206}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{35 1.026758}
+{1 0.462344,6 0.486025,9 0.428969,12 0.428969,21 0.486025}
+{9 0.726027,12 0.726027}
+{}
+{1 0.462344,6 0.486025,9 0.428969,12 0.428969,21 0.486025}
+{1 0.622372,9 0.577444,12 0.577444}
+{1 0.462344,6 0.486025,9 0.428969,12 0.428969,21 0.486025}
+{10 1.026758}
+{}
+{}
+{9 0.726027,12 0.726027}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{31 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{15 1.026758}
+{}
+{}
+{}
+{25 1.026758}
+{}
+{}
+{}
+{}
+{}
+{35 1.026758}
+{}
+{}
+{5 1.026758}
+{19 0.743924,24 0.707678}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{2 1.026758}
+{8 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{2 1.026758}
+{}
+{}
+{}
+{10 1.026758}
+{31 1.026758}
+{}
+{}
+{}
+{}
+{}
+{35 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{2 1.026758}
+{}
+{}
+{}
+{8 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{10 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{27 0.707678,32 0.743924}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{8 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{17 1.026758}
+{29 1.026758}
+{}
+{}
+{24 1.026758}
+{}
+{}
+{}
+{3 0.508043,13 0.508043,20 0.508043,23 0.529062}
+{3 0.508043,13 0.508043,20 0.508043,23 0.529062}
+{}
+{3 0.420579,5 0.346071,13 0.420579,20 0.420579,23 0.437979,30 0.460412}
+{}
+{3 0.592799,13 0.592799,20 0.592799}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{25 1.026758}
+{}
+{40 1.026758}
+{34 0.707678,40 0.743924}
+{}
+{}
+{}
+{}
+{}
+{25 1.026758}
+{}
+{3 0.508043,13 0.508043,20 0.508043,23 0.529062}
+{}
+{}
+{}
+{}
+{}
+{11 1.026758}
+{}
+{}
+{}
+{}
+{4 1.026758}
+{}
+{}
+{}
+{5 0.616924,30 0.820753}
+{26 0.726027,29 0.726027}
+{}
+{}
+{}
+{31 1.026758}
+{4 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{4 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{4 1.026758}
+{19 0.743924,24 0.707678}
+{}
+{}
+{}
+{48 1.026758}
+{}
+{36 1.026758}
+{}
+{}
+{}
+{}
+{70 1.026758}
+{}
+{27 0.707678,32 0.743924}
+{}
+{}
+{5 1.026758}
+{5 1.026758}
+{27 0.573069,32 0.602421,36 0.602421}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{11 1.026758}
+{5 0.481886,30 0.641099,39 0.641099}
+{}
+{}
+{}
+{}
+{}
+{4 1.026758}
+{}
+{}
+{}
+{}
+{5 1.026758}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{5 1.026758}
+{}
+{19 0.743924,24 0.707678}
+{}
+{}
+{}
+{}
+{}
+{}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,34 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,47 0.707678,79 0.743924}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,48 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,15 0.560648,72 0.860177}
+{0 NEG}
+{0 NEG}
+{0 NEG,15 0.560648,72 0.860177}
+{0 NEG}
+{0 NEG,47 0.707678,79 0.743924}
+{0 NEG}
+{0 NEG,44 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,44 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,44 1.026758}
+{0 NEG}
+{0 NEG,42 0.602421,50 0.602421,88 0.573069}
+{0 NEG}
+{0 NEG,42 0.602421,50 0.602421,88 0.573069}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,65 1.026758}
+{0 NEG,10 1.026758}
+{0 NEG}
+{0 NEG,42 0.602421,50 0.602421,88 0.573069}
+{0 NEG}
+{0 NEG,41 0.513379,43 0.513379,45 0.513379,57 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG,79 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,41 0.513379,43 0.513379,45 0.513379,57 0.513379}
+{0 NEG,65 1.026758}
+{0 NEG}
+{0 NEG,27 1.026758}
+{0 NEG,41 0.513379,43 0.513379,45 0.513379,57 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,70 1.026758}
+{0 NEG}
+{0 NEG,15 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 0.677256,75 0.771722}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 0.537465,78 0.581997,87 0.653179}
+{0 NEG,18 1.026758}
+{0 NEG,18 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,48 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 0.537465,78 0.581997,87 0.653179}
+{0 NEG,37 0.448015,54 0.544471,75 0.510505,85 0.544471}
+{0 NEG}
+{0 NEG,15 0.3998,46 0.546013,80 0.546013,82 0.546013}
+{0 NEG,5 1.026758}
+{0 NEG,37 0.677256,75 0.771722}
+{0 NEG}
+{0 NEG,15 0.3998,46 0.546013,80 0.546013,82 0.546013}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 0.448015,54 0.544471,75 0.510505,85 0.544471}
+{0 NEG}
+{0 NEG}
+{0 NEG,65 1.026758}
+{0 NEG,37 0.537465,78 0.581997,87 0.653179}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 0.448015,54 0.544471,75 0.510505,85 0.544471}
+{0 NEG}
+{0 NEG,15 0.3998,46 0.546013,80 0.546013,82 0.546013}
+{0 NEG}
+{0 NEG,15 0.3998,46 0.546013,80 0.546013,82 0.546013}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,86 1.026758}
+{0 NEG}
+{0 NEG,78 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.726027,76 0.726027}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,86 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.726027,76 0.726027}
+{0 NEG,47 1.026758}
+{0 NEG}
+{0 NEG,58 0.726027,76 0.726027}
+{0 NEG}
+{0 NEG,48 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,62 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG,62 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,73 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,73 1.026758}
+{0 NEG,73 0.796321,78 0.648154}
+{0 NEG,62 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,63 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG,51 0.513379,60 0.513379,67 0.513379,68 0.513379}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,51 0.437435,60 0.437435,67 0.437435,68 0.437435,74 0.537432}
+{0 NEG,37 0.696595,78 0.754312}
+{0 NEG}
+{0 NEG}
+{0 NEG,51 0.437435,60 0.437435,67 0.437435,68 0.437435,74 0.537432}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG,51 0.437435,60 0.437435,67 0.437435,68 0.437435,74 0.537432}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,15 0.606585,66 0.828423}
+{0 NEG}
+{0 NEG,15 1.026758}
+{0 NEG,81 1.026758}
+{0 NEG,15 0.462601,66 0.631782,81 0.664141}
+{0 NEG,15 0.462601,66 0.631782,81 0.664141}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,15 0.606585,66 0.828423}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,47 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,31 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,52 1.026758}
+{0 NEG,52 1.026758}
+{0 NEG,52 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,55 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,69 1.026758}
+{0 NEG}
+{0 NEG,69 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,15 1.026758}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,53 0.726027,84 0.726027}
+{0 NEG}
+{0 NEG,53 0.726027,84 0.726027}
+{0 NEG,53 0.726027,84 0.726027}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,53 0.726027,84 0.726027}
+{0 NEG}
+{0 NEG}
+{0 NEG,64 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,53 0.726027,84 0.726027}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,64 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,5 1.026758}
+{0 NEG,5 1.026758}
+{0 NEG,35 1.026758}
+{0 NEG}
+{0 NEG,56 1.026758}
+{0 NEG}
+{0 NEG,64 1.026758}
+{0 NEG}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG,49 0.462394,61 0.517556,70 0.551991,83 0.517556}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG,49 0.548383,61 0.613803,83 0.613803}
+{0 NEG}
+{0 NEG}
+{0 NEG,64 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,49 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,63 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,56 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,77 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,55 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,5 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,59 0.707678,77 0.743924}
+{0 NEG,59 0.707678,77 0.743924}
+{0 NEG}
+{0 NEG}
+{0 NEG,59 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,63 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,49 1.026758}
+{0 NEG,49 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,49 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,71 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,78 1.026758}
+{0 NEG}
+{0 NEG,59 1.026758}
+{0 NEG}
+{0 NEG,71 1.026758}
+{0 NEG,71 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG,70 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,49 1.026758}
+{0 NEG,56 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,69 1.026758}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,70 1.026758}
+{0 NEG,55 1.026758}

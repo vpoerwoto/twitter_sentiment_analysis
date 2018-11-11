@@ -1,0 +1,40 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1
+Relation:     JKW_TWCL_1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1200-prune-rate-1.0-T-I-N1-L-stemmerweka.core.stemmers.NullStemmer-M3-stopwordsD:\~tesis\~play\stopword_list_tala.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters " \r\n\t.,;:\'\"()?!" -max 1 -min 1
+Instances:    1100
+Attributes:   819
+[list of attributes omitted]
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 0.25 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         890               80.9091 %
+Incorrectly Classified Instances       210               19.0909 %
+Kappa statistic                          0.6182
+Mean absolute error                      0.1909
+Root mean squared error                  0.4369
+Relative absolute error                 38.1818 %
+Root relative squared error             87.3863 %
+Total Number of Instances             1100     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.678     0.06       0.919     0.678     0.78       0.809    POS
+                 0.94      0.322      0.745     0.94      0.831      0.809    NEG
+Weighted Avg.    0.809     0.191      0.832     0.809     0.806      0.809
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 373 177 |   a = POS
+  33 517 |   b = NEG
+

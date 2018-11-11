@@ -1,0 +1,1268 @@
+@relation 'PRAB_TWCL_2_bi-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1200-prune-rate-1.0-T-I-N1-L-stemmerweka.core.stemmers.NullStemmer-M3-stopwordsD:\\~tesis\\~play\\stopword_list_tala.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 2'
+
+@attribute @@class@@ {POS,NEG}
+@attribute 'ala kubu' numeric
+@attribute 'anda tapi' numeric
+@attribute 'apresiasi komitmen' numeric
+@attribute 'arifin ilham' numeric
+@attribute 'bangsa yang' numeric
+@attribute 'calon presiden' numeric
+@attribute 'cara pengembangan' numeric
+@attribute 'dana miliar' numeric
+@attribute 'dana penelitian' numeric
+@attribute 'debat meroket' numeric
+@attribute 'desa ala' numeric
+@attribute 'di barat' numeric
+@attribute 'di indonesia' numeric
+@attribute 'di kubu' numeric
+@attribute 'dukung jadi' numeric
+@attribute 'dukungan untuk' numeric
+@attribute 'gus dur' numeric
+@attribute 'hidup hidup' numeric
+@attribute 'indonesia bangkit' numeric
+@attribute 'ini alasan' numeric
+@attribute 'ini cara' numeric
+@attribute 'jadi presiden' numeric
+@attribute 'jika jadi' numeric
+@attribute 'kami memilih' numeric
+@attribute 'kampanye di' numeric
+@attribute 'kampanye hitam' numeric
+@attribute 'ke indonesia' numeric
+@attribute 'komitmen pemerhati' numeric
+@attribute 'kubu dana' numeric
+@attribute 'lagu pemenangan' numeric
+@attribute 'lebih baik' numeric
+@attribute 'lebih dekat' numeric
+@attribute 'lingkungan mengapresiasi' numeric
+@attribute 'masa kampanye' numeric
+@attribute 'masa lalu' numeric
+@attribute 'memilih anda' numeric
+@attribute 'menang di' numeric
+@attribute 'menjadi presiden' numeric
+@attribute 'merah putih' numeric
+@attribute 'negeri ini' numeric
+@attribute 'nu dukung' numeric
+@attribute 'pak kami' numeric
+@attribute 'pantas jadi' numeric
+@attribute 'pemerhati lingkungan' numeric
+@attribute 'pemimpin yang' numeric
+@attribute 'penelitian triliun' numeric
+@attribute 'pengembangan desa' numeric
+@attribute 'perempuan punya' numeric
+@attribute 'persen suara' numeric
+@attribute 'pilih dan' numeric
+@attribute 'presiden indonesia' numeric
+@attribute 'punya cara' numeric
+@attribute 'ribuan warga' numeric
+@attribute 'salam jari' numeric
+@attribute 'sama pak' numeric
+@attribute 'suara di' numeric
+@attribute 'sudah unggul' numeric
+@attribute 'surat untuk' numeric
+@attribute 'tegas dan' numeric
+@attribute 'unggul di' numeric
+@attribute 'untuk indonesia' numeric
+@attribute 'usai debat' numeric
+@attribute 'wakil presiden' numeric
+@attribute 'warga nu' numeric
+@attribute 'yakin bisa' numeric
+@attribute 'yang tegas' numeric
+@attribute 'ada di' numeric
+@attribute 'ada uang' numeric
+@attribute 'al quran' numeric
+@attribute 'atribut kampanye' numeric
+@attribute 'baca ini' numeric
+@attribute 'badan pak' numeric
+@attribute 'baju nazi' numeric
+@attribute 'bapak sendiri' numeric
+@attribute 'bapak yang' numeric
+@attribute 'bawa atribut' numeric
+@attribute 'begini tanggapan' numeric
+@attribute 'bergambar gus' numeric
+@attribute 'besar penuh' numeric
+@attribute 'bisa baca' numeric
+@attribute 'bukan penculik' numeric
+@attribute 'curang dan' numeric
+@attribute 'debat pendukung' numeric
+@attribute 'dengan persoalan' numeric
+@attribute 'di debat' numeric
+@attribute 'di tengah' numeric
+@attribute 'duduk berdampingan' numeric
+@attribute 'gara gara' numeric
+@attribute 'garuda merah' numeric
+@attribute 'hitung suara' numeric
+@attribute 'isu penculikan' numeric
+@attribute 'itu jahat' numeric
+@attribute 'jahat badan' numeric
+@attribute 'jangan cuma' numeric
+@attribute 'jika kalah' numeric
+@attribute 'kaidah statistik' numeric
+@attribute 'kalah di' numeric
+@attribute 'kalo kalah' numeric
+@attribute 'kapal besar' numeric
+@attribute 'karena pemberitaan' numeric
+@attribute 'kasus surat' numeric
+@attribute 'ke media' numeric
+@attribute 'keluarga cendana' numeric
+@attribute 'keluarga gus' numeric
+@attribute 'keluarga pak' numeric
+@attribute 'ketua tim' numeric
+@attribute 'koalisi permanen' numeric
+@attribute 'kostum nazi' numeric
+@attribute 'kotak yang' numeric
+@attribute 'kubu akan' numeric
+@attribute 'kubu khawatir' numeric
+@attribute 'kubu lemah' numeric
+@attribute 'lemah di' numeric
+@attribute 'lembaga survei' numeric
+@attribute 'mana mana' numeric
+@attribute 'marah karena' numeric
+@attribute 'masalah baju' numeric
+@attribute 'mau kalah' numeric
+@attribute 'mau pilih' numeric
+@attribute 'mengenai masalah' numeric
+@attribute 'nama gus' numeric
+@attribute 'nasi kotak' numeric
+@attribute 'nazi mengenai' numeric
+@attribute 'pada surat' numeric
+@attribute 'pak itu' numeric
+@attribute 'pak mana' numeric
+@attribute 'pak marah' numeric
+@attribute 'panggil tim' numeric
+@attribute 'para guru' numeric
+@attribute 'pelanggaran ham' numeric
+@attribute 'pemberitaan kostum' numeric
+@attribute 'penculik isu' numeric
+@attribute 'penculikan jangan' numeric
+@attribute 'pendukung panitia' numeric
+@attribute 'penghitungan suara' numeric
+@attribute 'penuh dengan' numeric
+@attribute 'persoalan korupsi' numeric
+@attribute 'politik pendukung' numeric
+@attribute 'politik uang' numeric
+@attribute 'positif mau' numeric
+@attribute 'presiden kok' numeric
+@attribute 'protes spanduk' numeric
+@attribute 'punya bapak' numeric
+@attribute 'punya presiden' numeric
+@attribute 'saya tidak' numeric
+@attribute 'segala cara' numeric
+@attribute 'siap kalah' numeric
+@attribute 'sikap keluarga' numeric
+@attribute 'spanduk bergambar' numeric
+@attribute 'suara kubu' numeric
+@attribute 'survei yang' numeric
+@attribute 'tak ada' numeric
+@attribute 'tak kaidah' numeric
+@attribute 'tak politik' numeric
+@attribute 'terkait kasus' numeric
+@attribute 'tim terkait' numeric
+@attribute 'uang pada' numeric
+@attribute 'untuk guru' numeric
+@attribute 'untuk para' numeric
+@attribute 'wawancara bukan' numeric
+@attribute 'yang di' numeric
+@attribute 'yang tak' numeric
+@attribute 'yang tidak' numeric
+
+@data
+{}
+{}
+{}
+{20 1.720638}
+{20 1.720638}
+{}
+{57 1.270387,60 1.160479}
+{}
+{}
+{114 1.720638}
+{}
+{25 1.720638}
+{48 1.216675,52 1.216675}
+{25 1.720638}
+{}
+{48 1.216675,52 1.216675}
+{}
+{25 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{22 0.992581,23 1.405481}
+{}
+{}
+{}
+{}
+{}
+{4 1.720638}
+{}
+{}
+{}
+{}
+{30 1.720638}
+{41 1.720638}
+{}
+{}
+{}
+{25 1.720638}
+{}
+{30 1.216675,55 1.216675}
+{}
+{}
+{}
+{}
+{30 1.720638}
+{}
+{}
+{32 1.720638}
+{}
+{4 1.720638}
+{}
+{}
+{30 1.216675,55 1.216675}
+{}
+{}
+{81 1.216675,160 1.216675}
+{}
+{87 1.241078,103 1.191772}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{63 1.720638}
+{}
+{}
+{}
+{}
+{}
+{54 1.720638}
+{}
+{}
+{18 1.720638}
+{}
+{9 1.216675,46 1.216675}
+{66 1.720638}
+{16 1.720638}
+{}
+{}
+{18 1.720638}
+{}
+{9 1.216675,46 1.216675}
+{60 1.720638}
+{31 1.720638}
+{}
+{9 1.216675,46 1.216675}
+{}
+{97 1.720638}
+{}
+{}
+{}
+{17 1.720638}
+{}
+{}
+{31 1.237409,85 1.195581}
+{53 1.720638}
+{}
+{31 1.237409,85 1.195581}
+{37 1.720638}
+{9 1.216675,46 1.216675}
+{103 1.720638}
+{}
+{}
+{118 1.720638}
+{}
+{}
+{}
+{}
+{22 0.992581,23 1.405481}
+{}
+{}
+{}
+{}
+{16 1.720638}
+{}
+{}
+{}
+{58 0.612104,124 0.743888,139 0.662821,154 0.743888,157 0.743888,158 0.697482}
+{65 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{66 1.720638}
+{}
+{58 0.558113,101 0.63596,128 0.63596,129 0.678273,155 0.678273,156 0.678273,159 0.678273}
+{61 1.720638}
+{41 1.720638}
+{}
+{}
+{}
+{}
+{58 0.558113,101 0.63596,128 0.63596,129 0.678273,155 0.678273,156 0.678273,159 0.678273}
+{34 1.720638}
+{}
+{}
+{}
+{}
+{26 0.682808,58 0.561845,124 0.682808,139 0.608397,154 0.682808,157 0.682808,158 0.640212}
+{}
+{}
+{}
+{}
+{}
+{}
+{34 1.720638}
+{17 1.720638}
+{15 1.088499,22 0.768722,64 1.088499}
+{}
+{}
+{}
+{}
+{}
+{}
+{26 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{25 1.086175,53 1.334474}
+{}
+{}
+{}
+{}
+{}
+{}
+{20 1.720638}
+{55 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{12 1.022009,57 1.022009,60 0.93359}
+{50 1.720638}
+{}
+{12 1.022009,57 1.022009,60 0.93359}
+{17 0.983441,32 1.411892}
+{}
+{}
+{}
+{35 1.720638}
+{}
+{}
+{19 1.720638}
+{}
+{}
+{}
+{}
+{6 1.720638}
+{}
+{27 1.720638}
+{60 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{26 1.720638}
+{35 1.720638}
+{}
+{}
+{}
+{}
+{}
+{32 1.720638}
+{67 1.720638}
+{19 1.278707,61 1.151305}
+{}
+{17 1.720638}
+{61 1.720638}
+{51 1.216675,63 1.216675}
+{}
+{}
+{15 1.405481,22 0.992581}
+{}
+{}
+{}
+{}
+{}
+{}
+{14 1.720638}
+{}
+{19 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{5 1.032157,45 0.910988,50 1.032157}
+{}
+{}
+{}
+{}
+{}
+{}
+{54 1.117265,89 1.308554}
+{}
+{}
+{22 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{161 1.720638}
+{}
+{}
+{}
+{}
+{50 1.720638}
+{1 0.667061,7 0.618907,8 0.701227,11 0.618907,21 0.618907,29 0.701227,47 0.618907}
+{7 0.860319,11 0.860319,21 0.860319,47 0.860319}
+{}
+{1 0.667061,7 0.618907,8 0.701227,11 0.618907,21 0.618907,29 0.701227,47 0.618907}
+{1 0.816272,7 0.757347,11 0.757347,21 0.757347,47 0.757347}
+{1 0.667061,7 0.618907,8 0.701227,11 0.618907,21 0.618907,29 0.701227,47 0.618907}
+{}
+{22 0.992581,43 1.405481}
+{}
+{7 0.860319,11 0.860319,21 0.860319,47 0.860319}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{22 0.768722,43 1.088499,51 1.088499}
+{}
+{}
+{}
+{}
+{13 1.287156,22 1.141851}
+{}
+{}
+{}
+{17 1.720638}
+{}
+{}
+{}
+{41 0.97646,59 1.026473,66 0.97646}
+{}
+{}
+{}
+{}
+{}
+{54 1.720638}
+{38 1.720638}
+{}
+{6 1.720638}
+{39 1.720638}
+{}
+{59 1.720638}
+{}
+{}
+{}
+{}
+{2 0.852763,24 0.852763,36 0.882598,42 0.852763}
+{}
+{}
+{2 1.216675,42 1.216675}
+{10 1.216675,62 1.216675}
+{}
+{45 1.720638}
+{16 1.720638}
+{}
+{}
+{}
+{}
+{65 1.720638}
+{}
+{}
+{}
+{}
+{13 1.720638}
+{}
+{}
+{}
+{}
+{40 1.720638}
+{54 1.720638}
+{45 1.720638}
+{67 1.720638}
+{2 0.852763,24 0.852763,36 0.882598,42 0.852763}
+{}
+{}
+{}
+{}
+{}
+{65 1.720638}
+{}
+{}
+{}
+{10 1.216675,62 1.216675}
+{147 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{125 1.720638}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{61 1.720638}
+{}
+{}
+{2 0.852763,24 0.852763,36 0.882598,42 0.852763}
+{49 1.720638}
+{}
+{}
+{}
+{}
+{}
+{10 1.216675,62 1.216675}
+{}
+{}
+{}
+{}
+{}
+{}
+{22 1.720638}
+{}
+{}
+{2 0.852763,24 0.852763,36 0.882598,42 0.852763}
+{}
+{}
+{34 1.720638}
+{}
+{10 1.216675,62 1.216675}
+{}
+{}
+{2 0.852763,24 0.852763,36 0.882598,42 0.852763}
+{5 1.720638}
+{61 1.720638}
+{}
+{}
+{19 1.278707,61 1.151305}
+{}
+{35 1.720638}
+{5 1.720638}
+{39 1.720638}
+{45 1.170295,66 1.26135}
+{}
+{}
+{3 0.851378,28 0.851378,33 0.886601,44 0.851378}
+{3 0.851378,28 0.851378,33 0.886601,44 0.851378}
+{}
+{3 0.786494,6 0.658834,28 0.786494,33 0.819033,44 0.786494}
+{56 1.720638}
+{3 0.993411,28 0.993411,44 0.993411}
+{}
+{}
+{}
+{}
+{45 1.720638}
+{}
+{56 1.720638}
+{41 1.720638}
+{}
+{64 1.720638}
+{53 1.216675,64 1.216675}
+{}
+{}
+{55 1.720638}
+{31 1.720638}
+{14 1.720638}
+{}
+{}
+{3 0.851378,28 0.851378,33 0.886601,44 0.851378}
+{}
+{}
+{}
+{}
+{}
+{22 0.992581,43 1.405481}
+{}
+{}
+{}
+{}
+{4 1.720638}
+{}
+{38 1.720638}
+{}
+{6 1.163354,38 1.267755}
+{}
+{}
+{}
+{}
+{22 0.992581,51 1.405481}
+{4 1.720638}
+{}
+{}
+{}
+{12 1.720638}
+{}
+{59 1.720638}
+{}
+{}
+{27 1.720638}
+{}
+{4 1.151305,40 1.278707}
+{71 1.720638}
+{24 0.99128,31 1.025961,61 0.961958}
+{}
+{}
+{27 1.720638}
+{}
+{4 1.151305,40 1.278707}
+{39 1.720638}
+{}
+{13 1.130465,37 1.297167}
+{}
+{89 1.720638}
+{}
+{37 1.720638}
+{37 1.720638}
+{}
+{}
+{22 0.992581,23 1.405481}
+{}
+{}
+{}
+{}
+{49 1.720638}
+{56 1.720638}
+{14 1.720638}
+{6 1.720638}
+{6 1.720638}
+{49 1.307387,56 1.118631}
+{}
+{}
+{}
+{}
+{}
+{}
+{144 1.720638}
+{15 1.405481,22 0.992581}
+{6 0.883817,13 0.919482,63 1.154996}
+{13 1.720638}
+{}
+{22 1.720638}
+{}
+{}
+{4 1.720638}
+{}
+{}
+{98 1.720638}
+{}
+{6 1.104909,97 1.319004}
+{56 1.720638}
+{}
+{144 1.720638}
+{}
+{}
+{}
+{38 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,88 0.960348,119 1.009536,140 1.009536}
+{0 NEG}
+{0 NEG}
+{0 NEG,75 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,89 1.720638}
+{0 NEG}
+{0 NEG,85 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,17 0.939533,121 1.441483}
+{0 NEG}
+{0 NEG,125 1.720638}
+{0 NEG,17 0.939533,121 1.441483}
+{0 NEG,71 1.720638}
+{0 NEG,88 0.960348,119 1.009536,140 1.009536}
+{0 NEG}
+{0 NEG,87 1.720638}
+{0 NEG}
+{0 NEG,25 1.720638}
+{0 NEG}
+{0 NEG,87 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,87 1.720638}
+{0 NEG}
+{0 NEG,81 0.679069,91 0.71385,94 0.71385,132 0.71385,133 0.71385,160 0.679069}
+{0 NEG}
+{0 NEG,81 0.679069,91 0.71385,94 0.71385,132 0.71385,133 0.71385,160 0.679069}
+{0 NEG}
+{0 NEG}
+{0 NEG,163 1.720638}
+{0 NEG,103 1.720638}
+{0 NEG}
+{0 NEG,13 1.720638}
+{0 NEG,13 1.720638}
+{0 NEG,81 0.679069,91 0.71385,94 0.71385,132 0.71385,133 0.71385,160 0.679069}
+{0 NEG}
+{0 NEG,25 0.600372,70 0.737617,76 0.737617,83 0.737617,85 0.651025,134 0.737617}
+{0 NEG}
+{0 NEG}
+{0 NEG,119 1.216675,140 1.216675}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,54 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,25 0.600372,70 0.737617,76 0.737617,83 0.737617,85 0.651025,134 0.737617}
+{0 NEG,103 1.720638}
+{0 NEG}
+{0 NEG,49 1.307387,56 1.118631}
+{0 NEG,25 0.600372,70 0.737617,76 0.737617,83 0.737617,85 0.651025,134 0.737617}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,97 1.720638}
+{0 NEG}
+{0 NEG,17 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.777681,101 0.886154,128 0.886154,158 0.886154}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.612104,124 0.743888,139 0.662821,154 0.743888,157 0.743888,158 0.697482}
+{0 NEG,26 1.720638}
+{0 NEG,26 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,89 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.612104,124 0.743888,139 0.662821,154 0.743888,157 0.743888,158 0.697482}
+{0 NEG,58 0.558113,101 0.63596,128 0.63596,129 0.678273,155 0.678273,156 0.678273,159 0.678273}
+{0 NEG}
+{0 NEG,17 0.669984,78 0.915008,142 0.915008,149 0.915008}
+{0 NEG,6 1.720638}
+{0 NEG,58 0.777681,101 0.886154,128 0.886154,158 0.886154}
+{0 NEG}
+{0 NEG,17 0.669984,78 0.915008,142 0.915008,149 0.915008}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.558113,101 0.63596,128 0.63596,129 0.678273,155 0.678273,156 0.678273,159 0.678273}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,103 1.720638}
+{0 NEG,58 0.612104,124 0.743888,139 0.662821,154 0.743888,157 0.743888,158 0.697482}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,58 0.558113,101 0.63596,128 0.63596,129 0.678273,155 0.678273,156 0.678273,159 0.678273}
+{0 NEG}
+{0 NEG,17 0.669984,78 0.915008,142 0.915008,149 0.915008}
+{0 NEG}
+{0 NEG,17 0.669984,78 0.915008,142 0.915008,149 0.915008}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,80 1.720638}
+{0 NEG}
+{0 NEG,106 1.720638}
+{0 NEG}
+{0 NEG,139 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,80 1.720638}
+{0 NEG,58 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,79 0.776914,84 0.776914,99 0.776914,136 0.739061,137 0.776914}
+{0 NEG}
+{0 NEG,118 1.720638}
+{0 NEG}
+{0 NEG,106 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,79 0.776914,84 0.776914,99 0.776914,136 0.739061,137 0.776914}
+{0 NEG,88 1.720638}
+{0 NEG}
+{0 NEG,79 0.776914,84 0.776914,99 0.776914,136 0.739061,137 0.776914}
+{0 NEG,68 1.720638}
+{0 NEG,89 1.720638}
+{0 NEG}
+{0 NEG,77 1.720638}
+{0 NEG}
+{0 NEG,77 1.720638}
+{0 NEG,77 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,67 1.720638}
+{0 NEG,152 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,95 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,13 1.027905,141 1.379858}
+{0 NEG,74 1.216675,143 1.216675}
+{0 NEG}
+{0 NEG}
+{0 NEG,161 1.720638}
+{0 NEG}
+{0 NEG,74 1.216675,143 1.216675}
+{0 NEG}
+{0 NEG}
+{0 NEG,86 0.993411,112 0.993411,113 0.993411}
+{0 NEG}
+{0 NEG}
+{0 NEG,54 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,141 1.307928,144 1.117998}
+{0 NEG,146 1.720638}
+{0 NEG}
+{0 NEG,40 1.720638}
+{0 NEG,86 0.993411,112 0.993411,113 0.993411}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,74 1.216675,143 1.216675}
+{0 NEG,95 1.216675,110 1.216675}
+{0 NEG,68 0.993411,109 0.993411,122 0.993411}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,68 0.993411,109 0.993411,122 0.993411}
+{0 NEG,109 0.910988,122 0.910988,139 0.741485,161 0.866602}
+{0 NEG,86 0.993411,112 0.993411,113 0.993411}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,45 1.720638}
+{0 NEG}
+{0 NEG,130 1.720638}
+{0 NEG,75 1.720638}
+{0 NEG,136 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG,145 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,13 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG,69 1.216675,80 1.216675}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG}
+{0 NEG,54 1.720638}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG}
+{0 NEG}
+{0 NEG,54 1.720638}
+{0 NEG,14 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG,100 0.704512,105 0.704512,108 0.704512,116 0.704512,127 0.692031,131 0.704512}
+{0 NEG,67 0.929728,69 1.085499,152 0.958068}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,73 0.640909,100 0.490432,105 0.490432,108 0.490432,116 0.490432,117 0.609682,120 0.609682,123 0.609682,127 0.481743,131 0.490432}
+{0 NEG,139 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,100 0.52846,105 0.52846,108 0.52846,116 0.52846,117 0.656958,120 0.656958,123 0.656958,127 0.519098,131 0.52846}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,73 0.640909,100 0.490432,105 0.490432,108 0.490432,116 0.490432,117 0.609682,120 0.609682,123 0.609682,127 0.481743,131 0.490432}
+{0 NEG,73 0.640909,100 0.490432,105 0.490432,108 0.490432,116 0.490432,117 0.609682,120 0.609682,123 0.609682,127 0.481743,131 0.490432}
+{0 NEG,127 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,67 0.929728,69 1.085499,152 0.958068}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.720638}
+{0 NEG,17 0.803554,104 1.097426,144 1.053827}
+{0 NEG}
+{0 NEG,17 1.720638}
+{0 NEG,148 1.720638}
+{0 NEG,17 0.775226,104 1.058739,148 1.112966}
+{0 NEG,17 0.775226,104 1.058739,148 1.112966}
+{0 NEG,162 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,17 1.016514,104 1.38827}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,88 1.185925,163 1.246666}
+{0 NEG}
+{0 NEG,102 1.720638}
+{0 NEG,115 1.720638}
+{0 NEG,13 1.287156,22 1.141851}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,146 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,72 0.97646,115 0.97646,126 1.026473}
+{0 NEG}
+{0 NEG,72 0.688955,92 0.724243,93 0.724243,115 0.688955,125 0.661585,126 0.724243}
+{0 NEG,72 0.846441,92 0.889794,93 0.889794,125 0.812813}
+{0 NEG,72 0.688955,92 0.724243,93 0.724243,115 0.688955,125 0.661585,126 0.724243}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,118 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,17 1.720638}
+{0 NEG}
+{0 NEG,54 1.720638}
+{0 NEG,102 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,98 1.720638}
+{0 NEG}
+{0 NEG,71 0.825648,96 0.766046,151 0.743386,153 0.766046,162 0.743386}
+{0 NEG}
+{0 NEG,96 0.873136,151 0.847308,153 0.873136,162 0.847308}
+{0 NEG,96 0.873136,151 0.847308,153 0.873136,162 0.847308}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,96 0.873136,151 0.847308,153 0.873136,162 0.847308}
+{0 NEG}
+{0 NEG}
+{0 NEG,97 1.216675,114 1.216675}
+{0 NEG}
+{0 NEG}
+{0 NEG,67 1.720638}
+{0 NEG}
+{0 NEG,96 0.873136,151 0.847308,153 0.873136,162 0.847308}
+{0 NEG,22 1.720638}
+{0 NEG}
+{0 NEG,163 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,38 1.720638}
+{0 NEG,114 1.255196,151 1.176893}
+{0 NEG}
+{0 NEG}
+{0 NEG,96 0.873136,151 0.847308,153 0.873136,162 0.847308}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,110 1.720638}
+{0 NEG,54 1.720638}
+{0 NEG}
+{0 NEG,56 1.720638}
+{0 NEG,75 1.720638}
+{0 NEG,6 1.104909,102 1.319004}
+{0 NEG,6 1.104909,102 1.319004}
+{0 NEG,54 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,38 1.720638}
+{0 NEG,114 1.720638}
+{0 NEG}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG,22 1.052404,102 1.361265}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG,90 0.845903,111 0.845903,147 0.902185,150 0.845903}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG,90 0.993411,111 0.993411,150 0.993411}
+{0 NEG}
+{0 NEG}
+{0 NEG,114 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,118 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,82 1.720638}
+{0 NEG}
+{0 NEG,71 1.720638}
+{0 NEG}
+{0 NEG,130 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,35 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,98 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,138 1.720638}
+{0 NEG,38 1.720638}
+{0 NEG,38 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,6 1.104909,144 1.319004}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,95 1.720638}
+{0 NEG,82 1.720638}
+{0 NEG}
+{0 NEG,82 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,107 1.185925,138 1.246666}
+{0 NEG,107 1.185925,138 1.246666}
+{0 NEG}
+{0 NEG}
+{0 NEG,107 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,130 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,135 1.720638}
+{0 NEG,97 1.216675,135 1.216675}
+{0 NEG,67 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG,37 1.720638}
+{0 NEG,56 1.14466,135 1.284659}
+{0 NEG}
+{0 NEG}
+{0 NEG,152 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,56 1.14466,135 1.284659}
+{0 NEG}
+{0 NEG}
+{0 NEG,139 1.720638}
+{0 NEG}
+{0 NEG,107 1.720638}
+{0 NEG,146 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,110 1.720638}
+{0 NEG,152 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,147 1.720638}
+{0 NEG,35 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,98 1.720638}
+{0 NEG}
+{0 NEG,135 1.216675,147 1.216675}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,145 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,147 1.720638}
+{0 NEG,152 1.720638}
+{0 NEG}
+{0 NEG,161 1.720638}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,98 1.720638}

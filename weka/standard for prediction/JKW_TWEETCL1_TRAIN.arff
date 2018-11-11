@@ -1,0 +1,1106 @@
+@relation JKW_TWCL_TRAIN
+
+@attribute TWEETCL_ string
+@attribute LABEL_ {POS,NEG}
+
+@data
+'senyumnya pak manis juga ternyata',POS
+'tante sarseh dukung jk kah salam jari',POS
+'jk yg ada adalah peningkatan kualitas guru trmsk sertifikasi tdk katakan sertifikasi ditiadakan krn ada di uu',POS
+'hmm tegaskan tak akan hapus sertifikasi guru jpnn pilpres',POS
+'haha yeyy ertehh salam jari yeyy',POS
+'suka dengan perubahan ke arah lebih baik jakarta di tangan ahok ahok yg kerja dilead dr istana akn lbh baik',POS
+'fitnahmu basi tetap melaju by',POS
+'ini komentar media internasional soal lagu salam dua jari cerdaspilih salam jari',POS
+'uyee bgt kebanggaan seniman pendukung kalla adalah tidak ada yg dibayar',POS
+'gue bikin no yang artinya ayo pilih',POS
+'tjahjo kumolo yakin tetap unggul pintarpilih',POS
+'menabung harapan untuk indonesia bersama kita',POS
+'kampanye di tasikmalaya juni',POS
+'manado today sarundajang orang cerdas pilih pintarpilih',POS
+'makasih teh ihihi ahahaha jadi simpatisme',POS
+'stand on the right side salam jari jangan lupa coblos prahara or',POS
+'istri bupati jayawijaya kumpulkan seribu tanda tangan untuk pintarpilih',POS
+'ya semua prestasi itu kurang konkrit apaan di berita ada kan bedanya klo dia kerja di blg',POS
+'hari santri nasional apresiasi kearifan lokal',POS
+'seniman yang kerap golput putuskan pilih',POS
+'tp tenang tetep menang kok krn tuhan tidak akan membiarkan iblis org jahat menang masa tuhan kalah dgn iblis itu gk mgkn',POS
+'media center komunitas sobat di adelaide dukung pintarpilih',POS
+'ayo mari gabung seribu pendukung nonton bareng debat di tugu proklamasi',POS
+'alasan kh hasyim muzadi memilih salam jari menangmutlak',POS
+'buruh dan lsm sidoarjo deklarasi',POS
+'kharisma kerakyatan jadi faktor surplus untrak',POS
+'cerdaspilih kreativitas manusia sumber daya ekonomi utama ekonomi kreatif beragam jenisnya harus diberi ruang oleh negara',POS
+'biker lebih jabodetabek deklarasi sahur on the road untuk bersama projo pintarpilih',POS
+'gue gak gimana gimana banget sama tbh tapi karena lawannya gak lebih baik dari dia maka gue gak ada alasan untuk gak pilih dia',POS
+'pemilihan presiden adalah sebuah kegembiraan politik pintarpilih',POS
+'yg ada adalah peningkatan kualitas guru trmsk sertifikasi tdk katakan sertifikasi ditiadakan krn ada di uu pintarpilih',POS
+'icw visi misi terkait isu antikorupsi jauh lebih baik',POS
+'yakin raih persen di papua',POS
+'hidup satu bendera by tangga',POS
+'pbw kalau bukan kita siapa lagi jkw adalah kita kesimpulan kalau bukan siapa lagi',POS
+'komunikasi kan dua arah jadi selama dan wartawan saling ngerti gak ada masalah kalo soal medoknya mau diapain lagi',POS
+'cerdaspilih kalau negara kita mau maju indonesia harus memiliki manusia manusia dengan mental juara disektor apapun itu',POS
+'slank pilih karena kesederhanaannya dan jauh dari korupsi',POS
+'mau dibilang capres bodoh dungu koruptor pki gak masalah yg penting bukti bukan koar aja basi tau salam jari hidup',POS
+'pdip diminta bantu relawan menangkan',POS
+'cak imin sesumbar raih persen di jatim',POS
+'bukti pak support pak jk selalu dwi tunggal indonesia pintarpilih tiapkali jeda iklan sambangi jk',POS
+'gue bukan buzzer dan demi allah gue nggak sama sekali dibayar buat nyuruh milih ini demi kebaikan negara',POS
+'slank pilih karena kesederhanaannya dan jauh dari korupsi jk kampanye',POS
+'yuk para relawan promosikan capres nomor dg mudah download materinya disini',POS
+'negara ini harus menjadi negara produksi bukan negara konsumsi pintarpilih',POS
+'penyandang disabilitas palembang dukung jadi presiden',POS
+'indahnya indonesia insya allah terwujud bersama pasangan nomor salam jari menangmutlak',POS
+'mari kita dukung prabochor subianto menjadi macan asia dan dukung sbg presiden ri pintarpilih',POS
+'menciptakan lapangan kerja baru bagi juta tenaga kerja kata didiek sementara tim ekonomi jk arif',POS
+'kurang dari tahun sudah membersihkan dan membangun taman baru seperti waduk pluit dan waduk ria rio prestasi',POS
+'dari orang di jakarta bilang banyak perubahan di jakarta',POS
+'cerdaspilih kita tdk akan mengirim tki pada negara yg tdk pny undang tenaga kerja yg jelas',POS
+'salam dua jari jangan lupa pilh',POS
+'janji tetapkan hari santri nasional',POS
+'sejak kecil saya tak pernah mimpi jadi presiden pintarpilih',POS
+'hubungan australia indonesia soal trust dan kewibawaan pintarpilih',POS
+'pendukung gelar spanduk sindir garuda merah',POS
+'tetangga lewat pintarpilih',POS
+'ahok terang terangan pilih',POS
+'no bekerja salamduajari kta dlm abjad indonesia dpmya dan stlah adalah brrti',POS
+'mantap saya dukung kallah eeaa',POS
+'ratusan alumni itb dan pakar it ramaikan nobar di media center berat nh backingan nya',POS
+'tanggal july ad pesta demokrasi slm jari jngan lupa plih jkart',POS
+'pintarpilih wah yang di tugu proklamasi makin menguatkan dukungan pada pintarpilih',POS
+'udah gak ragu lagi pilih pak karna saya udh merasakan progam nya pak saat memimpin dki jakarta',POS
+'konser ngabuburit di bandung slank kami dukung cerdaspilih pintarpilih salam jari',POS
+'video dokumentasi swadaya sumbangan arief kiano dlm jogja istimewa utk monggo',POS
+'cerdaspilih jika terpilih akan meningkatan alutsista dan kesejahteraan prajurit tni',POS
+'kamera yg nyari jkw bukan jkw yg cari kamera',POS
+'netizen pertemukan dengan dua tukang becak dan keluarga supir angkot pintarpilih',POS
+'komunitas sobat di adelaide dukung mantap nih pintarpilih',POS
+'junjung tinggi bineka tunggal ika dan pancasila revolusimental jkw ri mikir',POS
+'giring yakin pilih setelah nonton debat',POS
+'like ratusan alumni itb dan pakar it ramaikan nobar di media center',POS
+'hidup itebe ratusan alumni itb dan pakar it ramaikan nobar di media center',POS
+'info alasan gede pasek berlabuh ke',POS
+'iya sudah membuktikan secara sederhana bahwa masalah distribusi bisa diatasi jika ada sedikit kemauan dari pemerintah',POS
+'ide adlh mahal tp kemahalan tdk mnjadi nilai bila tdk dilakukan jkw ada dg tren ide kinerjanya yg membuka mata unt perubahan',POS
+'tepis fitnah dengan kerja nyata pak bangett pintarpilih',POS
+'adalah satu satunya pembawa perubahan ke arah lebih baik terbukti kinerjanya solo dan jakarta byak mengubah mental birokrasi',POS
+'visi misi udah jelas banget lho jadi ngapain bingung nentuin pilihan pintarpilih',POS
+'tak akan menghapus sertifikasi guru salam jari pintarpilih',POS
+'tim sukses pemenangan membentuk satuan tugas satgas khusus anti kecurangan dan politik',POS
+'berharap menang dan siap menunggu project minggu ratusan alumni itb dan cont',POS
+'industri kreatif harus maju pintarpilih',POS
+'pengusaha apresiasi penjelasan soal wto pintarpilih',POS
+'bikin melting mulu nih ini pak asik juga tiap disorot kamera pasti senyum ah aku padamu lah pak',POS
+'sudah membuktikan secara sederhana bahwa masalah distribusi bisa diatasi jika ada sedikit kemauan dari pemerintah pintarpilih',POS
+'keliling temanggung magelang ganjar kampanyekan suara merdeka cybernews magelang',POS
+'kopiah gus dur untuk via',POS
+'melakukan penggalangan dana kampanye untuk karena kesederhanaan sosok figur visi dan misi capres cawapres nomor urut',POS
+'dua tersebut pak kan sosok yang sangat sederhana beliau berteman dekat dengan rakyat membela pedagang juga dan',POS
+'ratusan alumni itb dan pakar it ramaikan nobar di media center ratusan itu bukan ribuaan jutaan',POS
+'pilihi capres no urut udah pasti baik orang nyaa',POS
+'cerdaspilih hubungan australia indonesia soal trust dan kewibawaan',POS
+dukung,POS
+'timses minta bawaslu proaktif awasi potensi pelanggaran kampanye pintarpilih',POS
+'jadilah pendukung yang aktif kontribusi nyata untuk masa depan bangsa bersama',POS
+'eaa qaqa uyee bgt kebanggaan seniman pendukung adlh tdk ada yg dibayar semua krn nurani jernih tulus',POS
+'salam jari jangan lupa tanggal juli pilih jk',POS
+'dedication of life karya animasi untuk jk via',POS
+'salam jari setiap lihat pak senyum hatiku ikut senyum nyes pleng tentrem',POS
+'seribu pendukung nonton bareng debat di tugu proklamasi cerdaspilih pintarpilih salam jari',POS
+'apapun yang terjadi tetap pilih itu pilihan yang terbaik salam jari',POS
+'jumlah relawan dekati satu juta pintarpilih',POS
+'no bekerja salamduajari no bekerja salamduajari no bekerja salamduajari no bekerja salamduajari semangat pak fighting capres ri',POS
+'itu hak anak bangsa bro kita juga nggak kenal mereka kata demokrasi adlh kegembiraan itu sj',POS
+'anak muda tak lagi golput karena effect republika online',POS
+'yuuk bicara bocor setiap hari pintarpilih cerdaspilih dan jk',POS
+'dan restorasi maritim untrakyat',POS
+'seribu pendukung nonton bareng debat di tugu proklamasi via pintarpilih',POS
+'ada ak yu salam dua jarii hahaa ini kenapa si orang orang yg saya kenal dan berada disekitar saya ga ada yg dukung',POS
+'cerdaspilih pengusaha apresiasi penjelasan soal wto',POS
+'kalo sebelah dibayar kebanggaan seniman pendukung kalla adalah tidak ada yg dibayar semuanya karena nurani',POS
+'mancing bareng relawan seribu ikan ditabur persen suara ditarget salakopi mancing bareng diad',POS
+'internasional apresiasi gagasan jk soal pendidikan calon presiden nomor urut mengap',POS
+'internasional apresiasi gagasan jk soal pendidikan',POS
+'dinilai bisa jadikan indonesia poros maritim dunia pintarpilih',POS
+'irmadi yg bisa kembalikan kepercayaan rakyat pintarpilih',POS
+'banyak banget seniman indonesia yang dukung mantap',POS
+'alumni canisius jakarta deklarasi dukung',POS
+'demikianlah alumni sekolah kanisius kompak dukung',POS
+'salam dua jari jangan lupa pilih nyanyi',POS
+'dari debat capres cawapres pak pak jk memang terbukti mereka adalah type pekerja keras bekerja cepat bukan tukang obat jago pidato',POS
+'komunitas sobat di adelaide dukung pintarpilih',POS
+'memanglah yang terbaik adalahkita',POS
+'cerdaspilih persen pendidikan di sd harus menyangkut akhlak dan mental',POS
+'mantap ratusan alumni itb pakar it ramaikan nobar di media center',POS
+'bang di sini juga ratusan alumni itb dan pakar it ramaikan nobar di media center',POS
+'alhmdlh yovi widianto cinta laura jg dukung revolusi mental salam jari',POS
+'kurang dari dua tahun memanusiakan jakarta taman dipercantik trotoar diperbaiki akses publik ke balaikota dibuka lebar',POS
+'salam jari genius semua yg dibelakang pak',POS
+'aku benar benar terinspirasi seorang cinta laura cerdaspilih revolusi mental',POS
+'anti jual diri kebanggaan seniman pendukung kalla adalah tidak ada yg dibayar semuanya karena nurani jernih tulus',POS
+'cerdaspilih percuma pertumbuhan ekonomi baik kalau tak ada pemerataan',POS
+'mega ayoo mari kita pilih pak banteng kurus kurus bukan karena ga makan lho tapi krna banyak tekanan perasaan hahaha',POS
+'purnamarindu warga ngawi sumbang ton beras buat salam jari nomor antikkn',POS
+'oke night pak nice dream no bekerja salamduajari salam jari haha',POS
+'mendengar suara rakyat itu penting',POS
+'ayo jaga dan tingkatkan jumlah pemilih kita survei mayoritas warga nu dan muhammadiyah pilih',POS
+'pak jk mungkin gk begitu pintar beretorika tapi yg pasti dia dan akan bekerja optimis salam jari',POS
+'bwt indnsia aq plh aja dh',POS
+'cerdas cerdas byngkan dia dari gub solo dy bagus akhirnya nae jakarta jadi nd bisa diragukan dy bacalon nah nomor',POS
+'pemimpi banyak retorika kita butuh pemimpin yg hobi kerja ya hanya jk',POS
+'akan bekerja keras membuat pemerataan pembangunan jk pintarpilih pintarpilih',POS
+'last salam jari jangan lupa pilih',POS
+'cerdaspilih irmadi yg bisa kembalikan kepercayaan rakyat',POS
+'salam dua jari jangan lupa pilih kalau beda jangan marah kita tetap saudara jkw',POS
+'seorang kakek datang ke bank menyumbang demi respect',POS
+'goresan ini kupersembahkan untuk bpk pintarpilih',POS
+'persahabatan global dan amerika bag pintarpilih',POS
+'salam foto dengan artisnya tapi pilih hahaha',POS
+'slam jari ayo kita pilih debatcapresdncawapres',POS
+'jam pagi waktu banjir mengunjungi penjaga pintu air bawa makanan gubernur mana yg melakukan ini',POS
+'cerdaspilih ingin warga berpenghasilan rendah tetap mudah beli rumah',POS
+'dahsyatnya gerakan sayang stop bicara capres sebelah',POS
+'untung capresnya bukan beliau',POS
+'bu risma yg sendirian bisa nutup dolly juga dukung yuk temen temen gabung sama bu risma pintarpilih',POS
+'semua wajib nonton presiden republik indonesia',POS
+'pulang lewat tengah malam bangun pagi untuk sholat jam kerja lagi kerja kerja kerja',POS
+'jarang datang di mana di dunia dalam sejarah pemimpin seperti saat ini indonesia yang dapet kalau ga dipake itu akan sayang skl',POS
+'ahmad basarah aneh elektabilitas turun tapi dukungan membludak pintarpilih',POS
+'adalah cermin rakyat yg sesungguhnya jk pintarpilih',POS
+'setiap lihat pak senyum hatiku ikut senyum nyes pleng tentrem',POS
+'sekarangjuga ayo tingkatkan jumlah pemilih kita survei mayoritas warga nu muhammadiyah cerdaspilih',POS
+'debat ke harap perhatikan closing statement krn point tertinggi pemilih ada disitu smoga bisa lakukan dgn baik',POS
+'demam kreatif hanya di kubu melahirkan semangat dan kreativitas anak muda ri pemimpin adlh panutan',POS
+'pilih siapa pak',POS
+'keren nih net wawancara bareng net',POS
+'kata sofian wanandi kalau pengusaha dan buruh sepakat untuk mendukung maka dia tidak percaya jika tidak menang',POS
+'salam jari mau mendengar rakyat aplg suara dr mrka yg memiliki',POS
+'ku yakin pilihanku nomer satu yaiyyalah nomer satu kan nomer dua nya pak kurang kreatif yang bikin lagu',POS
+'mantapkan hati pilih nomor',POS
+'kh hasyim muzadi bukan capres boneka jpnn pilpres',POS
+'temukan visi misi dan program aks untuk indonesia unduh visi misi di sini',POS
+'keren nih video animasi kampanye makin yakin dunia animasi indo pnya masa depan cerah',POS
+'komunitas revolusi harmoni salam jari jangan lupa pilih lewat',POS
+'premis capres no kalau bukan kita siapa lagi premis capres no adalah kita kesimpulan kalau bukan siapa lagi',POS
+'kabar aktual apresiasi gagasan jk soal pendidikan',POS
+'salam jari dr kami hejo hebat mantep bingitss',POS
+'apresiasi gagasan jk soal pendidikan calon presiden nomor urut mengapresiasi performa',POS
+'ada berapa banyak rumah susun yang dibangun coba deh ke marunda kalian lihat kehidupan di sana rumah hidroponik yg dibangunnya',POS
+'jangan lupa pilih coblos no salam jari',POS
+'lima juta jemaah shiddiqiyyah dukung tempo co',POS
+'komunitas alumni sekolah kanisius yang tergabung dalam komunitas alumni cc pagi ini mendeklarasikan',POS
+'jangan lupa pilih',POS
+'demi jk bu risma all out di surabaya',POS
+'kita satu saudara kalau beda jangan marah kita hanya cari pemimpin bukan cari pemimpi salam jari jangan lupa pilih',POS
+'salam damai indonesia untuk simbol garuda sejai cerdaspilih garuda',POS
+'lumayan fi jd timses bs buat nabung duit lo byk deh tp juli pilih yaah salam jari',POS
+'apa aku harus kayak dek blusukan ke hatimu biar tau isi hatimu itu apa oalah',POS
+'para musisi hebat harus dukung dongg love you pak',POS
+'lagu dukungan indonesia hebat presiden ku jkw presiden',POS
+'pintarpilih para laskar tetap semangat yakinlah kita sedang berpartisipasi membangun demokrasi indonesia yg lebih baik',POS
+'kisah cinta iriana pintarpilih',POS
+'wah pasti ngikutin om mario makanya senyum mulu ga kaya lawannya yang kaya orang nahan buang air',POS
+'pkb kirim kader ke malaysia untuk raih suara tki guna memenangkan pasangan pkb mengirim',POS
+'emg knp gue kritik jk kan gue uda blg ada ngaconya prahara ada benernya tapi ada poin yg bikin gue saklek milih',POS
+'yassaalam jd ga peduli ama visi misi segala macem langsung aja gue coblos kalo gini mah',POS
+'yuhuu yow salam jari hidup',POS
+'jangan lupa ya teman tanggal juli jangan lupa coblos no urut yaitu salam dua jari',POS
+'abis nonton bincang di net tv bagus banged itu merakyat banged view on path',POS
+'pilih pintarpilih salam jari buat lovers',POS
+'hahaha mbak putus asa melihat betapa fisik tidak menentukan prestasi kan makanya rajin belajat biar pintat spt he he',POS
+'ratusan alumni itb dan pakar it ramaikan nobar di media center',POS
+'apa efeknya kalau menjadi presiden yuk simak efeknya di cerdaspilih pintarpilih salam jari',POS
+'pkb kirim kader ke malaysia untuk raih suara tki guna memenangkan pasangan pkb mengirim seju',POS
+'khusus fans ada aplikasi penambah followers nih',POS
+'dukungan komunitas pecinta ka bah untuk pintarpilih',POS
+'banyak orang orang baik yang saya hormati gagal golput tahun ini karena saya belum menemukan itu di kubu sebelah pintarpilih',POS
+'orang pintar pasti plh no pintarpilih',POS
+'tak akan menghapus sertifikasi guru cerdaspilih pintarpilih salam jari',POS
+'tripel helix itu konsep nya ini saya ksih link penjelasan triple helix',POS
+'beritaupadate apresiasi gagasan jk soal pendidikan calon presiden nomor urut jo mentionforfolback',POS
+'infojakarta ratusan alumni itb dan pakar it ramaikan nobar di media center lebih dari seratus alum',POS
+'kumpulan sarjana sumatera utara kssu deklarasi dukung',POS
+'presidenno apresiasi gagasan jk soal pendidikan calon presiden nomor urut jok jkadalahkita',POS
+'sampaikan pda mereka pilih yg terbaik diantara yg baik bagi saya pak itu yg terbaik maka kmu jgn golput',POS
+'juta tki siap dukung',POS
+'kyai di riau dengan basmallah kami dukung',POS
+'giliran pemuda jakarta dukung untrakyat',POS
+'timses memiliki cita cita besar untuk indonesia timur',POS
+'salam jari pintarpilih indonesia',POS
+'sekedar berargument knp sy condong ke karena menilai kejahatan ham itu tidak bisa diampuni dngn alasan apapun',POS
+'jadi presiden akan habiskan waktunya bersama rakyat cerdaspilih',POS
+'minta kader partai dan relawan bersinergi pintarpilih',POS
+'kh hasyim muzadi bukan capres boneka',POS
+'timses memiliki cita cita besar untuk indonesia timur arg bra eng esp',POS
+'gus dur apapun agamamu kalau km baik perbuatannya orang ga akan memandang agamamu kolom agama di ktp perlu dihapus ad korelasi',POS
+'ratusan alumni itb dan pakar it ramaikan nobar di media center via',POS
+'ya betul salam dua jari selalu di hati no bekerja salamduajari',POS
+'kader demokrat bali deklarasikan komunitas pemilih dua dukung',POS
+'jk sukanya kerja tak pintar bicara',POS
+'jamu sehat cap untrakyat',POS
+'iya tp gw yakin sih jg ngak bersih amat tapi ada harapan di mereka',POS
+'organisasi kesundaan bentuk dulur',POS
+'kingnews nilai jk tampil dengan paket komplit',POS
+'kingnews kh hasyim muzadi bukan capres boneka',POS
+'di sign language kita bisa punya nama versi sign perhatiin pas bagian penerjemahnya memberi isyarat jari tangan metal dan huruf',POS
+'tol laut bagi penting untuk memenuhi rasa keadilan rakyat cerdaspilih',POS
+'ekonomi apresiasi gagasan jk soal pendidikan calon presiden nomor urut mengapresias',POS
+'dalam pesan tersebut arifin ilham mengatakan kita dukung untuk memimpin kita dukung untuk',POS
+'jkw batam relawan di batam lesehan relakan rumah dan kios jadi posko',POS
+'hindarkan isu fitnah terhadap jkw mereka hanya ingin menjatuhkan',POS
+'para laskar tetap semangat yakinlah kita sedang turut berpartisipasi membangun demokrasi indonesia yang lebih baik jkw',POS
+'jk sukanya kerja tak pintar bicara pak jk itu sama dengan saya sukanya kerja bicara ndak pinter',POS
+'detik puji penampilan cawapresnya jk kuat penguasaan di lapangan capres mengaku bangga',POS
+'hari berturut turut relawan se jabar gelar doa bersama untuk pintarpiilih',POS
+'optimis pertumbuhan ekonomi indonesia bisa di atas persen cerdaspilih',POS
+'pak jk saya sgt kagum dgn penampilan bapak tadi semoga bapak dan pak bs menang di tgl juli nnt salam jari pintarpilih',POS
+'jubir sindir soal paparan riset hatta di debat cawapres juru bicara tim pemenangan jusuf ka',POS
+'jadi presiden ahok jd gubernur jkt prabocor jd macan asia capresbocor mikir',POS
+'tak akan menghapus sertifikasi guru pintarpilih',POS
+'polhukam apresiasi gagasan jk soal pendidikan calon presiden nomor urut mengapresia',POS
+'jk dorong subsidi silang biaya sekolah via',POS
+'pintarpilih antarkan jk naik ke panggung debat',POS
+'openfollow puji penampilan cawapresnya jk kuat penguasaan di lapangan capres jo mentionforfollback',POS
+'apresiasi gagasan jk soal pendidikan plhkm',POS
+'elektabilitas masih tinggi meski diserang propaganda hitam yahoo news indonesi via',POS
+'jk dorong subsidi silang biaya sekolah',POS
+'tegaspilih pak emang berkharisma enggak ngapusi tetap pilih takmau berpaling',POS
+'kiai nu tangerang utara dukung',POS
+'puji penampilan cawapresnya jk kuat penguasaan di lapangan pintarpilih',POS
+'timses mengkritik jawaban mengenai alasan impor beras yang salah satunya',POS
+'capres mengaku bangga dengan penampilan cawapresnya di ring debat kata jk',POS
+'debat bela adian napitupulu ditakuti pihak lawan',POS
+'puji penampilan cawapresnya jk kuat penguasaan di lapangan capres mengaku bangga dengan',POS
+'relawankalbar jkw indonesiahebat pameran foto kampanye kreatif pamerkan foto jumbo solopos',POS
+'yuk kampanye kreatif ajak jg teman yg lain untk mendukung pak generasioptimis',POS
+'terimakasih jkw untuk negeri pintarpilih',POS
+'masyarakat sumbang pintarpilih',POS
+'cinta laura dukung revolusi mental',POS
+'dinilai sebagai kepala keluarga yang jujur',POS
+'di mata dahlan iskan pintarpilih',POS
+'saya bangga ke jk penguasaan lapangan kelihatan pintarpilih',POS
+'adalah kita dukungan tulus dari para pekerja seni dkk',POS
+'dukungan untuk palestina diharapkan dulang kemenangan di pilpres',POS
+'warga strenkali surabaya tdk cm cat genteng tulisan tp jg galang dana',POS
+'jk sdh tak diragukan puji jk kuasai materi debat ketularan revolusimental',POS
+'csis pdi potensial menangkan',POS
+'kpk yakin mampu mengatasi korupsi pintarpilih',POS
+'teknologi saya bangga ke jk penguasaan lapangan kelihatan assadiqulhaq',POS
+'nomor untuk pintarpilih',POS
+'persahabatan global dan amerika bag untraky',POS
+'debat cawapres tim puas dengan penampilan jk quick news',POS
+'kampanye bersama slank di surabaya tempo co surabaya pintarpilih',POS
+'pemilih wowo kalangan menengah itu seperti keju pemilih seperti semut dibawah tikar gak kelihatan namun akan muncul disaat yg tepat',POS
+'siapapun yg terpilih harus menepati janji nya tp kami yakin akan menepatinya jika terpilih',POS
+'wah otak ente bener sampah kalo fakta udah dipenjara bro itu bukan fakta tp tuduhan',POS
+'secara nyata dukungan pasangan capres cawapres di wilayah prov jatim jateng jabar tetap unggul pasangan dibandingkan prahara',POS
+'survei indo barometer bila pemilu hari ini menang',POS
+'ngikutin feelling lu kali eug mah tetap',POS
+'di mata syafii maarif pintarpilih',POS
+'bukti bahwa memang dicintai rakyat kecil pintarpilih',POS
+'ribuan umat islam di lombok doakan menang juru bicara khofifah indar parawansa mewaspad',POS
+'sebuah lagu yang terinspirasi dari kesedrhanaan dan kerja keras rakyat untuk indonesia',POS
+'surakarta bukan capres boneka jpnn com bukan capres bonekajpnn comm',POS
+'tawarkan solusi korban lapindo pintarpilih',POS
+'pendukung bikin gerakan juta relawan saksi',POS
+'kspsi syukur sapto deklarasikan dukungan ke',POS
+'lawan prahara kampanye hitam dan intimidasi sgt mempengaruhi elekta',POS
+'ini fakta ibu risma dukung penuh pintarpilih',POS
+'populer di malaysia pintarpilih',POS
+'persen suara di los angeles ke',POS
+'internet saya bangga ke jk penguasaan lapangan kelihatan',POS
+'aku benar benar terinspirasi seorang cinta laura yg sudah menjalankan revolusi mental',POS
+'tenaga sosial dukung',POS
+'lilmissphoebe hal yang berubah di jakarta pada masa pilih',POS
+'saya bangga ke jk penguasaan lapangan kelihatan enggan memberikan penilaian kepada penampilan jk',POS
+'cuma ngingetin aja gub sumsel aja tumbang lawan',POS
+'meski wajah ndeso otak saya internasional pintarpilih',POS
+'saya difitnah sabar sabar sabar pintarpilih',POS
+'relawan keluarga nusantara deklarasikan dukung salam jari pintarpilih',POS
+'tak akan umumkan kabinetnya sebelum dipastikan menang pintarpilih',POS
+'warga ngawi sumbang ton beras buat salam jari nomor antikkn',POS
+'salam jari jangan lupa pilih',POS
+'dukung relawan jakarta baru ganti nama jadi laskar biji kopi pintarpilih',POS
+'kspsi syukur sapto deklarasikan dukungan ke pintarpilih',POS
+'tak akan menghapus sertifikasi guru pintarpilih pintarpilih',POS
+'pintarpilih ponpes pegang peranan penting untuk revolusi mental',POS
+'lewat obor kita bicara kebaikan pintarpilih ok broo',POS
+'pkb maksimalkan waktu tersisa menangkan pintarpilih',POS
+'usai bertemu slank kita butuh capres yang beri harapan pintarpilih',POS
+'janji pangkas sistim perizinan pintarpilih',POS
+'dukungan kepada dari warga dan pengusaha keturunan tionghoa',POS
+'janjikan bbm murah untuk nelayan pintarpilih',POS
+'deklarasi tim kampanye dan relawan pintarpilih',POS
+'sebut jk tak pintar bicara tapi kerja pintarpilih',POS
+'flashmob penari untuk pintarpilih',POS
+'lsn masih tetap unggul',POS
+'relawan jakarta baru tegaskan tetap dukung pintarpilih',POS
+'masyarakat adat janjikan kemenangan untuk di kutai barat pintarpilih salam jari',POS
+'di bekasi mega tegaskan bukan capres boneka',POS
+'ruhut sitompul demokrat netral tapi kata hati aku',POS
+'yahoonews ruhut sitompul demokrat netral tapi kata hati aku berita',POS
+'deklarasi tenaga sosial dukung peta bisnis',POS
+'fitnah yg terjadi pada menjadi keyakinan rakyat dipelosok nkri bahwa menjadi dukungan rakyat sepenuhnya utk memenangkan suara',POS
+'play the logic baca bang kenapa pilih kasih penjelasan dong',POS
+'dinilai sebagai simbol representasi rakyat salam jari pintarpilih',POS
+'yuk dkng pak dng kampanye kreatif brsma generasioptimis di pintarpilih',POS
+'jika terpilih akan meningkatan alutsista dan kesejahteraan prajurit tni pintarpilih',POS
+'saya bangga kepada penguasaan lapangan kelihatan',POS
+'apapa salam jari',POS
+'kunjungi tempat klahiran gus dur calon presiden mengunjungi tmpat klahiran mantan presi pintarpilih',POS
+'inti namah adalah kita',POS
+'itu tegas tanpa ragu bukan buas tanpa malu by',POS
+'teriakkan anti impor di depan pedagang pasar salam jari pintarpilih',POS
+'jelang pilpres kubu anti berupaya cerdik namun busuk misi menghancurkan imej gerakan revolusi mental zona netral',POS
+'ini sama bu risma milih lho salam jari',POS
+'satu satunya kerja suksesnya adalah mengandangkan monyet topeng monyet',POS
+'cak imin gus dur dan sama sama pemimpin ikhlas dan sabar salam jari pintarpilih',POS
+'gannas deklarasi dukung salam jari pintarpilih',POS
+'temukan visi misi dan program aksi untuk indonesia unduh visi misi di sini',POS
+'kabarbanteng dahlan iskan magetan bisa dongkrak suara',POS
+'turut dukung pak dngn kampanye positif yuk jadi generasioptimis di',POS
+'jangan banyak meminta harta karena tuhan sudah mengatur rejeki kita masing masing tinggal gimana kita jalaninnya aja mom',POS
+'artikelkeren lima juta jemaah shiddiqiyyah dukung',POS
+'ahok terang terangan pilih pintarpilih',POS
+'ketua dpd gerindra kalbar berbalik dukung tribunnews mobile',POS
+'artikelkeren timses memiliki cita cita besar untuk indonesia timur',POS
+'dinilai sebagai simbol representasi rakyat center kabar',POS
+'warga strenkali surabaya tdk hnya cat genteng dg tulisan tp jg galang dana utk',POS
+'klik sambangi pasar kumuh ciputat',POS
+'hihi iyaa din lu dukung siape intan dukung ya',POS
+'poros muda akan tingkatkan pemerataan pendidikan',POS
+'tn sambangi pasar kumuh ciputat',POS
+'juraganberita sambangi pasar kumuh ciputat siang ini pria yang akrab disapa jakartahotnews',POS
+'sambangi pasar kumuh ciputat siang ini pria yang akrab disapa menyambangi pa',POS
+'harapan pemahat batu borobudur terhadap bag',POS
+'coblosnomor persen pendidikan di sd harus menyangkut akhlak dan mental',POS
+'jadikan indonesia jadi poros maritim dunia',POS
+'sukaberita sambangi pasar kumuh ciputat siang ini pria yang akrab disapa joko',POS
+'relawan bagikan tabloid lentera indonesia di sukabumi pintarpilih',POS
+'cak imin gus dur dan sama sama pemimpin ikhlas dan sabar salam jari coblosnomor',POS
+'yang ini juga keren salam jari lagu untuk dari komunitas negeri symphony',POS
+'program kjp dan kjs raih penghargaan internasional',POS
+'info sambangi pasar kumuh ciputat siang ini pria yang akrab disapa menyambangi pasar ciputa',POS
+'kubu dukungan rustri tak berpengaruh',POS
+'dengan government rakyat akan ikhlas bayar pajak coblosnomor',POS
+'sambangi pasar kumuh ciputat siang ini pria yang akrab disapa menyambangi pasar ciputat fb',POS
+'ya ama tim ses nya wah parah tuh',POS
+'memimpin sebuah kota adalah mengenali setiap permasalahan dan menyelesaikannya dan bersikap tegas itu tak harus keras',POS
+'pers australia juluki obama nya indonesia laskar',POS
+'dipimpin pendapatan dki naik rp triliun dalam setahun',POS
+'anies baswedan kampanye digerakkan masyarakat bukan konglomerat',POS
+'goenawan mohamad memang tak pandai pidato tapi tahu bagaimana bekerja coblosnomor',POS
+'seperti suami saya sederhana hehe mau pintarpilih',POS
+'ini cara berantas premanisme bandung calon presiden mem',POS
+'penilaian publik jkw adalah sosok tegas berani hadapi masalah dan menselesaikannya sebaliknya pra adalah',POS
+'tp kan ada jg yg milih jkw drive by logic ga cuma faktor like or dislike tp mnrut survei itu lbh byk yg milih krn rasa suka',POS
+'bener ya mentri ga bguna suruh mptngjwbkan dl ganti jkw buat apa pelihara mentri tdk kompeten http',POS
+'saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia jkw',POS
+'reza news sindir menteri esdm soal listrik di kalimantan yang byar pet capres be',POS
+'popularitas meroket akibat kerja kerasnya yuk kita baca disini suararakyat',POS
+'akun jelas tuduh kturunan pki bukti yg dberikan jg tdk relevan polri hrs tangkap akun ini',POS
+'yukk popularitas meroket akibat kerja kerasnya yuk kita baca disini suararakyat',POS
+'perusahaan harus berikan buruh upah yang layak kalau etos kerja sudah bagus maka gaji juga harus bagus',POS
+'mantap pemilu buat apa pelihara menteri tidak kompeten',POS
+'tol laut penting untuk memenuhi rasa keadilan rakyat coblosnomor',POS
+'pilpres seniman bandung dukung',POS
+'sudah terbiasa dengan cercaan fitnah dan direndahkan tidak marah krn bukan pemarah berkerja bekerja dan bekerja ng',POS
+'mumpung bulan puasa berdoa aahh ya alloh semoga yg jadi presiden indonesia amin akhirnyamilih pintarpilih',POS
+'detik menuju kemenangan tinggal menghitung hari',POS
+'timses minta maaf atas penyerangan tv one tim sukses timses pasangan dan',POS
+'dan ini terjadi di ramadhan ramadan mengajarkan kita untuk menjalani kehidupan penuh syukur',POS
+'salam dua jari saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',POS
+'pagi ini aku memilih diam namun selain itu aku juga tetep akan memilih nomor slmtpagi mas',POS
+'buat relawan hari ini pencoblosan di luar negri ayo kita kawal bersama pemilu di luar negeri dengan damai batalgolputkarena',POS
+'infojakarta ki jaka winata gelar baru dari masyarakat sunda',POS
+'news ki jaka winata gelar baru dari masyarakat sunda',POS
+'mstrsnx jangan biarkan mafia haji migas dan daging berkuasa pilih',POS
+'utjegp didukung sarundajang diprediksi bisa kuasai sulut pilih',POS
+'rekapberita ki jaka winata gelar baru dari masyarakat sunda',POS
+'ki jaka winata gelar baru dari masyarakat sunda jaka berarti ksatria winata ialah yang mengatur menata mengelola',POS
+'foto berkampanye di sukabumi akhirnyamilih',POS
+'menjelek jkan sama dengan takut akan power thd rakyat president all',POS
+'udah pinter nyanyiin theme song yg salam dua jari hahahaa ada ada ajaa',POS
+'indonesia butuh wajah pribumi hati surgawi orang nomor dua yg akan jd nomor direpublik ini akhirnyamilihjoko',POS
+'irmadi yg bisa kembalikan kepercayaan rakyat coblosnomor',POS
+'ki jaka winata gelar baru dari masyarakat sunda jaka berarti ksatria winata ialah ya arbuntukbangsa',POS
+'kubu terima kasih sherina munaf',POS
+'vivanews ki jaka winata gelar baru dari masyarakat sunda',POS
+'enghh mba aq minta doanya ea bwt untk ri semoga pilpres thn ini aman',POS
+'fakta rajasa sudah duluan jual teluk benoa ke investor jrx ga takut bali malah dijual jkw',POS
+'ckp berimbangkah klo disebut muchdi hpriyono sm spt prabw pelanggar ham pewaris gaya militeristik orba sedangkan jkw tidak',POS
+'sekjen pdip jkw lbh siap wjudkan kedaulatan pangan via bila ekonomi ri di atas',POS
+'aku ingin pemimpin yg amanah bukan yg amarah aku ingin pemimpin yg mau bekerja tdk hanya mengandalkan bawahanya saja adalahkita',POS
+'duh udah jelas beda loh ide besarnya jkw usung revolusi mental sbg transformasi mental yg berjuang utk kebebasan trmsk bebas beragama',POS
+'gimana mau dihukum yg menang ruhut pasti naik pangkat',POS
+'dukungan dtang dr petani indonesia yg mendukung pemimpin yg tulus rndah hati peduli petani ngabuburit jari',POS
+'presidenku jujur kuat wong artinya orang yg jujur dan kuat',POS
+'dukungan dtng dr petani indonesia yg mendukung pemimpin yg tulus rndah hati peduli petani ngabuburit jari',POS
+'trimakasih atas komitmennya jangan sampai membohongi rakyat',POS
+'tapi artis yg keren intelek bermartabat semua dukung jkw om gmn nih akhirnyamilih',POS
+'doha sdh memilih hari ini maaf sy dgn sadar merusak foto pak jkw utk indonesia lebih baik http',POS
+'semoga yang memilih jkw tak hanya masyarakat online saja tapi masyarakat yang lebih luas',POS
+'gapapah aku pilih jkw aja walau ga berpahala abis itu sholat dan ga lupa bayar zakat sama aja berpahala',POS
+'kalau belum yakin sama silakan cari info mereka di semua sosmed asal jangan vivanews salam jari',POS
+'jkw lakukan blusukan lbh thn secara rutin itu bukan pencitraan sebaiiknya pra lakukan hal cuma disaat',POS
+'kawasan gresik pasangan lebih unggul salam jari ak akhirnyamilih',POS
+'pastikan kita menang total klo pak jkw menang ntar jga tvone tutup sendiri dijual uuppss',POS
+'jkw lakukan blusukan lbh thn secara rutin itu bukan pencitraan sebaiiknya pra lakukan hal cuma di saat',POS
+'masa kampanye pilih peduli masyarakat papua jkw',POS
+'deklarasi slankers utk akhirnyamilihjok',POS
+'dukungan pelajar dan masyarakat indonesia di negeri ratu elizabeth untuk',POS
+'dari semua saksi kasus transjakarta tidak ada satupun saksi yang mengatakan bahwa ikut bertanggungjawab alex lay',POS
+'kontrak politik untuk program nyata dan sudah dideklarasikan tadi pagi silakan disebarkan',POS
+'bijaksana sekalee bapak presiden ir haji ini juli',POS
+'kontrak politik untuk program nyata dan sudah dideklarasikan tadi pagi silakan disebarkan http',POS
+'kontrak politik program nyata dan sudah dideklarasikan tadi pagi silakan disebarkan',POS
+'ok sip tegaspilih semua gara gara bakso daripada prahara mending',POS
+'saya akan lawan jkw kalau ia terbukti boneka dan lukai rakyat alam sejauh ini yg terbukti jahat ya kubu reklamasi',POS
+'bukannya aku fanatik sama tetapi aku anti mileterisme totaliter yg biasanya berkuasa dengan tangan besi',POS
+'salam dua jari ruslan mau cilegon',POS
+'sebagai seorang it saya sangat mndkung ide pake untuk goverment krn mengurangi birokrasitdk pntg dan saya akhirnyamilih',POS
+'di tengah ribuan rakyat musisi artis tokoh yg hadir sukarela tanpa dibayar tadi sore di senayan',POS
+'pak bowo maksa banget minta utk setuju pendapatnya biar dibilang sama haha',POS
+'cc prof mahfud md penampilan meningkat',POS
+'debat malam ini moderator nya mantap pak nya ciamik pak nya lucuk dan skak mat dah it',POS
+'ini bkn foto belanda kostarika ini foto menyatu dg pendukungnya di gbk it even rhyme',POS
+'netizen dukung di debat pamungkas',POS
+'ibarat bola menang',POS
+'visi misi pangan dinilai brilian menurut iman sugema apa yang digagas oleh sebagai terob',POS
+'dukung syafii maarif ini pilihan pribadi dan moral',POS
+'pemimpin yang berprestasi',POS
+'kita adalah penyala harapan kekuatan kita ada pada kerelaan sayapercaya jk',POS
+'pria kelahiran tahun lalu ini merupakan figur presidej yang menunjukkan kecintaannya',POS
+'ingat tidak cukup hanya dengan memberikan hak suara dukung orang baik share alasan pilih',POS
+'jangan lupa coblos sebelah kanan no atas nama pres dan wapres ingat nomer sebelah kanan anda salam jari',POS
+'jika anda pemilih yg cerdas dan menginginkan indonesia maju ayoo pilih presiden dan wakil presiden salam jari',POS
+'jika anda pemilih yg cerdas dan menginginkan indonesia maju ayoo pilih presiden dan wakil presiden jusuf kal',POS
+'anies baswedan relawan tak ternilai dengan uang nomor sederhana',POS
+'menjanjikan belum tntu di tepati liat perkataan jkw kami sudah saya sudah kita sudah om prab kami akan kami akan',POS
+'yg indonesia perlukan adalah pemimpin sederhana jujur dan amanah yg kerjanya terbukti untuk itu ayo kita coblos no salam jari',POS
+'aku serahkan masa depan sinema indonesia raya pada akhirnyamilih',POS
+'ayo kt menangkan',POS
+'jangan lupa tgl juli coblos salam jari mau',POS
+'dukungan kelompok musik slank terhadap bukan terbangun tiba tiba',POS
+'kami butuh pemimpin yang sederhana jujur berani merakyat dan bekerja bukan pemimpin yang ditakuti',POS
+'entah bakal menang atau kalah hrs diakui jkw berhasil merubah byk pola pikir apatis ttg pemilu menjadi optimis pasif jd aktif',POS
+'asekk besok nyoblos polih yaa',POS
+'lucu ja ada yg ngmng kl umroh jkw pencitraan krn umroh hrsnya hr dan beliau cm hr doanya tkt djabah tuhan lha doa mnt emg jg ga brguna',POS
+'pendukung prahara bersyukur atas kemenangan jkw jp mereka takkan pernah tertipu terbeli hati nuraninya lagi untungsajamenang',POS
+'bilangnya tegas sama preman kok gak berani terbukti jkw mengusir preman ditanah abang capres tetangga kembangbiakin preman',POS
+'dan sampai jam dari pemilihan gw belum dapet postingan dari pendukung prahara ttg prestasi calon mereka isinya cuma jelek in jkw doang',POS
+'aku pilih yg jujur sederhana dan melayani rakyat jkw mengoleskan balsam di kaki muzadi',POS
+'insyaallah menang telak di sumbar',POS
+'dengan tegas saya pilih jkw loyalitasitumahal cc',POS
+'eleehh aku nak milih pakde jkw hidup pakde jkw salamduajari peace',POS
+'ingat ustad jg ingat nasib bangsa siapakah yg akan memimpin thn ke dpn semoga jkw krn jkw mendukung palestina merdeka',POS
+'di saat semuanya memprediksi hasilnya tipis eh tau nya menang telak eh salam jari',POS
+'jangan lupa tuh nyoblos salam jari',POS
+'gw salut sm artis relawan jkw tulus bela org baik salam jari',POS
+'segala fitnah tipu daya prahara tak akan menyurutkan langkah utk memenangkan di jabar indonesia',POS
+'black campaign fitnah halalkan segala cara men zolim hanya gara terima bayaran dari prahara',POS
+'efek bagi saya efek satu suara saya kunci terpilihnya jkw dan jk ri satu dan ri dua',POS
+'jangan lupa pilih salam jari juli',POS
+'media kampanye di detik terakhir eva sundari itu sederhana dan tegas',POS
+'gues bantu saya yuk dukung pak dengan cara retweet tweet salam jari day',POS
+'temponews eva sundari itu sederhana dan tegas beritarss',POS
+'elektabilitas meningkat rupiah menguat menang ekonomi tumbuh rakyat sejahte',POS
+'ingat ingat ingat ke tps pilih no',POS
+'gua pilih lis semoga aja menang lis iya gua gak balik put lo pilih sapa put',POS
+'nomor sederhana berani dibenci yahudi yang dilindungi amerika sekutunya dgn testimoni yg mendukung palestina',POS
+'nomor sederhana hubungan australia indonesia soal trust dan kewibawaan',POS
+'btw jason mraz dukung loh',POS
+'bismillah hirrohmanirrohim semoga pilihanku tidak salah salam jari',POS
+'eva sundari itu sederhana dan tegas tempo',POS
+'biasanya golput sekarang saatnya harus milih presidenku',POS
+'jangan lupa datang ke tps yuk qt rame nyoblos day',POS
+'hari ini kita buktikan bahwa semua itu asli dan bukan rekayasa dgn menangkan',POS
+'jadi keinget visi pertama yg bilang pas di debat kemaren buat bantu palestina alhamdulilah aku milih orang yang bener',POS
+'aplikasi dan independensinya visi misi ekonomi lebih konkret',POS
+'demi saya harus milih walau dgn perjalanan yg sangat panjang melalui pantura',POS
+'anak muda dukung ayoo semua jangan ada golput salam jari',POS
+'eva sundari itu sederhana dan tegas',POS
+'pidato deklarasi kemenangan di tugu prokla',POS
+'hasil penghitungan suara dari jerman yg saya terima semalam menang di berlin frankfurt hamburg',POS
+'akhirnya capres nomor urut dua berani menggunakan bahasa inggris secara langsung dalam konferensi pers yang digelar',POS
+'real count yg dirilis rcti mnctv hasil survei pks juli ini penipuan tim hukum sebaiknya lapor polisi cc',POS
+'pksmunafik menuduh jkw umroh sbg pencitraan mrk tau isi hati jkw pdhl wkt anis matta hadiri kebaktian di jcc mrk blg',POS
+'real count yg dirilis rcti mnctv hasil survei pks juli ini penipuan tim hukum sebaiknya lapor polisi',POS
+'gua sih milih jkw pandangan ekonomi nya cakep cocok buat ngadepin afta ntar abisan sebelah lupa bgt ini negeri kaga ada siap nya',POS
+'ayu azhari kemenangan sementara kemenangan rakyat',POS
+'golkar berpeluang merapat ke pdip dukung',POS
+'dukungan rakyat utk presiden tidak dapat dibeli dengan uang inilah kehendak rakyat salam jari',POS
+'data versi dpd pdip sulut unggul di manado',POS
+'almisbat cuma yang mampu bawa perubahan',POS
+'membangun opini meresahkan ttg bahaya komunisme yang mendiskreditkan capres cabut izin penyiaran tv one',POS
+'warga solo telah merayakan kemenangan calon presiden meskipun belum ada hasil resmi laporan audio',POS
+'gue mendukung sebagai presiden baru',POS
+'din puji wajah lebih cerah setelah umroh',POS
+'di ntb jkw dpt di bali menang telak hampir',POS
+'lapor rekap kelurahan cipseljkt sdh resmi dittd utk jkw kawalnomer kawalsuara',POS
+'lapor rekap kelurahan cipseljkt sdh resmi dittd utk jkw',POS
+'jika menang wapres jk berpeluang kembali menjadi ketum golkar',POS
+'efekny luar biasa banjarejo pesantren babusalam yg kunjungi jkw menang telak',POS
+'beberapa dari sekian prestasi selama menjabat jadi gubernur jakarta',POS
+'terus dorong relawan proaktif laporkan kecurangan jakarta tim pemenangan',POS
+'berdasar hasil quick count rri tampak mayoritas warga dki ingin presiden dan ahok gubernur supaya koordinasi pu',POS
+'terus dorong relawan proaktif laporkan kecurangan jpnn pilpres',POS
+'timses terima laporan kecurangan di madura beritasatu',POS
+'pendukung laporkan keganjilan pilpres ke kawal suara',POS
+'akhirnya menang yes yes yes',POS
+'gak pake indikasi melainkan menunjukkan bukti bhw qc kredibel menangkan jkw dari dulu sampai kiamat hasil qc kpu',POS
+'pak jkw kalo jd pres tolong bubarkan tangkap akun sebarin fitnah sara spt tm biar yakin kalo kita py pemerintahan ya',POS
+'pak jkw kalo jd pres tolong bubarkan tangkap akun sebarin fitnah sara spt tm biar yakin kalo kita py pemerinta',POS
+'ayo amankan suara sang pemenang baca info ini share',POS
+'jkw laporan emiten semester bakal beri sentimen positif ke ihsg',POS
+'bukan pemimpin biasa indonesia butuh pemimpin yang berbeda kami merindukan pemimpin yg merakyat dan jujur',NEG
+'maka jkdominasijkw pasti terjadi mengingat motif awal dari jk sendiri apalagi lemah',NEG
+'pendukung di debat kali ini seperti penonton di dahsyat hftt',NEG
+'sama jk kalo debat capres kyak mau ulangan yah pake kepekan segala hahaha',NEG
+'politisi pp prihatin sumbangan dana ke diduga bermasalah pasangan calon presiden dan wakil preside',NEG
+'saya pilih no utk kbaikan kebaikan utk jdi presiden dan kbaikan utk jdi gubernur gituaj',NEG
+'tiap liat wajah jk nee pengen ngakak aja bawaannya dl blg klu yg jd presiden hancur indonesia nee sekli diksi jbtan wapres lgsg mau',NEG
+'masih dengan kompas beritain pak kebelet pipis saat terjebak macet apa pentingnya',NEG
+'menurut para kyai bila jadi presiden maka indonesia akan di pimpim oleh kerajaan setan by',NEG
+'ini gw yg bodoh dh kayaknya karena gw gak ngerti apapun yg dibilang jk ini pasti krn cengiran',NEG
+'nyengir adalah kita nyegir terus knapa yaa kasihan calon presiden spt it',NEG
+'selesaikan tugas jakarta mu dulu pak jangan tamak dengan kekuasaan',NEG
+'pentingkah atw pncitraan antar jk naik panggung debat',NEG
+'cuma mengingatkan jangan lupa pilih no adalah kita pic',NEG
+'terlupakan jk kritik bisa hancur negeri ini kalau jadi presiden',NEG
+'inii bukan mimin yg bikin cungguh cerdaspilih pintarpilih',NEG
+'untuk cuma cuti aja kalo nggak ya siap jadi pengangguran setelah pilpres',NEG
+'spanduk selamat puasa kubu salah fatal tulis bulan dan tanggal spektanews',NEG
+'cc di mata kami adh seburuk nya pemimpin munafiknya ga ketulungan nilainya minus di bwh nol otaknya beku hati',NEG
+'this disukai asing lha iyalah capres sekualitas camat negara asing mana yg ga suka makin hari kelihatan bego nya',NEG
+'disukai asing lha iyalah capres sekualitas camat negara asing mana yg ga suka makin hari kelihatan bego nya',NEG
+'yang pendukung dan merasa muslim hayo liat temu kangen eks pki',NEG
+'tp blg un mau dihapus ko ga kompak yah jk un tetap ada tapi sistem belajar harus dievaluasi',NEG
+'nonton metromini kasian timses terpaksa ngeles cari pembenaran gara jk jawaban tidak nyambung tdk sesuai visi misi',NEG
+'said iqbal kspi dukung itu berita hoax dan bohong',NEG
+'hahaha orang pintar minum tolak angin orang pintar stay on the right side lah kok jadi ke capres yah',NEG
+'pendukung merem unt masalah itu bang yg penting no susaahh',NEG
+'sikap pendukung dinilai jauh dari etika dan nilai agama republika online mobile',NEG
+'oh gt skp pendkung dinilai jauh dri etika dan nilai agama kilasindonesia',NEG
+'ajian prongos ituurt itu kenapa setiap disorot kamera langsung tersenyum mukamu jelek woeyy kalah',NEG
+'pak jk adlh orang yg aku hormati benar benar terkunci oleh wacana revolusi mental kasihan deh awalnya aku kagum',NEG
+'dki jakarta setahun dipimpin alhamdulillah yg naik hanya jumlah orang miskin inflasi kemacetan korupsi pengangguran',NEG
+'openfollow kivlan zen ada bau bau komunis di belakang berada di makam bori teamfollowback',NEG
+'sikap pendukung dinilai jauh dari etika dan nilai agama',NEG
+'urus jakarta yg juta jiwa dan km setengah mati dan frustasi emang ga punya kemampuan apapun di solo jd boneka rudi doank',NEG
+'yg gua liat kalau pak dan pak berbicara didebat membuat orang tertawa ada saja leluconnya huft banged pemimpin begitu',NEG
+'namanya jg ondel di mata kami adalah seburuk nya pemimpin munafiknya ga ketulungan otaknya beku hati moral ga ada',NEG
+'lagi dilaporkan warga solo ke kpk',NEG
+'revolusi mental di mata kami adalah seburuk nya cont',NEG
+'bohong lg masalah kasus bustransj bilang sudh lapor dibantah jubir kpk',NEG
+'dan prasaan gue cm crita sdikit ttg buzzerny deh soalna gue ngalamin ya kaya capres yg anda bela td pencitraanny jelek',NEG
+'om can klarifikasinya ap benar skrg banyak orang cina berbondong bondong dtg indonesia dgn mksd gol kan',NEG
+'alih jk jadi kartu turf malah sekarang jk jadi kartu mati bagi masyarakat klas bawah tdk respek dg jk selma tandem dg sby prediksi',NEG
+'saja jadi gubernur nggk selesai apalagi mau jadi presiden gimana nasib negara ini hadeeh politikmu ckckckck',NEG
+'yuk detik skrg membabi buta pasang berita tutupi hasil debat yang membuat jk kalah telak hehehe detik kan panasbung',NEG
+'hasil survei vox populi hanya unggul pada pemilih tidak tamat sd',NEG
+'aku tidak memilih karena sudah disumpahi quran tidak amanah dan jakarta tambah semrawut',NEG
+'makanya moment udah hilang ditambah lagi pola lugunya udah berubah sejak nyapres',NEG
+'dan stasiun televisi net pun terang terangan dukung pfftt gak liat apa debat cawapres barusan',NEG
+'betul can itu pki dari partai komunis pdipki',NEG
+'om dalam debat salah membenarkan penjualan indosat cc',NEG
+'skandal besar di dki',NEG
+'ada golongan orang yg susah dinasehatin org yg kasmaran pendukung capres',NEG
+'kami sdh investogasi thn cermati dia dan cari info makanya kami berani sampaikan apa adanya yg kini takut mati hehe',NEG
+'wah pejabat bawaslu sudutkan di facebook',NEG
+'pndkg yg khabisan bahan sukanya lelucon aneh neh prlu rev mental diruwat',NEG
+'blusukan ke prodeo gunakan bus trans jakarta om bwekekekek kalau perlu jk nanti suruh blusukan sampe mati',NEG
+'tim rasanya aneh elektabilitas disurvei turun',NEG
+'emangnya kerja sedikit banyak di sorot media jk byk yg gak nyambung dr pertanyaanya',NEG
+'lah emang bisa bahasa inggris capres cawapres kita gak ada yg doktor moderatornya aja yg profesor lain',NEG
+'psikolog politik ui bisa bernasib buruk seperti joseph estrada mantan presiden filipina',NEG
+'news menuju kekalahan panik elektablitas melorot anis minta relawan solid assadiqulhaq',NEG
+'menuju kekalahan panik elektablitas melorot anis minta relawan solid',NEG
+'kalo menang semoga negara ini jadi negara pelawak',NEG
+'presiden kok klemar klemer hahahaha rakyat ini cuma tau capres itu doang',NEG
+'itu robben di sleding teckle kok nggak pelanggaran sit ah pasti pendukungnya yang suka pencitraan doang',NEG
+'kontroversi politik anggaran untrakyat',NEG
+'dalam lawatan ke linjing beijing kazan dan moscow belajar revitalisasi dan revolusi komunis',NEG
+'makanya pilih no biar langsung untung ga tahu apa emg klo amerika marah kita harus blg wow efekantekasing',NEG
+'knp ya kasian aja gtu kalo liat muka pak berasa iba jahat bgt emang ni megawati jadiin boneka benci bgt sama perempuan itu',NEG
+'fitnah ke motifasi nasi bungkus doank hina banget tuh',NEG
+'apalagi urus indonesiaa bisa hancur negri ini kalo jadi presiden mengutip kata pak jk hehe',NEG
+'cuman tiang monorel aj pak yg blm naek msh segitu aj dki jakarta setahun dipimpin',NEG
+'bahasa inggris ala dijamin ngakak',NEG
+'gada yg lebih bego dan awam daripada org yg udah ketipu sma sok kepolosan dan katanya kesederhanaan padahaal',NEG
+'tegaslah pak anies drpd gk bs tegas selama ini hanya setir oleh mega apa hrs lapor sm mega aneh banget sm mega',NEG
+'makanya butuh revolusi mental tuh om itu sdh bego tamak serakah penipu korup lagi',NEG
+'dah gak menarik mas bicara cukuplah jadi gubernur mental keple',NEG
+'jk bisanya cuma menjelekkan peserta lawan otak jk itu kosong mana ada isinya sama seperti tong kosong',NEG
+'rustriningsih dah tobat tuh kok ada orng yg mau tertipu setelah begtu banyak fakta',NEG
+'korupsi dana pendidikan masyarakat solo desak kpk tangkap',NEG
+'hrs sipertanggungjawabkan lho keuangan dki jeblok dprd akan panggil',NEG
+'pns dki jakarta serukan rakyat tidak pilih',NEG
+'hanya boneka aja cecengessan tiap hari blusukan kemana kenapa ga pemulung aja',NEG
+'pendukung nomor selalu nuduh capres boneka',NEG
+'klu cuma segitu luasnya kapasitas hanya selevel camat didaerah sya hahaha',NEG
+'warga laporkan ke kejaksaan agung',NEG
+'tampang makin songong dari janji palsunya buat jadi gubernur dki gak ada pun yg terlaksana kecuali blusukan lol',NEG
+'nah loh terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'benar sekalai sikap pendukung dinilai jauh dari etika dan nilai agama',NEG
+'fakta korupsi bus karat buatan china knapa menyesal toh fakta yg bicara',NEG
+'disaat dianggap layaknya malaikat',NEG
+'visi misi tidak lebih hanya pembohongan publik menyorot agenda evaluasi pendidikan kampanyesehat',NEG
+'mana nich yg bisa jelasin revolusi mental haloo ada gak pendukung yg punya mental untuk jelasin revolusi mental silahkan komen',NEG
+'ha ha aha klu perlu jk nanti suruh blusukan sampe mati blusukan sampe ke ln tontonan memalukan dimata asing',NEG
+'terlalu timses sakiti ulama nu jatim seperti wimar sebut bajingan lembaga islam',NEG
+'om gmn tuh ancmaan romo magnis klo kalah bakalan rusuh',NEG
+'tuhkan pendukung pak aja pada kecewa ama statement pak jk di debat tadi eeaa',NEG
+'satu hal yg gw khawatir in klo jd presiden klo ad pertemuan antar pemimpin bangsa mau ngomong apa inggris ae ga becus lol',NEG
+'deddy mizwar mending balik jadi gubernur pak jk ke masjid via',NEG
+'kata jk mau jdi apa ngri ini bisa ancur ngri ini kalo jdi prsden beresin aja dulu jkt jk penjilat ludah sndri',NEG
+'terpopuler metro dinilai tidak tegas soal kasus bus transjakarta bukankah lagi disidik jaksa',NEG
+'harus terpopuler metro kpk diminta usut temuan bpk soal apbd dki era',NEG
+'itu pendukungnya pd kecewa ama jk',NEG
+'jawaban normatif dari seorang capres yang plin plan bisa hancur negeri ini klo yang pimpin',NEG
+'saya korban politik uang by is superb',NEG
+'jakarta nampaknya keinginan untuk menjadi calon presiden harus melalui jalan yang terjal setelah',NEG
+'pipa nus kan punya bakri jd wajar pemberitaan begini terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'setiap di tanya sama wartawan pa selalu jawab itu bkn urusan saya sudah ada yg ngurusi lah jdi selama jadi dki ngapain aja pak',NEG
+'kami sdh buktikan semua penghargaan adalah palsu rekayasa penghargaan semu buatan',NEG
+'nah terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'kata negeri ini akan hancur bila jadi presiden yang bilang ini hoax orang gila berarti',NEG
+'lah elu kan ndukung bang kok njelek in jk pak jk ini emang konsisten soal un konsisten ngaconya',NEG
+'fakta dinilai tidak tegas soal kasus bus transjakarta',NEG
+'udah aah ntar ga seru apalagi sampai ga sadar terbuka rahasia besar memalukan ttg bisa kena semprot kami haha',NEG
+'loh emang pernah tegas terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'kivlan zen ada bau bau komunis di belakang',NEG
+'pengakuan mantan sekda solo di balik pencitraan',NEG
+'hampir telanjang om kami sdh investogasi thn cermati dia dan cari info makanya kami berani sampaikan apa adanya',NEG
+'did you know that blusukan habisin uang rakyat miliar selama setahun di jakarta gilaak blm lg uang perja',NEG
+'terus keanehan kedua kok sy blm prnh ya liat ibu megawati puan maharani getol kampanyekan ada perseteruan apa di tubuh mereka',NEG
+'jk kalo jadi presiden bisa hancur negeri ini presiden',NEG
+'gw sih ga fanatik tapi karna pilihannya cuma ada calon capres dan cawapres jadi lebih baik gw pilih jk',NEG
+'udh gue jawab rahasia freeport basis militer as di asean konflik laut china aja lepas tangan gmn ada martabat',NEG
+'yang saya tidak suka dgn adalah di antek komunis zionis dan hantu belao lainya mereka menyinggung dukungan untuk palestina',NEG
+'pasukan nasi bungkus seribu pendukung nonton bareng debat di tugu proklamasi',NEG
+'politisi pp prihatin sumbangan dana ke diduga bermasalah via okezone',NEG
+'situ komunis pilihan hati simple kenapa karena mereka adalah orang baik dan indonesia butuh orang baik',NEG
+'elektabilitas anjlok pdip cium konspirasi curangi pemilu',NEG
+'oh ya terakhir tuh lembaga survey bayaran ga ada tuh yg umumkan hasil surveynya knp ayoo suara jkwi melorot di bwh haha',NEG
+'emang ga nyambung tranding palsu',NEG
+'ini fitnah tak solid dukung pdip bisa blunder',NEG
+'mereka para pemfitnah itu meniupkan isu bahwa terlibat pki sungguh ini isu biadab yang tidak takut tuhan',NEG
+'satujuu tangkap harus transparan soal korupsi transjakarta dan apbd cont',NEG
+'ogah semua wajib nonton presiden republik indonesia',NEG
+'republikaonline punya siapa si ko artikel nya begitu sisi negatif semua ttng kecewasamarepublika',NEG
+'bener apa kata mba ahok adalah bentuk kecil dari visi misi kepemimpinan selamatkanindonesia',NEG
+'klw ini beretika pny nilai agama sikap pendukung jauh dr etika nilai agama',NEG
+'sebaiknya balik jadi gubernur aja dah urus tu program yg gagal seperti buskaratan masalah belum selesai malah lari',NEG
+'itu sdh bego tamak serakah penipu korup lagi eh pki lagi khianat lagi munafik lagi palsu lagi kok ada yg suka gila',NEG
+'wuih ada apa ya tak solid dukung pdip bisa blunder',NEG
+'kampanye hitam dan intimidasi sgt mempengaruhi penurunan elektabilitas',NEG
+'jahaha oh ya terakhir tuh lembaga survey bayaran ga ada tuh yg umumkan cont',NEG
+'maklumin aja namanya juga lemot terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'hmm mega ayo mari kita pilih pak banteng kurus kurus bukan karena ga makan lho tapi krna banyak tekanan perasaan',NEG
+'nama pak jk sudah dikenal sangat baik tapi kini ternoda krn ambisinya hingga bergabung ke',NEG
+'tapi capres tukang tipu hehe kh hasyim muzadi bukan capres boneka jpnn pilpres',NEG
+'poempida sesalkan amien rais pakai anaknya untuk pojokkan',NEG
+'terlihat sangat kagum dg kecerdasan dalam debat malam ini sesekali menoleh kpd penuh keraguan',NEG
+'tim benci islam setelah wimar muncul butet',NEG
+'blusukan habisin uang rakyat miliar selama setahun di jakarta gilaak blm',NEG
+'ngeri sedap masuk tih barang kpk diminta usut temuan bpk soal apbd dki era',NEG
+'pak cepet banget njupuk jantung nanging yen wektu lan sabar katahan bapak bapak bisa dadi nomer siji',NEG
+'sdh lamaa dari dulu belajarsama tokoh pki mbah pardi mulai pakai klenik',NEG
+'waduh elektabilitas anjlok pdip cium konspirasi curangi pemilu',NEG
+'penipu macet hermansyah macet hermansyah macet wolhermansyah jpg',NEG
+'penipu lg macet lg macet jpg',NEG
+'penipu bebas macet bebas macet ngeblonkabiss jpg',NEG
+'penipu jakarta macet jakarta macet jpg',NEG
+'setujuu sikap pendukung dinilai jauh dari etika dan nilai agama',NEG
+'dan terbukti tiap kamera mengarah ke lgs deh nyengir cengengesan bener lho kata twit orang banci kamera debatcawapres',NEG
+'terpopuler metro dinilai tidak tegas soal kasus bus transjakarta',NEG
+'jk kritik bisa hancur negeri ini kalau jadi presiden presiden',NEG
+'terungkap bohong jkw bungkam',NEG
+'kompleks yo tidak sesederhana dan seaman yang orang awam fikirkan lagipula sih udh pasti jelek dimata urg',NEG
+'video langgar sumpah jabatan gubernur dki via',NEG
+'berani jujur kecewa bilang kecewa itu pendukungnya pd kecewa ama jk',NEG
+'jadi banyak yang akhirnya berpihak ke karena eneg pak di mana diberitakan bagus pencitraan mulu katanya',NEG
+'ga bisa pegang janji moso org yg janjinya palsu mo dipilih',NEG
+'apapun demi menang kak istri mendadak berjilbab',NEG
+'republika tak solid dukung pdip bisa blunder',NEG
+'tak solid dukung pdip bisa blunder',NEG
+'kebohongan gt gt belum apa apa tim sudah menipu warga nu',NEG
+'din syamsuddin sesalkan manipulasi berita tentang',NEG
+'poempida sesalkan amien rais pakai anaknya untuk pojokkan lewat',NEG
+'bukti ketajaman jk yg dulu jika presiden bisa hancur negeri ini',NEG
+'memang bebal asal asalan tidak ngerti tapi para pendukungnya tetap memuji lewat',NEG
+'ini alasan tanda tangan perjanjian muharam jadi hari santri ciee jualan agama nih yee',NEG
+'ga dilaporin nih bus berkarat sama apbd jakarta loh luar biasa hukum di negeri ini',NEG
+'tuh snjata klo klh pilpres no elektabilitas anjlok pdip cium konspirasi curangi pemilu',NEG
+'tak solid dukung pdip bisa blunder openfollow',NEG
+'fakta tentang apa anda punya bukti valid gak kalo itu pki',NEG
+'calon presiden nomor urut mengapresiasi performa pendampingnya da eknm',NEG
+'istrinya puasa apa gk ya kok gk ikutan sahur bareng sahur dengan sayur cc',NEG
+'elektabilitas turun internal pdip tegang',NEG
+'panasbung juga tidak boleh pakai bung jadinya apa dong panas panascyiint',NEG
+'bener pendukung rata lulusan sd so what biasa aja apa yang disampaikan jk itu',NEG
+'tadi sepertinya di belakang duduk sofyan wanandi bagaimana bisa pro rakyat kalau pendukungnya',NEG
+'warga natuna kecewa kepada',NEG
+'para pendukung sebaiknya klarifikasi twit atau memang kebenaran yg tak bisa dipungkiri dibantah',NEG
+'ada di bungkus nasi kucing pintarpilih',NEG
+'membangun revolusi mental kalau kita flshbck melanggar sumpah gubernur katanya mau menjabat th',NEG
+'kalo pemimpinnya aja boneka gmna sudah membuktikan secara sederhana bahwa masalah',NEG
+'meni geleuh yang dibelakang pki semua kaget juga bacanya bener kata pak dimas',NEG
+'hanya kompas yg berani melawan arus mengunggulkan bossnya yang penting senang dg hasil surveinya',NEG
+'ah pasti photoshop orasi di depan warga madiun via',NEG
+'namanya aja jokoplak caprestaxi ogar kasih skor merasa puas',NEG
+'dan skrg fadli zon and his troops mempersoalkan makannya pakai tangan kiri dan bukan tangan kanan fiuh',NEG
+'klo dukungnya waktu pilpres doang buat apa dukungan untuk palestina diharapkan dulang kemenangan di pilpres',NEG
+anjing,NEG
+'ternyata pendkg kualitasnya rendah dan tdk beretika tdk pantas berdebat dgn saya',NEG
+'pendukung orangnya bodoh dan pendendam',NEG
+'ini yg bilang ngerti agama timses puasanya mulai syawal',NEG
+'jk kalah telak sya pendukung nmun sya akui jk kehilangan pemikiran',NEG
+'jelas ava komunis kcuali tobat tuh kan sy dibully lg sy bkl bilang dah ke komunitas sy gk akn pilih bpk',NEG
+'saya mendukung palestina merdeka emang lo siape wi pencitraan lo udah kecium',NEG
+'maca cih td mah telak banget puji jk kuasai materi debat',NEG
+'sebar klaim bohong di tasikmalaya muharrik dakwah',NEG
+'amd dari jaman yusuf nasibnya saja baik skr stress pringas pringis bakal kalah dan banjir macet jg tdk beres',NEG
+'atuhlah bodor ada yg ngekomen gini kentut pun wangi bagi pemuja',NEG
+'rakyat cerdas tak mau dibodohi senyuman manis pak di depan kamera',NEG
+'di twitter pendukung gak suara',NEG
+'urus jakarta dulu dukungan untuk palestina diharapkan dulang kemenangan di pilpres',NEG
+'modus ya pak dukungan untuk palestina diharapkan dulang kemenangan di pilpres',NEG
+'tunggu ajalah juli ajakin semua pilih nomer jgn smpe org beliin suara org',NEG
+'berapa skor kayak bola saja hahahahahahahaa ngeles aja nya jkw jago ngeles',NEG
+'kpk diminta usut temuan bpk soal apbd dki era',NEG
+'ibda binafsik rakyatmerdeka harus merevolusi mentalnya sendiri via',NEG
+'diteriakin pencitraan gitu metrotv pasti ganti voice nya jadi pemberani',NEG
+'aslinya kliatan minta taraweh diundur demi debat capres',NEG
+'lebay taraweh tuh kan sunat astagafirullah hanya karna debat capres cawapres',NEG
+'elektabilitas bikin pdip tegang pintarpilih',NEG
+'saya punya ide gimana klo misalnya ibu mega capresnya dan pak tetep wapres karena emang begitu kudunya hehe pak jadi jadian',NEG
+'kristen ya pantas dukung jadi heran mengapa semua orang kristen katolik dukung ya',NEG
+'mesin pdip tidak maksimal dukung',NEG
+'kok belakangnya ra enak yo dukungan untuk palestina diharapkan dulang kemenangan di pilpres via',NEG
+'tangkap usut sampai tuntas kpk udh gak pny gigi korupsi dana pendidikan masyarakat solo desak kpk tangkap',NEG
+'membangun mrt setelah tertunda th emang bener tapi emang proyeknya jadi sampe tuntas kemana urusan belom kelar malah pergi',NEG
+'jahat banget sepupu lo lihat pocong malah dibilang lihat mentang suka pencitraan ke tempat gituan lolololmao',NEG
+'adalah sang penjagal kaum islamis bila jadi presiden nanti hii syerem cc',NEG
+'tabloid obor rahmattan lil alamiin dianggap oleh pesantren al anwar adalah tabloid dusta dan fitnah',NEG
+'astagafirullah hanya karna debat capres cawapres minta salat tarwih di undur',NEG
+'bohong besar dana dari rakyat',NEG
+'diemin aja nnti rakyat yg mngadili lagi kebohongan dipatahkan',NEG
+'betapa hinanya orang pintar yg tahu korupsi tapi tetap mimilihnya apa lagi sampai ngajak orang untuk',NEG
+'liat aja muka liciknya',NEG
+'kalla jelas nyata capres dan cawapres pencitraan hasil pemberitaan media metro tv',NEG
+'pdip megawati indonesia hebat lol awas bahaya laten koruptor pdip',NEG
+'tdk heran bro sikap pendukung dinilai jauh dari etika dan nilai agama',NEG
+'dimedia asing untuk menebar fitnah auumm budek kuntet yang bacaannya cuma metro tv media indonesia tempo detik kroninya',NEG
+'malah negara as dkung boneka utk lalu fitnah islam di indo si negara supreme ini emang paling sering bikin issue',NEG
+'ya iya lah krn pak alex ga ambisius klo itu ambisius mencuri uang masyarakat dki termasuk uang anda pikir yg matang',NEG
+'ternyata pendukung mentalnya selevel sama nicun nicong penyembah agnez kalapiun',NEG
+'jk plin plan kontradiksi dgn visi misi jk akui tak setuju pendidikan gratis',NEG
+'oh ya terakhir tuh lembaga survey bayaran ga ada tuh yg umumkan hasil surveynya',NEG
+'ibu adiknya kristen tp dia mengakui beda ngaku islam hahaha',NEG
+'jurus bus karatan transjakarta nya mana efisiensi anggaran jurus pangkas hutang indonesia',NEG
+'bus karatan prof prawoto juga jadi tersangka bppt gelar aksi solidaritas cc',NEG
+'kesalahan kedua kata dia adanya kubu yang tida solid dalam tubuh parpol pengusung kalah',NEG
+'rakyat tidak bodoh ditipu terbukti pencitraan bukanlah segalanya',NEG
+'catut nama ulama mui desak media pro minta maaf',NEG
+'bacaanpagi ahok bongkar kebohongan besar',NEG
+'konsep revolusi mental jkw tepat di tujukan bagi pendukungnya yg cacat mental yg serang segel rusak kantor',NEG
+'timses bangun opni pilpres curang agar diulang',NEG
+'ga sadar penyegelan kantor tvone scr paksa strategy pki ingat kt jkw kt bikin rame',NEG
+'kan rakyat bisa buktikan kemunafikan jkw',NEG
+'masyrakat makin antipati lihat kelakuan jokowers insyaallah jkw kalah di tgl juli nanti',NEG
+'gambar aksi anarkis anak buah timses akan jadi putaran berita nasional dari',NEG
+'gambar akn jd putaran nasional yg berimbas ambrol total elektabilitas sbagai capres anarkis http',NEG
+'kayaknya kena gejala trauma deh jadi membabi buta haha rakyat makin banyak tak mau jkw',NEG
+'aksi mendemo fahri pks ini adalah bukti bhw santri yg selama ini mrk klaim dukung jkw tak lbh dr anak seperti ini http',NEG
+'gambar ini kl diputar secara nasional oleh tvone elektabilitas dijamin rontok secara nasional',NEG
+'bang sdh kehilangan kehormatan sbg seorg intelektual siapapun yg merapat jkw mndadak hilang kehormatan',NEG
+'ciri pendukung no bodoh nasbung tdk bermoral',NEG
+'sdh kehilangan kehormatan yg merapat jkw mndadak hilang kehormatan',NEG
+'pernyataan anies bagaikan jkw bohong anies lebih bohong lagi by has been chirpified',NEG
+'awal kehancuran sebut kader pdip anggota pki tvone yogyakarta disegel massa',NEG
+'jadinya wajarlah kalau dia perintahkan siaga satu kepung tvone karena sudah mengkhawatirkan elektabilitas menjelan',NEG
+'adalah boneka boneka adalah dan kita bukan boneka salam garuda merah',NEG
+'kayak gini muncul nggak di metro tv serangan fajar sudah kubu',NEG
+'betul kata kalau nyapres hancurlah negeri ini',NEG
+'bukti terafiliasi pdip dan telah disusupi paham komunis pki',NEG
+'fakta yg akan menenggelamkn',NEG
+'gerus suara coba benturkan pdip dengan tni ad',NEG
+'kita coblos no saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'kamu adalah mega kali saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'duh kalo kampanye suka begitu sih sering ngejatuhin nyindir pak miris kalo liat macan asia kampanye',NEG
+'jkw dki presidennya saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'senjata makan tuan hasil revolusi mental jkw tindakan anarkis di tvone by',NEG
+'bnr kt jk hancur negri ini di pimp jkw tolong sebarin ke pelaku kekerasan dibolehkan kok http',NEG
+'maksud hati mencari dukungan apa daya jkw ditolak sana sini by chirpstory',NEG
+'kebayang ngga sih jokowers kalo nanti kalian protes kebijakan jkw tapi di jawab siapa suruh milih saya lol',NEG
+'namun ternyata msh ada satu orang paling tolol sedunia bernama yg bercita meneruskan mimpi komunis di indone',NEG
+'blunder kubu jkw dengan tindakan anarkisnya by has been chirpified',NEG
+'kita gak pembohong jkw hobi berbohong jkw bukanlah kita',NEG
+'serangan tv one ke dinilai nodai kebebasan pers',NEG
+'satgas angkatan ke lima pki ingatkan tni dan polri netral jika tidak akan berhadapan satgas joko',NEG
+'terungkap pencitraan ala pki oleh',NEG
+'ldii di kbu jkw bsm syiah jil sipilis perlu diruqyah',NEG
+'om can bukanka ini tehnik agitasi dan propaganda yg bermata dua kubu jkw lihai memabaca situasi dan merekayasa',NEG
+'kompilasi jkw aseng asing dan antek by',NEG
+'kubu sebelah bangga ada pembela pemerkosa dukung jkw lewat video selamat ya bergembira diatas korban pemerkosaan',NEG
+'jkw jujur lepas tuh peci malu in islam doang kau pak dorong publik pilih',NEG
+'kg iq super bintang cukong super kaya sengaja pasang jkw sbg bumperny satrio piningit nya yg bakal kuasai ina sia',NEG
+'saya akhirnya pilih gak apa kan soalnya beliau sudah saya ketahui keberadaannya dr thn an kalau pak jkw br bbrp thn ini aja',NEG
+'mba jika jkw sj yg muslim mrk kafir kafirkan lalu kami ini yg non muslim biangnya kafir ya mba is pemilih di qatar',NEG
+'pengennya jdi booster buat elektabilitas jkw tpi trnyata ngga ngefek jkw jdi presiden twitter aja',NEG
+'dear mr drpd menyerang stasiun tv ktr salah satu ormas mending tenaga simpatisan jkw dipakai nyerang israel dukung palestina kan',NEG
+'dibelakang jkwi banyak jenderal binaan moerdani kubu jkw bisa juga pakai spionase',NEG
+'hemat sy santri mana yg dukunh jkw imin itu coba hibur saja ya ada tp sedikit laj',NEG
+'gw kasian ngeliat pndukung jkw dibayar brp smpai ad yg rela mati sgala emg klo jkw jdi presiden hdup lo ba',NEG
+'mega serahkan jkw kpd rakyat ya pdip lah yg betul bukan rakyat gak perlu eksploitasi rakyat tetus an lah',NEG
+'jkw dianggap tak bijak soal tvone via',NEG
+'bukan krn mengandung unsur babi tp ini serius ulama mengharamkan memilih mrk',NEG
+'nggak salah yg galak itu para pendukung dan antek anteknya termasuk anda',NEG
+'munirterlupakan betulkah timses dan lsm ham yg bondong mendukung jkw sengaja melupakan kasus munir',NEG
+'sy dukung yg bkn jkw krn capres no ini sudah seperti nabi oleh sekelompok org tdk pernah salah dll',NEG
+'makin terbuka aja kompilasi jkw aseng asing antek by has been chirpified',NEG
+'salah pilih si jokuwi jk bikin melorot elektabklitas jkw',NEG
+'jika saya terus di tuduh pki kita akan bikin ramai pilpres ini kandang banteng sudah dibuka jkw provokator',NEG
+'si jkw emng perlu di revolusi mental nya',NEG
+'ga usah takut ingatkan tni dan polri netral jika tidak akan berhadapan satgas jkw provokator',NEG
+'nantang dia ganyang ingatkan tni dan polri netral jika tidak akan berhadapan satgas jkw provokator',NEG
+'blm jd sdh ngancam ingatkan tni dan polri netral jika tidak akan berhadapan satgas jkw provokator',NEG
+'apakah muslim dikubu jkw tdk tau bhw metrotv adalah milik james riady antony salim bukan milik brewok',NEG
+'iya rakyat baru ngerasa sekarang mandatnya buat main an jkw itu dikasih mndat lebih oleh rkyat',NEG
+'iya dapat ajaran dimana ya jkw itu komunis mas pingin tau deh',NEG
+'episode ttg jkw catatan pinggir daftar kebohongan jkw bag by',NEG
+'janganpilih banyak pencitraan dan urus dki sj dak becus hastag di tweets sy dibajak pendukung jkw cara culas curang',NEG
+'jkw yg nunggu no antrian di kpk masalah apbd dki transjkt karatan apbd solo utang banyak mikir',NEG
+'wiranto dipecat gusdur sebagai menkopolhukam jg krna isu pelanggaran ham oleh wiranto pndkg jkw hendropriyono jg terlibat kasus talangsari',NEG
+'baca ini lol bgt kampanye positif ditangkap kronologis penangkapan relawan saat sebarkan tabloid',NEG
+'seret aja baca ini lol bgt kampanye positif ditangkap kronologis penangkapan relawan saat sebarkan',NEG
+'siapa yang penipu anggap koperasi tak tepat untuk petani dan nelayan',NEG
+'tm calon presiden terlihat takut ketika ditanya mengapa ia tidak melaporkan kasus korupsi pengadaan',NEG
+'dia memang komunis kali pakdee demikian juga orang di blakang jkw',NEG
+'ga suka aja gue liat jkw wk',NEG
+'berita viva yg tdk tepat mengartikan pernyataan jkw adlh ini',NEG
+'sekali lagi jkw memahami arah prtanyaan hata trsebut sayangnya di saat jkw ingin mnghindari itu jk malh ambil alih dan sedikit emoisonil',NEG
+'kalian ributin soal kostum dani tp kalian merem soal kostum si oneng di kubu jkw',NEG
+'tutup mata hati kerugian negara sebesar akibat kepemimpinan jkw',NEG
+'pemimpin tak patuh hukum calon presiden capres nomor urut dua dinilai sebaga',NEG
+'wajib baca buat jaga rencana isu fitnah kerusuhan oleh kubu jkw by',NEG
+'jadikan muharam hari santri janji bertentangan dengan islam rahmatan lil alamain dukung pra',NEG
+'amazing ini bkn foto belanda kostarika ini foto menyatu dg pendukungnya di gbk http',NEG
+'dinilai ciderai cita cita luhur pendiri bangsa',NEG
+'dalang kerusuhan mei dukung',NEG
+'kemanaa proyek mobil smk solo dih bullshit katanya bakalan memajukan proyek mobil smk solo',NEG
+'catatan pinggir daftar kebohongan jkw bag by',NEG
+'tunduk sama moncong putih',NEG
+'kenapa enggan usut sidik jadikan sbg tersangka konspirasi global',NEG
+'tokoh ke dan salah indikasi kalau anu memang daftar nama cukong lewat',NEG
+'berisik nih pendukung jkw',NEG
+'jkw hari mau pecahkan rekor dunia umroh minimal berapa hari pencitraan',NEG
+'revolusi mental ala jkw tim mereka siap menang tapi ga siap menerima kekalahan mdh rsj grogol masih ada tmpt tuk mereka',NEG
+'di debat capres jkw ngeles masalah koperasi eh bohong lagi masalah green city hadeeuh',NEG
+'jkw ngibul melulu klh ternyata takpernah beri penghargaan kejkw via',NEG
+'yuk mas buka mata hati saya juga nyesel dulu pro habis an jkw jadi gubernur dki',NEG
+'ojokuwi hdupnya mistis brng cukong dan timses nya jkw ke dukun indo cukong bawa biksu dr tibet ke pik ritual bwt nutupin mata rakyat',NEG
+'politik pencitraan dan minta kasihani sungguh terlalu pak jok siap siap setelah gagal pilpres awal tahun jkw jadi tersangka kpk noted',NEG
+'jkw hari mau pecahkan rekor dunia umroh minimal berapa hari pencitraan allah yg tau',NEG
+'hampir semua lembaga survey pro jkw sekarang tiarap persis seperti laporan the sidney morning herald akhirnya kalah',NEG
+'puluhan juta muslim dibodohin metro milik aseng agar milih moncong yg didukung nonmuslim komunis dukung jkw ri',NEG
+'gabungan raja tipu jkw tak pantas dipilih selain jk rajanya kolusi by',NEG
+'plus video sex yahudi kafir cina boneka herbertus pki komunis udah cont',NEG
+'ahok yakin kalah di jakarta',NEG
+'yahudi kafir cina boneka herbertus pki komunis udah gak mempan skrg org ibadah umroh msh saja diutak atik',NEG
+'laporan kpk hutang rp jt hutang yg sederhana rp milyar sumber',NEG
+'adalah media pengecut cemen karena hanya menghadirkan timses jkw doank ngaca lah weleh pengamatnya bayaran pula keliatan',NEG
+'islam dihina lg oleh media pro jkw biadab nih',NEG
+'jkw sering bcr ttg fungsi mngment planing kontroling klo itu bnr dilaksanakan kasus korupsi bus berkarat tj gak terjadi',NEG
+'terkenal setelah di tayangkan di begitu dasyatnya pencitraan jkw sehingga simpatisanya meganggap dia nabi ampunn sadar',NEG
+'jika anda memilih jkw krn revolusi mental yg digembar gemborkan maka lihat bgmn menyikapi pendukungnya yang menyegel tv one',NEG
+'dr kmren jg udh berulah udah ketahuan kelakuanya berpotensi berulah jk kalah',NEG
+'terkenal setelah di tayangkan di begitu dasyatnya pencitraan jkw sehingga simpatisanya meganggap dia',NEG
+'terkenal setelah di tayangkan di begitu dasyatnya pencitraan jkw',NEG
+'litbang kompas lsi dll tu lmbga survey bayaran cukong jkw ga kredible',NEG
+'waspada perlu diwaspadai smua daerah krn mrk mlm smua bergerak tim tertangkap lkkn serangan fjr',NEG
+'waspada perlu diwaspadai smua daerah krn mrk mlm smua bergerak tim tertangkap lkkn serangan fjr http',NEG
+'tim tertangkap serangan fajar',NEG
+'kirain cm isu gosip tim tertangkap lakukan serangan fajar juli curang panik jkw',NEG
+'dipertanyakan kpd jkw pencitraan kbohongan kerja mereka',NEG
+'reputasi koalisi pendukung jkw di mata umat semakin rusak dgn terjadinya tindakan anarkis koalisirapuh',NEG
+'ironisnya jkw sendiri tidak terlihat menolak tindakan anarkis tsb koalisirapuh',NEG
+'nyelamatin rekl benoa tapi ngarep ke jkw gak sadar tuh dibelakangnya ada cukong mentornya',NEG
+'andai memilih jkw dengan alasan sederhana saya tak mengerti kemiskinan yg dia pertontonkan di tengah gelimang hartanya tidakmemilih',NEG
+'serang fajar tim sdh ada yg ketangkap tuh nonton pildun tetap waspada man teman',NEG
+'beban besok ada di para saksi laporan dari jabodetabek ternyata banyak saksi palsu dari yg pura jadi saksi no',NEG
+'maliing tim tertangkap lakukan serangan fajar',NEG
+'what jkw berkah itu kan berkah menurut anda kalo menurut aku ya penipu ulung trus mau apa km mau km anggep nabi ya hehe',NEG
+'laporkan waspada serangan sahur fajar yg semakin gencar',NEG
+'andai memilih jkw dengan alasan sederhana saya tak mengerti kemiskinan yg dia pertontonkan di tengah gelimang hartanya',NEG
+'andai memilih jkw dgn alasan kepemimpinan saya tak melihat kepemimpinan yg menonjol selain pencitraan tidakmemilih',NEG
+'dan akhirnya kehilangan suara dan akhirnya ampe skrg ga dapet undangan cakep dah kelakuan kpu nya',NEG
+'ini curang bukan sih mbak gagalpaham jonru tim tertangkap lakukan serangan fajar',NEG
+'inilah karakter sombong pendukung jkw pada termakan pencitraan tanpa tw apa',NEG
+'timses jkw boyolali tertangkap lakukan srangan fajar barang bukti kartu indonesia sehat dan segepok uang palsu',NEG
+'kompas tempo detik dll udah jadi media buat pencitraan jkw pantas lo terbuai',NEG
+'si jkw ngomongnya aja mendukung penuh kemerdekaan palestina pencitraan huu',NEG
+'inget kata pak jk kalo jkw jadi presiden bisa hancur negeri ini jadi kita pilih nomer berapa haha',NEG
+'itu jg aq tau aq cm pgn bukti itu omongan jkw bneran apa cuma pencitraan',NEG
+'gue inget kata kata abang gue jangan pilih perang islam',NEG
+'berjejer mereka anti pdip dan anti',NEG
+'bagian mana yg sederhana usah bohong mengenal sosok sederhana capres di',NEG
+'tim jk tertangkap tangan lakukan serangan fajar curangteriakcurang jokokallah',NEG
+'revolusi mental dipopulerkan bapak sosialis komunis karl marx diteruskan ketua pki dn aidit kini diusung',NEG
+'tim tertangkap lakukan serangan fajar telinga mata dan hati rakyat',NEG
+'serangan fajar relawan ditangkap panwaslu',NEG
+'serangan fajar yg tertangkap kamera tadi sahur nheuri',NEG
+'lakukan penghinaan terhadap islam jakarta post media pro akan dilaporkan pada polisi dan dewan pers',NEG
+'salam pks nang ketua kpps pendukung ditangkap sebagai pelaku money politics',NEG
+'kita bikin rame tim tertangkap lakukan serangan fajar',NEG
+'ketua kpps pendukung ditangkap sebagai pelaku money politics',NEG
+'tim tertangkap lakukan serangan fajar hanya kecurangan yang memenangkan jokuwi jk',NEG
+'lembaga survey gk bsa percaya lagi kemungkinan rusuh pendukun jkw chaos karena klaim menang',NEG
+'sebelum kpu menetapkan wkt kampanye jkw sdh duluan sekarang sebelum hsl real count ditetapkan kpu jkw sdh deklarasi sbgi presiden qc',NEG
+'jkw ngaku menang lalu riya dgn melakukan deklarasi pdhl hanya quickcount jd ketika realcount mrk kalah mrk bs modu',NEG
+'kita tau makna dari slogan hanya kecurangan yang mengalahkan itu sebabnya langsung deklarasi',NEG
+'waspada melihat adanya potensi kerusuhan jika kalah by has been chirpified',NEG
+'jdi menangin dulu eeh melihat adanya potensi kerusuhan jika kalah by has been',NEG
+'mbelkedes ga mungkin itu hanya pencitraan tipu pd kader marhaenis jng percaya jkw',NEG
+'pembentukan opini dr awal akn mnang kcuali jk dcurangi deklarasi kmnangan kubu lmbga survey mmenangkan',NEG
+'melihat adanya potensi kerusuhan jika kalah by',NEG
+'follow melihat adanya potensi kerusuhan jika kalah by',NEG
+'melihat adanya potensi kerusuhan jika kalah by has been chirpified',NEG
+'deklarasi kemarin di rumah megawati hanya diisi asli orang orangnya mega orang orangnya tak nampak hadir',NEG
+'emang itu siapa pencitraan lu minta pbb hentikan serangan israel ke palestina',NEG
+'menaggapi deklarasi rachmawati soekarno putri rachmawati megawati terlihat haus kekuasaan',NEG
+'firstly like jkw coz dia pkerja keras tp sejak dia mempublikasikan betapa dia sbgai boneka saya jd kecewa',NEG
+'deklarasi jkw menang pilpres sdh direncanakan jauh hari karena kubu sdh tahu akan kalah itu tidak boleh terjadi',NEG
+'ad yg blg kl jkw jd presiden stelah itu dgulingkan krn tsk korup tj jk naik sbg presiden lalu puan naik sbg wakil bener ya',NEG
+'ya allah jkw melakukan pencitraan lg jlas si die di dkung amrik istri dan sekutunya zionis mau taqiyyah lg ya',NEG
+'ahok ttp bakal jd gub jkw kesrempet bus karatan ngeri banget dah',NEG
+'qc yg memanangkan jkw sy yakin adalah hasil rekayasa hendropriyono dan penggiat cukong dari cina',NEG
+'aajiibb kalah telak di papua ini hasil real count oleh pks di provinsi merdekacom',NEG
+'pendukung jkw kelakuan preman kantor jsi dilaporkan dilempar botol berisi bensin',NEG
+'selanjutnya adalah tribunnews bosawa dan kompas juga dikontrak untuk pencitraan palsu sejak',NEG
+'selanjutnya adalah metro tv media miik surya paloh ini adalah corong nomor peliputan pencitraan',NEG
+'lihat muka saat deklarasi terlihat bukan seorang pemenang terlihat pucat',NEG
+'isu mau dihabisin kembali mencuat',NEG
+'deklarasi menang pilpres sdh direncanakan jauh hari karena kubu sdh tahu akan kalah itu tidak boleh te',NEG
+'hmm dasar tukang bohong gt kabar menang di jeddah bohong ini buktinya via',NEG
+'jadi intinya adalah dan dahlan untung karena pencitraan metro tv sedangkan surya paloh untung krn dananya lan',NEG
+'bersyukur tdk pernah memilih jkw baik saat pemilihan gubernur maupun saat pemilihan capres',NEG
+'pak ada isu nanti ada kerusuhan di indonesia timur karena polisi mau menangkan jkw tapi pihak tn ga mau karena megawat',NEG
+'intinya survey tertutup jkw kalah penembakan kader pdi pembunuhan rusuh lawan aparat',NEG
+'dan pelanggaran kode etik itu sama sekali tidak disidangkan oleh komite etik kpk anggt komite etik kpk itu anies times jkw',NEG
+'melihat adanya potensi kerusuhan jika kalah by is gaining lot of attention',NEG
+'klaim tnp bukti jgn lecehkan kami pemilih jujur tim laporkn dugaan kecurangn masif',NEG
+'dasar penipu punya malu sdh merubah tp ngaku sontoloyo sebarkan agar smua tahu bhw kubu jkw merubah data',NEG
+'ayoo ingat pesan bung karno ya bukti jkw antek asing',NEG
+'kl jkw serupiah sj manggil media sedunia haduhh raja pencitraan',NEG
+'iya lah kita mah gak anarkis emang kayak pendukung jkw utang aja digembar gembor',NEG
+'kiamat kali ya colek juga melihat potensi kerusuhan jika kalah by',NEG
+'melihat adanya potensi kerusuhan jika kalah by chirpstory via',NEG
+'ujung nya tekanan buat kpu rusuh atau jkw menang',NEG
+'jkw tahu real count dia suaranya dibawah bowo jkw jg tahu sby lah lawannya saat ini sby sang raja pencitraan takutnya',NEG
+'di malaysia juga tim jkw emang pd koplak ngaku menang di arab ealah skrg keliatan klaimnya palsu',NEG
+'kpk punya siapa maling kok teriak maling urus korupsi jkw berani gak tunggu laporan kongkalikong pilpres',NEG
+'maling kok teriak maling urus korupsi jkw berani gak tunggu laporan kongkalikong pilpres',NEG
+'ada brp bnyk orang yg kehilangan kredibilitas dan reputasi hanya karena mendukung',NEG
+'benci saya udah nyampe ubun liat kelakuan jkw partainya',NEG
+'lbih ngawur jkw klemer antek pki dan cukong cina serta metro tv',NEG
+'deklarasi jkw menang tipuan qcount sdh direncanakn jauh hari krn kubu jkw sdh tahu akn kalah itu tdk blh tjd',NEG
+'kasus tvone kasus yogya pks yg anarkis saha weew serem kubu jkw mah apalagi ada isu dia dibunuh demi gagalin kpu tau ah',NEG
+'keganjilan kubu jkw mendeklarasikan kemenangan by chirpstory',NEG
+'insyaallah jgn sampe colek juga melihat potensi kerusuhan jika kalah by',NEG
+'colek juga melihat adanya potensi kerusuhan jika kalah by',NEG
+'kubu tahu mereka pasti kalah siapa juga yg mau pilih korup penipu pengkhianat pki lagi hny orang gila',NEG
+'kebangkitan komunis indonesia via by is fantastic',NEG
+'karena cuma di quick count bisa menang stoppenipuanpublik kami percaya quick count',NEG
+'jgn dibunuh dulu jakarta masih macet banjir skenario pembunuhan',NEG
+'ntr klo mng jgn rusuh ya rusuh',NEG
+'ada lg nih org bangga dgn kepalsuan jkw',NEG
+'islam dilecehin sama media penyokong jkw dari metro ampe tempo selalu pernah ngata in islam sekarang jakarta pos',NEG
+'hanya kebohongan yg diciptakan jkw',NEG
+'mantaps jkw kapan mundurnya neh kan sudah deklarasi menang tapi nggak pede buat mundur itu mah mencla mencle',NEG
+'denger dr temen yg bpknya orang pemda pd bersyukur klo jkw ga jd dki krn klo bikin acara thn baru ultah jkt pk duit pemda suka boros',NEG
+'taik kucing lah itu jkw memang serakah jabatan cool pencitraan',NEG
+'maksamenang ngajakrusuh lawan indikator ini upaya sistematis membentuk opini menangkan jkw',NEG
+'padahal malah jkw yg bawa palestina dlm debat capres ya kok gak konsisten ya kalo diblg pencitraan gak',NEG
+'golkar menyeberang ke akbar tandjung lihat hasil pilpres dulu namanya juga cari uang mas',NEG
+'tuyul dong om hahahah itu ciri main lilin pencitraan',NEG
+'naifnya jokowers yang membenci orba dibanding yg komunis by',NEG
+'video dilaporkan ke kpk dugaan korupsi transportasi youtube',NEG
+'sering cuti harusnya mundur dong dari gubernur dki penipu',NEG
+'bakal rusuh yang menarik itu kalo gagal jd presiden bakal di media darling kan lagi atau cari to',NEG
+'dasar media antek nya si capresboneka',NEG
+'republik lahirkan ahok ganjar ridwan kamil dst status quo bilang semua itu pencitraan aktiing',NEG
+'jkw diam nyuruh kacung nya bikin rusuh dasar makhluk primitif udah goblok tetap aja goblok contoh difitnah',NEG
+'dan kenyataannya pdip jkw itu satu paket setobuje maaf pdip punya track record buruk di mata gw heheu',NEG
+'ayo saya juga setuju kalo tutupmetrotv cuma tv ini yg terus an pencitraan yg laen udah ga ada tuh ckckck',NEG
+'semula berharap dia ditelpon ucapan selamat obama kevin rudd lee hsien liong minimal dari rrc eh ga ada mrka sd',NEG
+'sikap ucapan dan tindakan bukan saja sdh melanggar hukum tapi juga inskonstitusional dan membahayakan negara maka',NEG
+'gantung tangkap si di cilacap bw uang mobil mau dibagi asal warga pilih eh',NEG
+'astagfirullah serem ah tni polri katanya sengaja membiarkan pendukung dan media berbuat anarkis',NEG
+'emang rusuh giliran menang bangga lsg posting kl kalah teriak curang',NEG
+'da sdh ada laporan dr papua sy baru coba cek kec melagineri kab lanny jaya data tps sdh masuk suara duh',NEG
+'mnurut isu bbm yg bredar hr ini bendera pospera sdg siapkan rusuh apabila kalah benar tidaknya alah',NEG
+'akun abal pendukung twitnya sangat menghina dan sara dkk',NEG
+'aku tdk milih tuh pelanggaran ham itu korbannya puluhan ratusan ribu sebaian besar otak pelakunya di kb jkw',NEG
+'trik jkw paling kehilangan kesabaran terima laporan kecurangan di madura kilasindonesia',NEG
+'rakyat disana patuh pd seruan ulama madura suara nol di madura bukan pelanggaran pemilu',NEG
+'hebat rakyat disana patuh pd seruan ulama madura suara nol di',NEG
+'kehilangan kesabaran terima laporan kecurangan di madura',NEG
+'di prop papua kab lanny jaya kec melagineri kel yigimeli di tps jkw jk tdk dpt suara http',NEG
+'rakyat disana patuh pd seruan ulama madura suara nol di madura bukan pelanggaran pemilu http',NEG
+'haus kekuasaa ambisi menang sudah diumumkan di iklan media massa modus penipuan publik',NEG
+'ketua gp ansor tuduhan komunis hanya adu domba untuk hambat laju',NEG
+'dimanakah anies baswedan apakah karena sudah kalah akhirnya ia ngacir',NEG
+'suara nol untuk di madura bukan pelanggaran pemilu',NEG
+'kehilangan kesabaran terima laporan kecurangan di madura politik',NEG
+'tim hukum terima laporan dugaan kecurangan',NEG
+'saat ini yg ada diotak pdip tim bagaimana hasil akhir perhitungan kpu harus bisa menyesuaikan hasil quick coun',NEG
+'temui megawati laporkan penggembosan suara di jawa sekembalinya dari keliling jawa ca bajuri',NEG
+'temui megawati laporkan indikasi penggembosan suara kami melihat ada pola penggembosan',NEG
+'karna sbgian dari koalisi adlah kaum komunis yg anarki maka sperti itulah yg dlakukan jka nanti kalah atas ptusan kpu',NEG
+'hot bersiap kerusuhan pasca pengumuman kekalahan jkw by is likable',NEG
+'lol tdk apa tdk apa biar jkw jd presiden rakyat qc aja kalau kpu salah burhan jadi menteri qc',NEG
+'boneka yg nyuruh majikan jkw inget loh boneka ya ttp boneka mgkin bowo mnolak ktemu pencitraan ngga ni',NEG
+'lol tdk apa tdk apa biar jkw jd presiden rakyat qc aja kalau kpu salah burhan',NEG
+'lawan bersiap kerusuhan pasca pengumuman kekalahan jkw by is likable',NEG
+'bersiap kerusuhan pasca pengumuman kekalahan jkw by is likable',NEG
+'ahok bongkar kebohongan besar',NEG
+'lawan bersiap kerusuhan pasca pengumuman kekalahan jkw by is likable http',NEG
+'so msh mau maksa dukung jkw jg aku takkan dukung antek asing krn itu akan mhancurkan bangsaku dan mmiskinkan rakyat puas',NEG
+'tambah parah macet jd lbih parah bth waktu jam utk perjalanan ke slipi blum lg banjirnya sisanya pencitraan jkw',NEG
+'rencana bahaya kubu jkw mengotak atik hasil rc kpu by chirpstory',NEG
+'jgn mnutup mata mba kubu jkw jg ko lebih anarkis lg',NEG
+'korps mubaligh laporkan media pendukung jakarta post karena penghinaan atas agama islam korp kabari',NEG
+'bertambahnya jumlah org miskin di solo dan jakarta itu fakta kalo ada yg bilang berhasil atasi kemiskinan justru fitnah dan penipuan',NEG
+'mayoritas orang madura muslim yg tho at kpd ulama mereka takut nkri mnjd negri komunis haram pilih jkw',NEG
+'knp hrs kaget slma ini jkw itu pencitraan siapa yg mau pilih pemimpin anti islam asal usul aja gajelas aku ra',NEG
+'adil lembaga survei yang menangkan dilaporkan ke mabes polri yahoo news indonesia via',NEG
+'laporan sebagai petugas partai kepada megawati bahwa suaranya merasa digembosi',NEG
+'akan jadi tangis kita semua karena kemenangan palsu di pasangan kita kita di bohongi jkw',NEG
+'pantau langsung perolehan suara di jawa berdasarkan laporan tim sukses potensi kecurangan sangat',NEG
+'mengenal capres anak pki gerwani kader komunis rr angkatan pertama',NEG
+'antara lain issue tentang kerusuhan yg akan dibuat kubu jika dinyatakan kalah oleh kpu',NEG
+'haduh dpt nol lagi ya di tps ini suara nol',NEG
+'terbukti menggunakan buku nikah palsu kenapa belum ditangkap juga thn penjara',NEG
+'jkw ga suka koperasi lah jelas cukong nya aja pemilik bank hehe biar rakyat indo utang ke bank ga bsa bayar kan lahan nya ambil ckong',NEG
+'publik yg haus pemimpin bercitra kerakyatan terbius propaganda ala goebbels oleh kubu jkw',NEG
+'jkw ga suka koperasi lah jelas cukong nya aja pemilik bank hehe biar rakyat indo utang ke bank ga bsa bayar kan lahan',NEG
+'tuh ikutin kultwit mbah biar hapal cukong jkw hehe',NEG
+'asg pnya tw sma aja cukong jkw tapi yg saya liat kebanyakan iklan di metro tv itu milik agung sedayu grup kalo',NEG
+'ga tau apalagi yg bisa dipercaya dari tim kubu jkw speechless',NEG
+'asg apg itu sama bersaing cuma beda pemilik yah wlau dpnnya agung jg sama cukong jkw yg pengen ambil lahan indo sma pnya bank swasta',NEG
+'asg apg itu sama bersaing cuma beda pemilik yah wlau dpnnya agung jg sama cukong jkw yg pengen ambil lahan indo sma',NEG
+'asg pnya tw sma aja cukong jkw tapi yg saya liat kebanyakan iklan di metro tv itu milik agung seday',NEG
+'kalo pendukungnya masih ribut terus soal quick count kawal mrngawal kemungkinan mereka akan rusuh di tgl juli',NEG
+'alasan tni polri berdiam diri melihat anarkis kubu jkw is topping the popularity chart',NEG
+'kalau jkw kalah akan dibantai oleh semua yang selama ini susah payah mendongkrak pencitraannya',NEG
+'jare menang ning luar negeri keok gawe opini ne bisa bae rakyat cherbone gen ketipu lol',NEG
+'sekilas ingpo ott kpk tangkap pendana jkw by has been chirpified',NEG
+'sia sianya harapan jkw diberi selamat kepala negara asing by chirpstory',NEG
+'kepalsuan sang fenomenal jkw by chirpstory',NEG
+'benar sekali orang banyak yg pinter dan nggak terkecoh lg pencitraan ternyata calon pasien kpk tobatlah',NEG
+'artinya kubu jkw gak mau negri ini aman damai',NEG
+'ngaku tegas berani tantng ngebuktikn klu jkw ga sanggup trima dasar jkw penipu rakyat',NEG

@@ -1,0 +1,1106 @@
+@relation JKW_TWCL_2
+
+@attribute TWEETCL2_ string
+@attribute @@class@@ {POS,NEG}
+
+@data
+'pak manis juga ternyata',POS
+'tante dukung kah salam jari',POS
+'ada adalah peningkatan kualitas guru sertifikasi sertifikasi ada di',POS
+'tak akan hapus sertifikasi guru',POS
+'salam jari',POS
+'suka dengan perubahan ke arah lebih baik di tangan kerja istana baik',POS
+'basi tetap melaju',POS
+'ini komentar media internasional soal lagu salam dua jari salam jari',POS
+'kebanggaan seniman pendukung adalah tidak ada',POS
+'gue bikin no yang ayo pilih',POS
+'yakin tetap unggul',POS
+'menabung harapan untuk indonesia bersama kita',POS
+'kampanye di juni',POS
+'orang cerdas pilih',POS
+'teh jadi',POS
+'on salam jari jangan lupa coblos prahara',POS
+'istri bupati seribu tanda tangan untuk',POS
+'ya semua prestasi itu kurang apaan di berita ada kan dia kerja di',POS
+'hari santri nasional apresiasi kearifan lokal',POS
+'seniman yang kerap golput pilih',POS
+'tenang menang kok tuhan tidak akan membiarkan iblis jahat menang masa tuhan kalah iblis itu',POS
+'media komunitas sobat di dukung',POS
+'ayo mari gabung seribu pendukung bareng debat di tugu proklamasi',POS
+'alasan memilih salam jari',POS
+'buruh dan deklarasi',POS
+'kharisma kerakyatan jadi faktor surplus',POS
+'kreativitas manusia sumber daya ekonomi utama ekonomi kreatif beragam harus ruang oleh negara',POS
+'lebih deklarasi sahur on untuk bersama',POS
+'gue banget sama tapi karena lebih baik dari dia maka gue ada alasan untuk pilih dia',POS
+'pemilihan presiden adalah kegembiraan politik',POS
+'visi misi terkait isu jauh lebih baik',POS
+'yakin raih persen di',POS
+'hidup satu bendera tangga',POS
+'kalau bukan kita siapa lagi adalah kita kesimpulan kalau bukan siapa lagi',POS
+'komunikasi kan dua arah jadi selama dan wartawan saling ada masalah kalo soal mau lagi',POS
+'kalau negara kita mau maju indonesia harus memiliki manusia manusia dengan mental juara itu',POS
+'pilih karena dan jauh dari korupsi',POS
+'mau bodoh dungu koruptor masalah penting bukti bukan koar aja basi tau salam jari hidup',POS
+'bantu relawan',POS
+'cak sesumbar raih persen di',POS
+'bukti pak pak selalu tunggal indonesia jeda iklan',POS
+'gue bukan dan demi allah gue sama sekali buat ini demi kebaikan negara',POS
+'pilih karena dan jauh dari korupsi kampanye',POS
+'yuk para relawan nomor mudah',POS
+'negara ini harus menjadi negara produksi bukan negara konsumsi',POS
+'penyandang dukung jadi presiden',POS
+'indonesia allah terwujud bersama pasangan nomor salam jari',POS
+'mari kita dukung menjadi macan dan dukung presiden',POS
+'menciptakan lapangan kerja baru bagi juta tenaga kerja kata sementara tim ekonomi arif',POS
+'kurang dari tahun sudah membersihkan dan membangun taman baru seperti waduk dan waduk ria prestasi',POS
+'dari orang di bilang banyak perubahan di',POS
+'kita akan mengirim pada negara undang tenaga kerja jelas',POS
+'salam dua jari jangan lupa',POS
+'janji hari santri nasional',POS
+'sejak kecil saya tak pernah mimpi jadi presiden',POS
+'hubungan indonesia soal dan kewibawaan',POS
+'pendukung gelar spanduk sindir garuda merah',POS
+'tetangga lewat',POS
+'terang pilih',POS
+'no bekerja abjad indonesia dan adalah',POS
+'mantap saya dukung',POS
+'ratusan alumni dan pakar di media berat',POS
+'tanggal pesta demokrasi jari lupa',POS
+'wah yang di tugu proklamasi makin menguatkan dukungan pada',POS
+'ragu lagi pilih pak saya merasakan pak saat memimpin',POS
+'konser di bandung kami dukung salam jari',POS
+'video dokumentasi swadaya sumbangan istimewa',POS
+'jika terpilih akan dan kesejahteraan prajurit',POS
+'kamera bukan cari kamera',POS
+'dengan dua tukang becak dan keluarga supir',POS
+'komunitas sobat di dukung mantap nih',POS
+'junjung tinggi bineka tunggal dan pancasila',POS
+'giring yakin pilih setelah debat',POS
+'ratusan alumni dan pakar di media',POS
+'hidup ratusan alumni dan pakar di media',POS
+'info alasan gede berlabuh ke',POS
+'iya sudah membuktikan secara sederhana bahwa masalah distribusi bisa jika ada sedikit kemauan dari pemerintah',POS
+'ide mahal kemahalan nilai bila ada tren ide membuka mata perubahan',POS
+'tepis fitnah dengan kerja nyata pak',POS
+'adalah satu pembawa perubahan ke arah lebih baik terbukti solo dan mengubah mental birokrasi',POS
+'visi misi jelas banget jadi bingung pilihan',POS
+'tak akan menghapus sertifikasi guru salam jari',POS
+'tim sukses pemenangan membentuk satuan tugas khusus anti kecurangan dan politik',POS
+'berharap menang dan siap menunggu minggu ratusan alumni dan',POS
+'industri kreatif harus maju',POS
+'pengusaha apresiasi penjelasan soal',POS
+'bikin nih ini pak juga tiap kamera pasti senyum ah aku lah pak',POS
+'sudah membuktikan secara sederhana bahwa masalah distribusi bisa jika ada sedikit kemauan dari pemerintah',POS
+'keliling ganjar suara merdeka',POS
+'kopiah gus dur untuk via',POS
+'melakukan penggalangan dana kampanye untuk karena kesederhanaan sosok figur visi dan misi nomor urut',POS
+'dua tersebut pak kan sosok yang sangat sederhana beliau berteman dekat dengan rakyat pedagang juga dan',POS
+'ratusan alumni dan pakar di media ratusan itu bukan jutaan',POS
+'no urut pasti baik orang',POS
+dukung,POS
+'minta proaktif potensi pelanggaran kampanye',POS
+'pendukung yang aktif kontribusi nyata untuk masa depan bangsa bersama',POS
+'kebanggaan seniman pendukung ada semua nurani jernih tulus',POS
+'salam jari jangan lupa tanggal juli pilih',POS
+'karya animasi untuk via',POS
+'salam jari setiap lihat pak senyum ikut senyum',POS
+'seribu pendukung bareng debat di tugu proklamasi salam jari',POS
+'yang terjadi tetap pilih itu pilihan yang terbaik salam jari',POS
+'jumlah relawan satu juta',POS
+'no bekerja no bekerja no bekerja no bekerja semangat pak',POS
+'itu hak anak bangsa kita juga kenal mereka kata demokrasi kegembiraan itu',POS
+'anak muda tak lagi golput karena',POS
+'bicara bocor setiap hari dan',POS
+'dan restorasi maritim',POS
+'seribu pendukung bareng debat di tugu proklamasi via',POS
+'ada yu salam dua ini kenapa si orang orang saya kenal dan berada saya ada dukung',POS
+'kalo sebelah kebanggaan seniman pendukung adalah tidak ada semuanya karena nurani',POS
+'bareng relawan seribu ikan persen suara bareng diad',POS
+'internasional apresiasi gagasan soal pendidikan calon presiden nomor urut mengap',POS
+'internasional apresiasi gagasan soal pendidikan',POS
+'bisa indonesia poros maritim dunia',POS
+'bisa kepercayaan rakyat',POS
+'banyak banget seniman indonesia yang dukung mantap',POS
+'alumni deklarasi dukung',POS
+'alumni sekolah kompak dukung',POS
+'salam dua jari jangan lupa pilih nyanyi',POS
+'dari debat pak pak memang terbukti mereka adalah pekerja keras bekerja cepat bukan tukang obat jago pidato',POS
+'komunitas sobat di dukung',POS
+'yang terbaik',POS
+'persen pendidikan di harus menyangkut akhlak dan mental',POS
+'mantap ratusan alumni pakar di media',POS
+'bang di sini juga ratusan alumni dan pakar di media',POS
+'cinta dukung revolusi mental salam jari',POS
+'kurang dari dua tahun memanusiakan taman trotoar akses publik ke lebar',POS
+'salam jari genius semua pak',POS
+'aku benar benar terinspirasi seorang cinta revolusi mental',POS
+'anti jual diri kebanggaan seniman pendukung adalah tidak ada semuanya karena nurani jernih tulus',POS
+'percuma pertumbuhan ekonomi baik kalau tak ada pemerataan',POS
+'mega mari kita pilih pak banteng kurus kurus bukan karena makan tapi banyak tekanan perasaan',POS
+'warga sumbang ton beras buat salam jari nomor',POS
+'oke pak no bekerja salam jari',POS
+'mendengar suara rakyat itu penting',POS
+'ayo jaga dan jumlah pemilih kita survei mayoritas warga nu dan pilih',POS
+'pak mungkin begitu pintar tapi pasti dia dan akan bekerja optimis salam jari',POS
+aja,POS
+'cerdas cerdas dia dari solo bagus akhirnya jadi bisa nah nomor',POS
+'pemimpi banyak retorika kita butuh pemimpin hobi kerja ya hanya',POS
+'akan bekerja keras membuat pemerataan pembangunan',POS
+'salam jari jangan lupa pilih',POS
+'salam dua jari jangan lupa pilih kalau beda jangan marah kita tetap saudara',POS
+'seorang kakek datang ke bank menyumbang demi',POS
+'goresan ini untuk',POS
+'persahabatan global dan',POS
+'salam foto dengan tapi pilih',POS
+'jari ayo kita pilih',POS
+'jam pagi waktu banjir mengunjungi penjaga pintu air bawa makanan gubernur mana melakukan ini',POS
+'ingin warga rendah tetap mudah beli rumah',POS
+'gerakan sayang stop bicara sebelah',POS
+'untung bukan beliau',POS
+'bu sendirian bisa juga dukung yuk gabung sama bu',POS
+'semua wajib presiden republik indonesia',POS
+'pulang lewat tengah malam bangun pagi untuk jam kerja lagi kerja kerja kerja',POS
+'jarang datang di mana di dunia dalam sejarah pemimpin seperti saat ini indonesia yang kalau itu akan sayang',POS
+'aneh turun tapi dukungan',POS
+'adalah cermin rakyat sesungguhnya',POS
+'setiap lihat pak senyum ikut senyum',POS
+'ayo jumlah pemilih kita survei mayoritas warga nu',POS
+'debat ke harap tertinggi pemilih ada bisa baik',POS
+'demam kreatif hanya di kubu melahirkan semangat dan kreativitas anak muda pemimpin panutan',POS
+'pilih siapa pak',POS
+'keren nih net wawancara bareng net',POS
+'kata kalau pengusaha dan buruh sepakat untuk mendukung maka dia tidak percaya jika tidak menang',POS
+'salam jari mau mendengar rakyat suara memiliki',POS
+'ku yakin nomer satu nomer satu kan nomer dua pak kurang kreatif yang bikin lagu',POS
+'hati pilih nomor',POS
+'bukan boneka',POS
+'visi misi dan program untuk indonesia unduh visi misi di sini',POS
+'keren nih video animasi kampanye makin yakin dunia animasi masa depan cerah',POS
+'komunitas revolusi harmoni salam jari jangan lupa pilih lewat',POS
+'premis no kalau bukan kita siapa lagi premis no adalah kita kesimpulan kalau bukan siapa lagi',POS
+'kabar aktual apresiasi gagasan soal pendidikan',POS
+'salam jari kami hebat',POS
+'apresiasi gagasan soal pendidikan calon presiden nomor urut mengapresiasi performa',POS
+'ada berapa banyak rumah susun yang coba deh ke kalian lihat kehidupan di sana rumah hidroponik',POS
+'jangan lupa pilih coblos no salam jari',POS
+'lima juta jemaah dukung tempo',POS
+'komunitas alumni sekolah yang tergabung dalam komunitas alumni pagi ini mendeklarasikan',POS
+'jangan lupa pilih',POS
+'demi bu di',POS
+'kita satu saudara kalau beda jangan marah kita hanya cari pemimpin bukan cari pemimpi salam jari jangan lupa pilih',POS
+'salam damai indonesia untuk simbol garuda garuda',POS
+'lumayan fi buat duit lo deh juli pilih salam jari',POS
+'apa aku harus kayak dek ke biar tau isi itu apa',POS
+'para musisi hebat harus dukung pak',POS
+'lagu dukungan indonesia hebat presiden ku presiden',POS
+'para laskar tetap semangat kita sedang berpartisipasi membangun demokrasi indonesia lebih baik',POS
+'kisah cinta',POS
+'wah pasti om makanya senyum kaya yang kaya orang buang air',POS
+'kirim kader ke untuk raih suara guna memenangkan pasangan mengirim',POS
+'gue kritik kan gue uda ada prahara ada tapi ada poin bikin gue',POS
+'peduli ama visi misi segala langsung aja gue coblos kalo mah',POS
+'salam jari hidup',POS
+'jangan lupa ya teman tanggal juli jangan lupa coblos no urut yaitu salam dua jari',POS
+'abis bincang di net bagus itu merakyat on',POS
+'pilih salam jari buat',POS
+'mbak putus asa betapa fisik tidak menentukan prestasi kan makanya rajin biar he he',POS
+'apa kalau menjadi presiden yuk simak di salam jari',POS
+'khusus ada aplikasi penambah nih',POS
+'dukungan komunitas ka bah untuk',POS
+'banyak orang orang baik yang saya gagal golput tahun ini karena saya belum menemukan itu di kubu sebelah',POS
+'orang pintar pasti no',POS
+'itu konsep ini saya penjelasan',POS
+'apresiasi gagasan soal pendidikan calon presiden nomor urut',POS
+'ratusan alumni dan pakar di media lebih dari seratus alum',POS
+'kumpulan sarjana utara deklarasi dukung',POS
+'apresiasi gagasan soal pendidikan calon presiden nomor urut jok',POS
+'mereka pilih terbaik baik bagi saya pak itu terbaik maka golput',POS
+'juta siap dukung',POS
+'di dengan kami dukung',POS
+'giliran pemuda dukung',POS
+'memiliki cita cita besar untuk indonesia timur',POS
+'salam jari indonesia',POS
+'sekedar condong ke karena menilai kejahatan ham itu tidak bisa alasan',POS
+'jadi presiden akan bersama rakyat',POS
+'minta kader partai dan relawan bersinergi',POS
+'gus dur kalau baik orang akan memandang kolom agama di perlu korelasi',POS
+'ratusan alumni dan pakar di media via',POS
+'ya betul salam dua jari selalu di hati no bekerja',POS
+'kader demokrat komunitas pemilih dua dukung',POS
+'kerja tak pintar bicara',POS
+'jamu sehat cap',POS
+'iya yakin sih bersih amat tapi ada harapan di mereka',POS
+'organisasi bentuk dulur',POS
+'nilai tampil dengan paket komplit',POS
+'di kita bisa punya nama versi pas bagian isyarat jari tangan metal dan huruf',POS
+'tol laut bagi penting untuk memenuhi rasa keadilan rakyat',POS
+'ekonomi apresiasi gagasan soal pendidikan calon presiden nomor urut',POS
+'dalam pesan tersebut arifin ilham mengatakan kita dukung untuk memimpin kita dukung untuk',POS
+'relawan di lesehan rumah dan kios jadi',POS
+'isu fitnah terhadap mereka hanya ingin menjatuhkan',POS
+'para laskar tetap semangat kita sedang turut berpartisipasi membangun demokrasi indonesia yang lebih baik',POS
+'kerja tak pintar bicara pak itu sama dengan saya kerja bicara',POS
+'detik puji penampilan kuat penguasaan di lapangan mengaku bangga',POS
+'hari turut relawan jabar gelar doa bersama untuk',POS
+'optimis pertumbuhan ekonomi indonesia bisa di atas persen',POS
+'pak saya kagum penampilan bapak tadi semoga bapak dan pak menang di juli salam jari',POS
+'sindir soal paparan riset hatta di debat juru bicara tim pemenangan ka',POS
+'jadi presiden gubernur macan',POS
+'tak akan menghapus sertifikasi guru',POS
+'dorong subsidi silang biaya sekolah via',POS
+'naik ke panggung debat',POS
+'puji penampilan kuat penguasaan di lapangan',POS
+'apresiasi gagasan soal pendidikan',POS
+'masih tinggi meski propaganda hitam via',POS
+'dorong subsidi silang biaya sekolah',POS
+'pak emang enggak tetap pilih',POS
+'kiai nu utara dukung',POS
+'mengkritik jawaban mengenai alasan impor beras yang salah',POS
+'mengaku bangga dengan penampilan di ring debat kata',POS
+'debat bela pihak lawan',POS
+'puji penampilan kuat penguasaan di lapangan mengaku bangga dengan',POS
+'pameran foto kampanye kreatif foto jumbo',POS
+'yuk kampanye kreatif ajak teman lain mendukung pak',POS
+'untuk negeri',POS
+'masyarakat sumbang',POS
+'cinta dukung revolusi mental',POS
+'sebagai kepala keluarga yang jujur',POS
+'di mata',POS
+'saya bangga ke penguasaan lapangan kelihatan',POS
+'adalah kita dukungan tulus dari para pekerja seni',POS
+'dukungan untuk dulang kemenangan di',POS
+'warga cat genteng tulisan galang dana',POS
+'tak puji materi debat ketularan',POS
+potensial,POS
+'yakin mampu mengatasi korupsi',POS
+'teknologi saya bangga ke penguasaan lapangan kelihatan',POS
+'nomor untuk',POS
+'debat tim puas dengan penampilan',POS
+'kampanye bersama di tempo',POS
+'pemilih kalangan menengah itu seperti keju pemilih seperti semut tikar kelihatan namun akan muncul tepat',POS
+'terpilih harus menepati janji kami yakin akan jika terpilih',POS
+'wah otak ente sampah kalo fakta itu bukan fakta tuduhan',POS
+'secara nyata dukungan pasangan di wilayah jabar tetap unggul pasangan prahara',POS
+'survei barometer bila hari ini menang',POS
+'lu kali mah tetap',POS
+'di mata syafii',POS
+'bukti bahwa memang rakyat kecil',POS
+'ribuan umat islam di lombok menang juru bicara',POS
+'lagu yang terinspirasi dari dan kerja keras rakyat untuk indonesia',POS
+'bukan boneka bukan',POS
+'solusi korban',POS
+'pendukung bikin gerakan juta relawan saksi',POS
+'syukur dukungan ke',POS
+'lawan prahara kampanye hitam dan intimidasi',POS
+'ini fakta ibu dukung penuh',POS
+'populer di',POS
+'persen suara di los ke',POS
+'aku benar benar terinspirasi seorang cinta sudah menjalankan revolusi mental',POS
+'tenaga sosial dukung',POS
+'hal yang di pada masa pilih',POS
+'saya bangga ke penguasaan lapangan kelihatan enggan memberikan penilaian kepada penampilan',POS
+'cuma aja aja tumbang lawan',POS
+'meski wajah otak saya internasional',POS
+'saya sabar sabar sabar',POS
+'relawan keluarga nusantara dukung salam jari',POS
+'tak akan sebelum menang',POS
+'dukung relawan baru ganti nama jadi laskar biji kopi',POS
+'pegang peranan penting untuk revolusi mental',POS
+'lewat obor kita bicara kebaikan',POS
+'waktu tersisa',POS
+'usai bertemu kita butuh yang beri harapan',POS
+'janji pangkas sistim perizinan',POS
+'dukungan kepada dari warga dan pengusaha keturunan',POS
+'murah untuk nelayan',POS
+'deklarasi tim kampanye dan relawan',POS
+'sebut tak pintar bicara tapi kerja',POS
+'penari untuk',POS
+'masih tetap unggul',POS
+'relawan baru tetap dukung',POS
+'masyarakat adat kemenangan untuk di barat salam jari',POS
+'di mega bukan boneka',POS
+'demokrat netral tapi kata hati aku',POS
+'demokrat netral tapi kata hati aku berita',POS
+'deklarasi tenaga sosial dukung peta bisnis',POS
+'fitnah terjadi pada menjadi keyakinan rakyat bahwa menjadi dukungan rakyat memenangkan suara',POS
+'baca bang kenapa pilih kasih penjelasan dong',POS
+'sebagai simbol representasi rakyat salam jari',POS
+'yuk pak kampanye kreatif di',POS
+'saya bangga kepada penguasaan lapangan kelihatan',POS
+'tempat gus dur calon presiden mengunjungi mantan',POS
+'inti adalah kita',POS
+'itu tegas tanpa ragu bukan buas tanpa malu',POS
+'anti impor di depan pedagang pasar salam jari',POS
+'jelang kubu anti berupaya cerdik namun busuk misi menghancurkan gerakan revolusi mental zona netral',POS
+'ini sama bu salam jari',POS
+'satu kerja adalah mengandangkan monyet topeng monyet',POS
+'cak gus dur dan sama sama pemimpin ikhlas dan sabar salam jari',POS
+'deklarasi dukung salam jari',POS
+'visi misi dan program aksi untuk indonesia unduh visi misi di sini',POS
+'bisa dongkrak suara',POS
+'turut dukung pak kampanye positif yuk jadi di',POS
+'jangan banyak meminta harta karena tuhan sudah mengatur rejeki kita tinggal kita aja',POS
+'lima juta jemaah dukung',POS
+'ketua berbalik dukung',POS
+'sebagai simbol representasi rakyat kabar',POS
+'klik pasar kumuh',POS
+'din lu dukung intan dukung ya',POS
+'poros muda akan pemerataan pendidikan',POS
+'pasar kumuh',POS
+'pasar kumuh siang ini pria yang akrab disapa',POS
+'pasar kumuh siang ini pria yang akrab disapa menyambangi pa',POS
+'harapan pemahat batu terhadap',POS
+'indonesia jadi poros maritim dunia',POS
+'relawan tabloid lentera indonesia di',POS
+'yang ini juga keren salam jari lagu untuk dari komunitas negeri',POS
+'program dan raih penghargaan internasional',POS
+'info pasar kumuh siang ini pria yang akrab disapa menyambangi pasar',POS
+'kubu dukungan tak berpengaruh',POS
+'dengan rakyat akan ikhlas bayar pajak',POS
+'pasar kumuh siang ini pria yang akrab disapa menyambangi pasar',POS
+'ya ama tim wah parah',POS
+'memimpin kota adalah mengenali setiap permasalahan dan dan bersikap tegas itu tak harus keras',POS
+'pers indonesia laskar',POS
+'pendapatan naik triliun dalam setahun',POS
+'kampanye masyarakat bukan konglomerat',POS
+'memang tak pandai pidato tapi tahu bagaimana bekerja',POS
+'seperti suami saya sederhana mau',POS
+'ini cara berantas bandung calon presiden',POS
+'penilaian publik adalah sosok tegas berani masalah dan sebaliknya adalah',POS
+'kan ada cuma faktor survei itu rasa suka',POS
+'ya suruh ganti buat apa pelihara kompeten',POS
+'saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',POS
+'sindir menteri soal listrik di yang pet be',POS
+'popularitas meroket akibat kerja yuk kita baca',POS
+'akun jelas tuduh bukti relevan tangkap akun ini',POS
+'perusahaan harus berikan buruh upah yang layak kalau etos kerja sudah bagus maka gaji juga harus bagus',POS
+'mantap buat apa pelihara menteri tidak kompeten',POS
+'tol laut penting untuk memenuhi rasa keadilan rakyat',POS
+'seniman bandung dukung',POS
+'sudah terbiasa dengan cercaan fitnah dan tidak marah bukan pemarah bekerja dan bekerja',POS
+'mumpung bulan puasa berdoa ya semoga jadi presiden indonesia amin',POS
+'detik menuju kemenangan tinggal menghitung hari',POS
+'minta maaf atas penyerangan tim sukses pasangan dan',POS
+'dan ini terjadi di ramadan mengajarkan kita untuk menjalani kehidupan penuh syukur',POS
+'salam dua jari saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',POS
+'pagi ini aku memilih diam namun selain itu aku juga akan memilih nomor mas',POS
+'buat relawan hari ini pencoblosan di luar ayo kita kawal bersama di luar negeri dengan damai',POS
+'ki jaka gelar baru dari masyarakat',POS
+'jangan mafia haji dan daging berkuasa pilih',POS
+'bisa sulut pilih',POS
+'ki jaka gelar baru dari masyarakat jaka berarti ksatria ialah yang mengatur menata',POS
+'foto berkampanye di',POS
+'sama dengan takut akan rakyat',POS
+'salam dua jari ada ada',POS
+'indonesia butuh wajah pribumi hati surgawi orang nomor dua akan nomor ini',POS
+'ki jaka gelar baru dari masyarakat jaka berarti ksatria ialah ya',POS
+'kubu terima kasih',POS
+'minta semoga ini aman',POS
+'fakta sudah jual teluk ke investor takut malah dijual',POS
+'pelanggar ham pewaris gaya sedangkan tidak',POS
+'siap kedaulatan pangan via bila ekonomi di atas',POS
+'aku ingin pemimpin amanah bukan amarah aku ingin pemimpin mau bekerja hanya mengandalkan saja',POS
+'duh jelas beda loh ide usung revolusi mental transformasi mental kebebasan bebas beragama',POS
+'mau menang pasti naik pangkat',POS
+'dukungan petani indonesia mendukung pemimpin tulus hati peduli petani jari',POS
+'jujur kuat wong orang jujur dan kuat',POS
+'atas jangan sampai membohongi rakyat',POS
+'tapi artis keren intelek bermartabat semua dukung om nih',POS
+'memilih hari ini maaf sadar merusak foto pak indonesia lebih baik',POS
+'semoga yang memilih tak hanya masyarakat saja tapi masyarakat yang lebih luas',POS
+'aku pilih aja walau berpahala abis itu dan lupa bayar zakat sama aja berpahala',POS
+'kalau belum yakin sama cari info mereka di semua asal jangan salam jari',POS
+'secara rutin itu bukan hal cuma',POS
+'kawasan pasangan lebih unggul salam jari',POS
+'kita menang total pak menang tutup sendiri dijual',POS
+'secara rutin itu bukan hal cuma di saat',POS
+'masa kampanye pilih peduli masyarakat',POS
+deklarasi,POS
+'dukungan pelajar dan masyarakat indonesia di negeri ratu untuk',POS
+'dari semua saksi kasus tidak ada saksi yang mengatakan bahwa ikut',POS
+'kontrak politik untuk program nyata dan sudah tadi pagi',POS
+'bijaksana bapak presiden haji ini juli',POS
+'kontrak politik program nyata dan sudah tadi pagi',POS
+'sip semua gara gara bakso daripada prahara mending',POS
+'saya akan lawan kalau ia terbukti boneka dan rakyat alam sejauh ini terbukti jahat ya kubu reklamasi',POS
+'aku fanatik sama tetapi aku anti totaliter biasanya berkuasa dengan tangan besi',POS
+'salam dua jari mau',POS
+'sebagai seorang saya sangat ide untuk mengurangi dan saya',POS
+'di tengah ribuan rakyat musisi artis tokoh hadir sukarela tanpa tadi sore di',POS
+'pak bowo banget minta setuju biar sama',POS
+'prof penampilan meningkat',POS
+'debat malam ini moderator mantap pak pak dan mat dah',POS
+'ini foto belanda ini foto menyatu di',POS
+'dukung di debat pamungkas',POS
+'ibarat bola menang',POS
+'visi misi pangan brilian menurut iman apa yang oleh sebagai',POS
+'dukung syafii ini pilihan pribadi dan moral',POS
+'pemimpin yang berprestasi',POS
+'kita adalah harapan kekuatan kita ada pada kerelaan',POS
+'pria kelahiran tahun lalu ini merupakan figur yang menunjukkan',POS
+'ingat tidak cukup hanya dengan memberikan hak suara dukung orang baik alasan pilih',POS
+'jangan lupa coblos sebelah kanan no atas nama pres dan ingat nomer sebelah kanan anda salam jari',POS
+'jika anda pemilih cerdas dan menginginkan indonesia maju pilih presiden dan wakil presiden salam jari',POS
+'jika anda pemilih cerdas dan menginginkan indonesia maju pilih presiden dan wakil presiden kal',POS
+'relawan tak ternilai dengan uang nomor sederhana',POS
+'menjanjikan belum di liat perkataan kami sudah saya sudah kita sudah om kami akan kami akan',POS
+'indonesia adalah pemimpin sederhana jujur dan amanah terbukti untuk itu ayo kita coblos no salam jari',POS
+'aku masa depan sinema indonesia raya pada',POS
+ayo,POS
+'jangan lupa juli coblos salam jari mau',POS
+'dukungan kelompok musik terhadap bukan tiba tiba',POS
+'kami butuh pemimpin yang sederhana jujur berani merakyat dan bekerja bukan pemimpin yang',POS
+'entah bakal menang atau kalah berhasil pola pikir apatis menjadi optimis pasif aktif',POS
+besok,POS
+'lucu ada dan beliau tuhan doa',POS
+'pendukung prahara bersyukur atas kemenangan mereka pernah terbeli hati lagi',POS
+'tegas sama preman kok berani terbukti preman abang tetangga preman',POS
+'dan sampai jam dari pemilihan belum dari pendukung prahara prestasi calon mereka cuma jelek doang',POS
+'aku pilih jujur sederhana dan rakyat mengoleskan balsam di kaki',POS
+'menang telak di sumbar',POS
+'dengan tegas saya pilih',POS
+'aku nak pakde hidup pakde',POS
+'ingat ustad ingat nasib bangsa akan memimpin ke semoga mendukung merdeka',POS
+'di saat semuanya memprediksi tipis eh tau menang telak eh salam jari',POS
+'jangan lupa salam jari',POS
+'salut artis relawan tulus bela baik salam jari',POS
+'segala fitnah tipu daya prahara tak akan menyurutkan langkah memenangkan di jabar indonesia',POS
+'fitnah segala cara hanya gara terima bayaran dari prahara',POS
+'efek bagi saya efek satu suara saya kunci dan satu dan dua',POS
+'jangan lupa pilih salam jari juli',POS
+'media kampanye di detik terakhir sundari itu sederhana dan tegas',POS
+'bantu saya yuk dukung pak dengan cara salam jari',POS
+'sundari itu sederhana dan tegas',POS
+'meningkat rupiah menguat menang ekonomi tumbuh rakyat',POS
+'ingat ingat ingat ke pilih no',POS
+'gua pilih lis semoga aja menang lis iya gua balik lo pilih sapa',POS
+'nomor sederhana berani yahudi yang mendukung',POS
+'nomor sederhana hubungan indonesia soal dan kewibawaan',POS
+'dukung loh',POS
+'bismillah semoga tidak salah salam jari',POS
+'sundari itu sederhana dan tegas tempo',POS
+'biasanya golput sekarang harus',POS
+'jangan lupa datang ke yuk rame',POS
+'hari ini kita bahwa semua itu asli dan bukan rekayasa',POS
+'jadi visi pertama bilang pas di debat buat bantu aku orang yang',POS
+'aplikasi dan visi misi ekonomi lebih konkret',POS
+'demi saya harus walau perjalanan sangat panjang melalui',POS
+'anak muda dukung semua jangan ada golput salam jari',POS
+'pidato deklarasi kemenangan di tugu',POS
+'hasil penghitungan suara dari saya terima semalam menang di',POS
+'akhirnya nomor urut dua berani menggunakan bahasa inggris secara langsung dalam konferensi pers yang',POS
+'real hasil survei juli ini penipuan tim hukum sebaiknya lapor polisi',POS
+'tau isi hati anis kebaktian di',POS
+'gua sih pandangan ekonomi cakep cocok buat sebelah lupa ini negeri ada siap',POS
+'ayu kemenangan sementara kemenangan rakyat',POS
+'berpeluang merapat ke dukung',POS
+'dukungan rakyat presiden tidak dapat dengan uang kehendak rakyat salam jari',POS
+'data versi sulut unggul di',POS
+'cuma yang mampu bawa perubahan',POS
+'membangun opini meresahkan bahaya komunisme yang cabut izin penyiaran',POS
+'warga solo telah merayakan kemenangan calon presiden meskipun belum ada hasil resmi laporan audio',POS
+'gue mendukung sebagai presiden baru',POS
+'din puji wajah lebih cerah setelah',POS
+'di di menang telak hampir',POS
+'lapor rekap kelurahan resmi',POS
+'jika menang berpeluang kembali menjadi',POS
+'luar biasa pesantren menang telak',POS
+'beberapa dari sekian prestasi selama jadi gubernur',POS
+'terus dorong relawan proaktif kecurangan tim pemenangan',POS
+'berdasar hasil tampak mayoritas warga ingin presiden dan gubernur supaya koordinasi',POS
+'terus dorong relawan proaktif kecurangan',POS
+'terima laporan kecurangan di',POS
+'pendukung keganjilan ke kawal suara',POS
+'akhirnya menang',POS
+'indikasi melainkan menunjukkan bukti dari dulu sampai kiamat hasil',POS
+'pak kalo pres tolong tangkap akun fitnah sara biar yakin kalo kita pemerintahan ya',POS
+'pak kalo pres tolong tangkap akun fitnah sara biar yakin kalo kita',POS
+'ayo suara sang pemenang baca info ini',POS
+'laporan emiten semester bakal beri sentimen positif ke',POS
+'ayu rawat rambut di tempat sederhana',POS
+'tapi maaf pak bowo saya menghormati anda tapi saya lebih mencintai pak dia seperti harapan untuk indonesia',POS
+'alhamdulillah obor rakyat melempem menang mudah di',POS
+'hasil rekap kecamatan semua om',POS
+'jika terpilih menjadi presiden saya berharap sifat jaman sekarang menjadi sederhana seperti',POS
+'pelbagai kerusuhan yang akan terjadi tahun akan dapat jika jadi presiden',POS
+'jika pak baik cinta persatuan sekali saya siap menang kalah pendukung harap',POS
+'jelas kemenangan siapa kalah',POS
+'itu mengakui kemenangan awal seluruh dunia prediksi kemenangan siapa ya',POS
+'emang mantap nih menang mutlak',POS
+'batak emang mantap nih menang mutlak',POS
+'jelas menang',POS
+'koalisi permanen rakyat prahara koalisi permanen preman koruptor koalisi',POS
+'menang telak di luar negeri itu rakyat indonesia cerdas rekam jejak dan',POS
+'jika menjadi presiden saya berharap para menteri yang hanya meja saja tanpa mau turun di non',POS
+'loh coba kita ya kok pihak sebelah kaya kebakaran jenggot amat sih takut menang curiga sih',POS
+'salam jari presiden pilihan rakyat indonesia',POS
+'mengabdi kepada rakyat menjadi pemimpin rakyat',POS
+'hebat dah persen suara selisih unggul sekarang',POS
+'he he he rek menang di',POS
+'laporan dana kampanye periode halaman prahara satu saja cukup dong',POS
+'komitmen melaksanakan visi misi bersama rakyat mau ikut',POS
+'jari min mayoritas penduduk sah dalam mengharapkan presiden adalah',POS
+'mayoritas penduduk sah dalam mengharapkan presiden adalah',POS
+'jawab tidak maksimal bekerja walaupun melawan rakyat relawan dadakan sukarela',POS
+'kalah kok cak dong jadi rakyat besok panggil bapak presiden',POS
+'alhamdulillah mayoritas penduduk sah dalam mengharapkan presiden adalah',POS
+'dari hasil rekapitulasi suara pasangan calon presiden dan wakil presiden menang telak di',POS
+'saya berharap bapak dan menyerahkan kepemimpinan indonesia kepada bapak presiden kita',POS
+'nomor urut menjadi tamu kehormatan dalam konser hari menuju kemenangan rakyat',POS
+'akan ada tujuh hari pesta kemenangan rakyat calon presiden enggan pertemuan yang di',POS
+'real sementara unggul',POS
+'masyarakat mencintai bapak baik yang berdomisili di utara maupun yang berdomisili di',POS
+'di tangsel unggul suara suara pasangan ka',POS
+'dukung ada nazar nih menang',POS
+'menang di rekap suara sumber',POS
+'bukan pemimpin biasa indonesia butuh pemimpin yang berbeda kami merindukan pemimpin merakyat dan jujur',NEG
+'maka pasti terjadi mengingat motif awal dari sendiri apalagi lemah',NEG
+'pendukung di debat kali ini seperti penonton di dahsyat',NEG
+'sama kalo debat mau ulangan segala',NEG
+'politisi prihatin sumbangan dana ke pasangan calon presiden dan wakil',NEG
+'saya pilih no kebaikan presiden dan gubernur',NEG
+'tiap liat wajah aja presiden hancur indonesia diksi mau',NEG
+'masih dengan kompas pak kebelet pipis saat terjebak macet apa',NEG
+'menurut para bila jadi presiden maka indonesia akan di oleh kerajaan setan',NEG
+'ini bodoh karena ini pasti',NEG
+'adalah kita terus kasihan calon presiden',NEG
+'tugas mu dulu pak jangan tamak dengan kekuasaan',NEG
+'antar naik panggung debat',NEG
+'cuma mengingatkan jangan lupa pilih no adalah kita',NEG
+'kritik bisa hancur negeri ini kalau jadi presiden',NEG
+'bukan bikin',NEG
+'untuk cuma cuti aja kalo ya siap jadi pengangguran setelah',NEG
+'spanduk selamat puasa kubu salah fatal tulis bulan dan tanggal',NEG
+'di mata kami pemimpin minus di nol beku hati',NEG
+'asing camat negara asing mana suka makin hari kelihatan bego',NEG
+'yang pendukung dan merasa muslim hayo liat temu kangen eks',NEG
+'mau kompak tetap ada tapi sistem belajar harus',NEG
+'metromini terpaksa cari pembenaran gara jawaban tidak sesuai visi misi',NEG
+'said dukung itu berita dan bohong',NEG
+'orang pintar minum tolak angin orang pintar on lah kok jadi ke',NEG
+'pendukung merem masalah itu bang penting no',NEG
+'sikap pendukung jauh dari etika dan nilai agama',NEG
+'oh jauh etika dan nilai agama',NEG
+'itu kenapa setiap kamera langsung tersenyum jelek kalah',NEG
+'pak orang aku benar benar terkunci oleh wacana revolusi mental kasihan deh aku kagum',NEG
+'setahun alhamdulillah naik hanya jumlah orang miskin inflasi kemacetan korupsi pengangguran',NEG
+'zen ada bau bau komunis di belakang berada di makam',NEG
+'urus juta jiwa dan setengah mati dan emang punya kemampuan di solo boneka rudi',NEG
+'gua liat kalau pak dan pak berbicara membuat orang tertawa ada saja pemimpin begitu',NEG
+'di mata kami adalah pemimpin beku hati moral ada',NEG
+'lagi warga solo ke',NEG
+'revolusi mental di mata kami adalah',NEG
+'bohong masalah kasus bilang lapor',NEG
+'dan gue deh gue ya kaya anda bela jelek',NEG
+'om benar banyak orang cina bondong indonesia gol kan',NEG
+'alih jadi kartu malah sekarang jadi kartu mati bagi masyarakat klas bawah respek tandem prediksi',NEG
+'saja jadi gubernur selesai apalagi mau jadi presiden nasib negara ini',NEG
+'yuk detik membabi buta pasang berita hasil debat yang membuat kalah telak detik kan',NEG
+'hasil survei hanya unggul pada pemilih tidak tamat',NEG
+'aku tidak memilih karena sudah quran tidak amanah dan tambah semrawut',NEG
+'makanya hilang lagi pola sejak',NEG
+'dan stasiun televisi net pun terang dukung liat apa debat barusan',NEG
+'betul itu dari partai komunis',NEG
+'om dalam debat salah membenarkan penjualan',NEG
+'skandal besar di',NEG
+'ada golongan orang susah kasmaran pendukung',NEG
+'kami dia dan cari info makanya kami berani apa adanya kini takut mati',NEG
+'wah pejabat di',NEG
+'bahan lelucon aneh mental',NEG
+'ke prodeo bus trans om kalau perlu nanti suruh mati',NEG
+'tim rasanya aneh turun',NEG
+'kerja sedikit banyak di sorot media',NEG
+'lah emang bisa bahasa inggris kita ada doktor aja profesor lain',NEG
+'psikolog politik bisa bernasib buruk seperti mantan presiden',NEG
+'menuju kekalahan panik anis minta relawan solid',NEG
+'kalo menang semoga negara ini jadi negara pelawak',NEG
+'presiden kok rakyat ini cuma tau itu doang',NEG
+'itu di kok pelanggaran sit ah pasti yang suka doang',NEG
+'kontroversi politik anggaran',NEG
+'dalam lawatan ke dan belajar revitalisasi dan revolusi komunis',NEG
+'makanya pilih no biar langsung untung tahu apa marah kita harus',NEG
+'ya aja kalo liat muka pak berasa iba jahat emang ni boneka benci sama perempuan itu',NEG
+'fitnah ke nasi bungkus hina banget',NEG
+'apalagi urus bisa hancur ini kalo jadi presiden kata pak',NEG
+'cuman tiang monorel pak setahun',NEG
+'bahasa inggris ala',NEG
+'gada lebih bego dan awam daripada sok kepolosan dan kesederhanaan',NEG
+'pak tegas selama ini hanya setir oleh mega apa lapor mega aneh banget mega',NEG
+'makanya butuh revolusi mental om itu bego tamak serakah penipu korup lagi',NEG
+'dah menarik mas bicara jadi gubernur mental',NEG
+'cuma menjelekkan peserta lawan otak itu kosong mana ada sama seperti tong kosong',NEG
+'dah tobat kok ada mau setelah banyak fakta',NEG
+'korupsi dana pendidikan masyarakat solo desak tangkap',NEG
+'keuangan jeblok akan panggil',NEG
+'rakyat tidak pilih',NEG
+'hanya boneka aja tiap hari kenapa pemulung aja',NEG
+'pendukung nomor selalu boneka',NEG
+'cuma kapasitas hanya camat',NEG
+'warga ke kejaksaan agung',NEG
+'tampang makin songong dari janji buat jadi gubernur ada pun terlaksana kecuali',NEG
+'nah loh metro tidak tegas soal kasus bus',NEG
+'benar sikap pendukung jauh dari etika dan nilai agama',NEG
+'fakta korupsi bus karat buatan menyesal toh fakta bicara',NEG
+'layaknya malaikat',NEG
+'visi misi tidak lebih hanya publik menyorot agenda evaluasi pendidikan',NEG
+'mana bisa revolusi mental ada pendukung punya mental untuk revolusi mental',NEG
+'ha ha perlu nanti suruh mati ke tontonan memalukan asing',NEG
+'terlalu ulama nu seperti sebut bajingan lembaga islam',NEG
+'om romo kalah bakalan rusuh',NEG
+'pendukung pak aja pada kecewa ama pak di debat tadi',NEG
+'satu hal khawatir presiden pertemuan antar pemimpin bangsa mau apa inggris becus',NEG
+'mending balik jadi gubernur pak ke masjid via',NEG
+'kata mau apa ini bisa ini kalo aja dulu penjilat ludah',NEG
+'metro tidak tegas soal kasus bus bukankah lagi jaksa',NEG
+'harus metro usut temuan soal era',NEG
+'itu kecewa ama',NEG
+'jawaban normatif dari seorang yang plan bisa hancur negeri ini yang pimpin',NEG
+'saya korban politik uang',NEG
+'keinginan untuk menjadi calon presiden harus melalui jalan yang terjal setelah',NEG
+'pipa nus kan punya wajar pemberitaan begini metro tidak tegas soal kasus bus',NEG
+'setiap di tanya sama wartawan pa selalu jawab itu urusan saya sudah ada lah selama jadi aja pak',NEG
+'kami semua penghargaan adalah palsu rekayasa penghargaan semu buatan',NEG
+'nah metro tidak tegas soal kasus bus',NEG
+'kata negeri ini akan hancur bila jadi presiden yang bilang ini orang gila berarti',NEG
+'lah elu kan bang kok pak ini emang konsisten soal konsisten',NEG
+'fakta tidak tegas soal kasus bus',NEG
+'seru apalagi sampai sadar terbuka rahasia besar memalukan bisa kena semprot kami',NEG
+'loh emang pernah tegas metro tidak tegas soal kasus bus',NEG
+'zen ada bau bau komunis di belakang',NEG
+'pengakuan mantan solo di balik',NEG
+'hampir telanjang om kami dia dan cari info makanya kami berani apa adanya',NEG
+'uang rakyat miliar selama setahun di uang',NEG
+'terus keanehan kedua kok ya liat ibu puan maharani getol ada perseteruan apa di tubuh mereka',NEG
+'kalo jadi presiden bisa hancur negeri ini presiden',NEG
+'sih fanatik tapi cuma ada calon dan jadi lebih baik pilih',NEG
+'gue jawab rahasia basis militer as di konflik laut aja lepas tangan ada martabat',NEG
+'yang saya tidak suka adalah di antek komunis zionis dan hantu mereka menyinggung dukungan untuk',NEG
+'pasukan nasi bungkus seribu pendukung bareng debat di tugu proklamasi',NEG
+'politisi prihatin sumbangan dana ke via',NEG
+'situ komunis pilihan hati kenapa karena mereka adalah orang baik dan indonesia butuh orang baik',NEG
+'anjlok cium konspirasi',NEG
+'oh ya terakhir lembaga bayaran ada hasil suara di',NEG
+'emang palsu',NEG
+'ini fitnah tak solid dukung bisa',NEG
+'mereka para itu meniupkan isu bahwa terlibat sungguh ini isu biadab yang tidak takut tuhan',NEG
+'tangkap harus transparan soal korupsi dan',NEG
+'ogah semua wajib presiden republik indonesia',NEG
+'punya siapa si artikel begitu sisi negatif semua',NEG
+'apa kata adalah bentuk kecil dari visi misi kepemimpinan',NEG
+'ini nilai agama sikap pendukung jauh etika nilai agama',NEG
+'sebaiknya balik jadi gubernur aja dah urus program gagal seperti masalah belum selesai malah lari',NEG
+'itu bego tamak serakah penipu korup lagi eh lagi khianat lagi munafik lagi palsu lagi kok ada suka gila',NEG
+'ada apa ya tak solid dukung bisa',NEG
+'kampanye hitam dan intimidasi penurunan',NEG
+'oh ya terakhir lembaga bayaran ada',NEG
+'aja juga metro tidak tegas soal kasus bus',NEG
+'mega ayo mari kita pilih pak banteng kurus kurus bukan karena makan tapi banyak tekanan perasaan',NEG
+'nama pak sudah sangat baik tapi kini ternoda hingga bergabung ke',NEG
+'tapi tukang tipu bukan boneka',NEG
+'amien rais pakai untuk',NEG
+'terlihat sangat kagum kecerdasan dalam debat malam ini sesekali menoleh penuh keraguan',NEG
+'tim benci islam setelah muncul',NEG
+'uang rakyat miliar selama setahun di',NEG
+'ngeri sedap masuk barang usut temuan soal era',NEG
+'pak banget jantung yen sabar bapak bapak bisa dadi nomer',NEG
+'dari dulu tokoh mbah mulai pakai klenik',NEG
+'waduh anjlok cium konspirasi',NEG
+'penipu macet macet macet',NEG
+'penipu macet macet',NEG
+'penipu bebas macet bebas macet',NEG
+'dan terbukti tiap kamera mengarah ke deh cengengesan kata orang banci kamera',NEG
+'metro tidak tegas soal kasus bus',NEG
+'kritik bisa hancur negeri ini kalau jadi presiden presiden',NEG
+'terungkap bohong bungkam',NEG
+'kompleks tidak dan yang orang awam sih pasti jelek',NEG
+'video langgar sumpah jabatan gubernur via',NEG
+'berani jujur kecewa bilang kecewa itu kecewa ama',NEG
+'jadi banyak yang akhirnya berpihak ke karena pak di mana bagus',NEG
+'bisa pegang janji palsu',NEG
+'demi menang kak istri',NEG
+'tak solid dukung bisa',NEG
+'kebohongan belum apa apa tim sudah menipu warga nu',NEG
+'din manipulasi berita tentang',NEG
+'amien rais pakai untuk lewat',NEG
+'bukti dulu jika presiden bisa hancur negeri ini',NEG
+'memang bebal asal tidak tapi para tetap memuji lewat',NEG
+'ini alasan tanda tangan perjanjian muharam jadi hari santri jualan agama nih',NEG
+'nih bus berkarat sama loh luar biasa hukum di negeri ini',NEG
+'no anjlok cium konspirasi',NEG
+'fakta tentang apa anda punya bukti valid kalo itu',NEG
+'calon presiden nomor urut mengapresiasi performa da',NEG
+'puasa apa ya kok ikutan sahur bareng sahur dengan sayur',NEG
+'turun internal tegang',NEG
+'juga tidak boleh pakai bung apa dong panas',NEG
+'pendukung rata lulusan biasa aja apa yang itu',NEG
+'tadi sepertinya di belakang duduk bagaimana bisa pro rakyat kalau',NEG
+'warga kecewa kepada',NEG
+'para pendukung sebaiknya klarifikasi atau memang kebenaran tak bisa',NEG
+'ada di bungkus nasi kucing',NEG
+'membangun revolusi mental kalau kita melanggar sumpah gubernur mau',NEG
+'kalo aja boneka sudah membuktikan secara sederhana bahwa masalah',NEG
+'meni yang semua kaget juga kata pak',NEG
+'hanya kompas berani melawan arus yang penting senang hasil',NEG
+'ah pasti orasi di depan warga via',NEG
+'aja kasih skor merasa puas',NEG
+'dan his mempersoalkan pakai tangan kiri dan bukan tangan kanan',NEG
+'waktu doang buat apa dukungan untuk dulang kemenangan di',NEG
+anjing,NEG
+'ternyata rendah dan pantas berdebat saya',NEG
+'pendukung bodoh dan pendendam',NEG
+'ini bilang agama mulai syawal',NEG
+'kalah telak pendukung kehilangan pemikiran',NEG
+'jelas komunis tobat kan bilang dah ke komunitas pilih',NEG
+'saya mendukung merdeka emang lo lo',NEG
+'cih mah telak banget puji materi debat',NEG
+'sebar klaim bohong di dakwah',NEG
+'dari jaman saja baik bakal kalah dan banjir macet beres',NEG
+'bodor ada kentut pun wangi bagi pemuja',NEG
+'rakyat cerdas tak mau senyuman manis pak di depan kamera',NEG
+'di pendukung suara',NEG
+'urus dulu dukungan untuk dulang kemenangan di',NEG
+'modus ya pak dukungan untuk dulang kemenangan di',NEG
+'tunggu juli semua pilih nomer suara',NEG
+'berapa skor kayak bola saja aja jago',NEG
+'usut temuan soal era',NEG
+'harus sendiri via',NEG
+'pasti ganti jadi pemberani',NEG
+'minta demi debat',NEG
+'kan sunat hanya debat',NEG
+'bikin tegang',NEG
+'saya punya ide ibu mega dan pak karena emang begitu pak jadi',NEG
+'kristen ya pantas dukung jadi heran mengapa semua orang kristen katolik dukung ya',NEG
+'mesin tidak maksimal dukung',NEG
+'kok ra enak dukungan untuk dulang kemenangan di via',NEG
+'tangkap usut sampai tuntas gigi korupsi dana pendidikan masyarakat solo desak tangkap',NEG
+'membangun setelah tertunda emang tapi emang jadi tuntas urusan kelar malah pergi',NEG
+'jahat banget sepupu lo lihat pocong malah lihat mentang suka ke tempat',NEG
+'adalah sang kaum islamis bila jadi presiden nanti',NEG
+'tabloid obor lil oleh pesantren al adalah tabloid dusta dan fitnah',NEG
+'hanya debat minta salat di undur',NEG
+'bohong besar dana dari rakyat',NEG
+'aja rakyat lagi kebohongan',NEG
+'betapa orang pintar tahu korupsi tapi tetap apa lagi sampai orang untuk',NEG
+'liat aja muka',NEG
+'jelas nyata dan hasil pemberitaan media metro',NEG
+'indonesia hebat awas bahaya laten koruptor',NEG
+'heran sikap pendukung jauh dari etika dan nilai agama',NEG
+'asing untuk menebar fitnah budek yang cuma metro media indonesia tempo detik',NEG
+'malah negara as boneka lalu fitnah islam di si negara ini emang paling sering bikin',NEG
+'ya iya lah pak ambisius itu ambisius uang masyarakat termasuk uang anda pikir matang',NEG
+'ternyata pendukung sama penyembah',NEG
+'plan kontradiksi visi misi tak setuju pendidikan gratis',NEG
+'oh ya terakhir lembaga bayaran ada hasil',NEG
+'ibu kristen dia mengakui beda islam',NEG
+'jurus bus karatan mana efisiensi anggaran jurus pangkas hutang indonesia',NEG
+'bus karatan prof juga jadi tersangka gelar aksi solidaritas',NEG
+'kesalahan kedua kata dia adanya kubu yang solid dalam tubuh pengusung kalah',NEG
+'rakyat tidak bodoh terbukti segalanya',NEG
+'catut nama ulama desak media pro minta maaf',NEG
+'bongkar kebohongan besar',NEG
+'konsep revolusi mental tepat di bagi cacat mental serang segel rusak kantor',NEG
+'bangun curang agar',NEG
+'sadar penyegelan kantor paksa ingat bikin rame',NEG
+'kan rakyat bisa kemunafikan',NEG
+'makin antipati lihat kelakuan kalah di juli nanti',NEG
+'gambar aksi anarkis anak buah akan jadi putaran berita nasional dari',NEG
+'gambar putaran nasional berimbas ambrol total anarkis',NEG
+'kena gejala trauma deh jadi membabi buta rakyat makin banyak tak mau',NEG
+'aksi mendemo ini adalah bukti santri selama ini klaim dukung tak anak seperti ini',NEG
+'gambar ini secara nasional oleh rontok secara nasional',NEG
+'bang kehilangan kehormatan intelektual merapat hilang kehormatan',NEG
+'ciri pendukung no bodoh bermoral',NEG
+'kehilangan kehormatan merapat hilang kehormatan',NEG
+'pernyataan bagaikan bohong lebih bohong lagi has',NEG
+'awal kehancuran sebut kader anggota massa',NEG
+'kalau dia siaga satu kepung karena sudah mengkhawatirkan',NEG
+'adalah boneka boneka adalah dan kita bukan boneka salam garuda merah',NEG
+'kayak muncul di metro serangan fajar sudah kubu',NEG
+'betul kata kalau negeri ini',NEG
+'bukti dan telah paham komunis',NEG
+'fakta akan',NEG
+'gerus suara coba dengan',NEG
+'kita coblos no saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'kamu adalah mega kali saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'duh kalo kampanye suka begitu sih sering pak miris kalo liat macan kampanye',NEG
+'saya adalah kamu kamu adalah kita dan kita adalah bangsa indonesia',NEG
+'senjata makan tuan hasil revolusi mental tindakan anarkis di',NEG
+'hancur ini di tolong ke pelaku kekerasan kok',NEG
+'maksud hati mencari dukungan apa daya sana sini',NEG
+'sih kalo nanti kalian protes kebijakan tapi di jawab siapa suruh saya',NEG
+'namun ternyata ada satu orang paling tolol sedunia bernama meneruskan mimpi komunis di',NEG
+'kubu dengan tindakan has',NEG
+'kita pembohong hobi berbohong kita',NEG
+'serangan ke kebebasan pers',NEG
+'angkatan ke lima dan netral jika tidak akan',NEG
+'terungkap ala oleh',NEG
+'di jil sipilis perlu',NEG
+'om ini agitasi dan propaganda bermata dua kubu lihai situasi dan merekayasa',NEG
+'kompilasi asing dan antek',NEG
+'kubu sebelah bangga ada pembela pemerkosa dukung lewat video selamat ya bergembira korban pemerkosaan',NEG
+'jujur lepas peci malu islam doang kau pak dorong publik pilih',NEG
+'super bintang cukong super kaya sengaja pasang bakal ina sia',NEG
+'saya akhirnya pilih apa kan beliau sudah saya kalau pak ini aja',NEG
+'jika muslim kafir lalu kami ini non muslim kafir ya pemilih di',NEG
+'buat presiden aja',NEG
+'stasiun salah satu mending tenaga simpatisan dukung kan',NEG
+'banyak jenderal kubu bisa juga pakai spionase',NEG
+'hemat santri mana itu coba hibur saja ya ada sedikit',NEG
+'rela mati presiden lo ba',NEG
+'mega rakyat ya lah betul bukan rakyat perlu eksploitasi rakyat lah',NEG
+'tak bijak soal via',NEG
+'bukan mengandung unsur babi ini serius ulama mengharamkan memilih',NEG
+'salah galak itu para pendukung dan antek termasuk anda',NEG
+'dan ham bondong mendukung sengaja melupakan kasus',NEG
+'dukung no ini sudah seperti nabi oleh pernah salah',NEG
+'makin terbuka aja kompilasi asing antek has',NEG
+'salah pilih si bikin',NEG
+'jika saya terus di tuduh kita akan bikin ini kandang banteng sudah provokator',NEG
+'si perlu di revolusi mental',NEG
+'usah takut dan netral jika tidak akan provokator',NEG
+'dia ganyang dan netral jika tidak akan provokator',NEG
+'dan netral jika tidak akan provokator',NEG
+'apakah muslim tau adalah milik salim bukan milik brewok',NEG
+'iya rakyat baru sekarang buat main itu lebih oleh',NEG
+'iya dapat ajaran ya itu komunis mas tau deh',NEG
+'episode catatan pinggir daftar kebohongan',NEG
+'banyak dan urus becus di pendukung cara culas curang',NEG
+'no di masalah karatan solo utang banyak',NEG
+'sebagai isu pelanggaran ham oleh terlibat kasus',NEG
+'baca ini kampanye positif kronologis penangkapan relawan saat tabloid',NEG
+'seret aja baca ini kampanye positif kronologis penangkapan relawan saat',NEG
+'siapa yang penipu anggap koperasi tak tepat untuk petani dan nelayan',NEG
+'calon presiden terlihat takut ketika mengapa ia tidak melaporkan kasus korupsi pengadaan',NEG
+'dia memang komunis kali demikian juga orang di',NEG
+'suka aja gue liat',NEG
+'berita tepat mengartikan pernyataan ini',NEG
+'sekali lagi memahami arah di saat ingin itu ambil alih dan sedikit',NEG
+'kalian soal kostum kalian merem soal kostum si di kubu',NEG
+'tutup mata hati kerugian negara akibat kepemimpinan',NEG
+'pemimpin tak patuh hukum calon presiden nomor urut dua',NEG
+'wajib baca buat jaga rencana isu fitnah kerusuhan oleh kubu',NEG
+'muharam hari santri janji bertentangan dengan islam lil dukung',NEG
+'ini foto belanda ini foto menyatu di',NEG
+'cita cita luhur pendiri bangsa',NEG
+'dalang kerusuhan mei dukung',NEG
+'proyek mobil solo bakalan memajukan proyek mobil solo',NEG
+'catatan pinggir daftar kebohongan',NEG
+'tunduk sama moncong putih',NEG
+'kenapa enggan usut sidik tersangka konspirasi global',NEG
+'tokoh ke dan salah indikasi kalau anu memang daftar nama cukong lewat',NEG
+'berisik nih pendukung',NEG
+'hari mau rekor dunia minimal berapa hari',NEG
+'revolusi mental ala tim mereka siap menang tapi siap menerima kekalahan masih ada tuk mereka',NEG
+'di debat masalah koperasi eh bohong lagi masalah',NEG
+'melulu ternyata beri penghargaan via',NEG
+'yuk mas buka mata hati saya juga dulu pro habis jadi gubernur',NEG
+'mistis cukong dan ke dukun cukong bawa biksu ke ritual mata rakyat',NEG
+'politik dan minta sungguh terlalu pak jok siap siap setelah gagal awal tahun jadi tersangka',NEG
+'hari mau rekor dunia minimal berapa hari allah tau',NEG
+'hampir semua lembaga pro sekarang tiarap persis seperti laporan akhirnya kalah',NEG
+'puluhan juta muslim metro milik agar moncong komunis dukung',NEG
+'gabungan raja tipu tak pantas selain kolusi',NEG
+'plus video yahudi kafir cina boneka komunis',NEG
+'yakin kalah di',NEG
+'yahudi kafir cina boneka komunis mempan ibadah saja',NEG
+'laporan hutang hutang sederhana sumber',NEG
+'adalah media pengecut karena hanya menghadirkan lah bayaran pula',NEG
+'islam oleh media pro biadab nih',NEG
+'sering fungsi planing itu kasus korupsi bus berkarat terjadi',NEG
+'terkenal setelah di di begitu sehingga dia nabi sadar',NEG
+'jika anda memilih revolusi mental maka lihat menyikapi yang menyegel',NEG
+'berulah ketahuan berpotensi berulah kalah',NEG
+'terkenal setelah di di begitu sehingga dia',NEG
+'terkenal setelah di di begitu',NEG
+'kompas bayaran cukong',NEG
+'waspada perlu daerah bergerak tim tertangkap serangan',NEG
+'tim tertangkap serangan fajar',NEG
+'isu gosip tim tertangkap serangan fajar juli curang panik',NEG
+'kerja mereka',NEG
+'reputasi koalisi pendukung di mata umat semakin rusak tindakan anarkis',NEG
+'sendiri tidak terlihat menolak tindakan anarkis',NEG
+'tapi ke sadar ada cukong',NEG
+'andai memilih dengan alasan sederhana saya tak mengerti kemiskinan dia di tengah gelimang',NEG
+'serang fajar tim ada tetap waspada man teman',NEG
+'beban besok ada di para saksi laporan dari ternyata banyak saksi palsu dari pura jadi saksi no',NEG
+'berkah itu kan berkah menurut anda kalo menurut aku ya penipu ulung mau apa mau nabi ya',NEG
+'waspada serangan sahur fajar semakin gencar',NEG
+'andai memilih alasan kepemimpinan saya tak kepemimpinan menonjol selain',NEG
+'dan akhirnya kehilangan suara dan akhirnya ampe undangan cakep dah kelakuan',NEG
+'ini curang bukan sih mbak tim tertangkap serangan fajar',NEG
+'sombong pendukung pada termakan tanpa apa',NEG
+'tertangkap fajar barang bukti kartu indonesia sehat dan segepok uang palsu',NEG
+'kompas tempo detik jadi media buat pantas lo terbuai',NEG
+'si aja mendukung penuh kemerdekaan',NEG
+'kata pak kalo jadi presiden bisa hancur negeri ini jadi kita pilih nomer berapa',NEG
+'itu tau bukti itu omongan apa cuma',NEG
+'gue kata kata abang gue jangan pilih perang islam',NEG
+'mereka anti dan anti',NEG
+'bagian mana sederhana usah bohong mengenal sosok sederhana di',NEG
+'tim tertangkap tangan serangan fajar',NEG
+'revolusi mental bapak sosialis komunis ketua kini',NEG
+'tim tertangkap serangan fajar telinga mata dan hati rakyat',NEG
+'serangan fajar relawan',NEG
+'serangan fajar tertangkap kamera tadi sahur',NEG
+'penghinaan terhadap islam media pro akan pada polisi dan dewan pers',NEG
+'salam nang ketua pendukung sebagai pelaku',NEG
+'kita bikin rame tim tertangkap serangan fajar',NEG
+'ketua pendukung sebagai pelaku',NEG
+'tim tertangkap serangan fajar hanya kecurangan yang memenangkan',NEG
+'lembaga percaya lagi kemungkinan rusuh karena klaim menang',NEG
+'sebelum menetapkan kampanye sekarang sebelum real deklarasi presiden',NEG
+'menang lalu melakukan deklarasi hanya ketika kalah',NEG
+'kita tau makna dari slogan hanya kecurangan yang mengalahkan itu langsung deklarasi',NEG
+'waspada adanya potensi kerusuhan jika kalah has',NEG
+'dulu adanya potensi kerusuhan jika kalah has',NEG
+'mungkin itu hanya tipu kader marhaenis percaya',NEG
+'pembentukan opini awal deklarasi kubu',NEG
+'adanya potensi kerusuhan jika kalah',NEG
+'adanya potensi kerusuhan jika kalah has',NEG
+'deklarasi kemarin di rumah hanya asli orang mega orang tak nampak hadir',NEG
+'emang itu siapa lu minta serangan ke',NEG
+'deklarasi putri terlihat haus kekuasaan',NEG
+'dia keras sejak dia betapa dia boneka saya kecewa',NEG
+'deklarasi menang jauh hari karena kubu tahu akan kalah itu tidak boleh terjadi',NEG
+'presiden itu korup naik presiden lalu puan naik wakil ya',NEG
+'ya allah melakukan si di istri dan zionis mau ya',NEG
+'bakal bus karatan ngeri banget dah',NEG
+'yakin adalah hasil rekayasa dan penggiat cukong dari cina',NEG
+'kalah telak di ini hasil real oleh di provinsi',NEG
+'pendukung kelakuan preman kantor botol berisi bensin',NEG
+'selanjutnya adalah dan kompas juga untuk palsu sejak',NEG
+'selanjutnya adalah metro media surya ini adalah corong nomor peliputan',NEG
+'lihat muka saat deklarasi terlihat bukan seorang pemenang terlihat pucat',NEG
+'isu mau kembali mencuat',NEG
+'deklarasi menang jauh hari karena kubu tahu akan kalah itu tidak boleh te',NEG
+'dasar tukang bohong kabar menang di bohong ini via',NEG
+'jadi adalah dan untung karena metro sedangkan surya untung',NEG
+'bersyukur pernah memilih baik saat pemilihan gubernur maupun saat pemilihan',NEG
+'pak ada isu nanti ada kerusuhan di indonesia timur karena polisi mau tapi pihak mau karena',NEG
+'tertutup kalah penembakan kader pembunuhan rusuh lawan aparat',NEG
+'dan pelanggaran kode etik itu sama sekali tidak oleh komite etik komite etik itu',NEG
+'adanya potensi kerusuhan jika kalah lot',NEG
+'klaim bukti kami pemilih jujur tim dugaan masif',NEG
+'dasar penipu punya malu sontoloyo agar tahu kubu data',NEG
+'ingat pesan bung ya bukti antek asing',NEG
+'serupiah media sedunia raja',NEG
+'iya lah kita mah anarkis emang kayak pendukung utang aja gembor',NEG
+'kiamat kali ya colek juga potensi kerusuhan jika kalah',NEG
+'adanya potensi kerusuhan jika kalah via',NEG
+'ujung tekanan buat rusuh atau menang',NEG
+'tahu real dia bowo tahu lah saat ini sang raja',NEG
+'di juga tim emang menang di arab palsu',NEG
+'punya siapa maling kok teriak maling urus korupsi berani tunggu laporan kongkalikong',NEG
+'maling kok teriak maling urus korupsi berani tunggu laporan kongkalikong',NEG
+'ada orang kehilangan kredibilitas dan reputasi hanya karena mendukung',NEG
+'benci saya liat kelakuan',NEG
+'antek dan cukong cina serta metro',NEG
+'deklarasi menang tipuan jauh hari kubu tahu kalah itu',NEG
+'kasus kasus anarkis kubu mah apalagi ada isu dia demi tau ah',NEG
+'keganjilan kubu mendeklarasikan kemenangan',NEG
+'colek juga potensi kerusuhan jika kalah',NEG
+'colek juga adanya potensi kerusuhan jika kalah',NEG
+'kubu tahu mereka pasti kalah siapa juga mau pilih korup penipu pengkhianat lagi orang gila',NEG
+'kebangkitan komunis indonesia via',NEG
+'karena cuma di bisa menang kami percaya',NEG
+'dulu masih macet banjir skenario pembunuhan',NEG
+'rusuh ya rusuh',NEG
+'ada nih bangga kepalsuan',NEG
+'islam sama media penyokong dari metro ampe tempo selalu pernah islam sekarang pos',NEG
+'hanya kebohongan',NEG
+'kapan kan sudah deklarasi menang tapi buat mundur itu mah',NEG
+'orang bersyukur bikin acara baru duit suka boros',NEG
+'kucing lah itu memang serakah jabatan',NEG
+'lawan indikator ini upaya sistematis membentuk opini',NEG
+'padahal malah bawa debat ya kok konsisten ya kalo',NEG
+'menyeberang ke akbar lihat hasil dulu juga cari uang mas',NEG
+'tuyul dong om itu ciri main lilin',NEG
+'yang membenci komunis',NEG
+'video ke dugaan korupsi transportasi',NEG
+'sering cuti mundur dong dari gubernur penipu',NEG
+'bakal rusuh yang menarik itu kalo gagal presiden bakal di media kan lagi atau cari to',NEG
+'dasar media antek si',NEG
+'republik ganjar kamil status bilang semua itu',NEG
+'diam kacung bikin rusuh dasar makhluk primitif goblok tetap aja goblok contoh',NEG
+'dan itu satu paket maaf punya buruk di mata',NEG
+'ayo saya juga setuju kalo cuma ini terus ada',NEG
+'semula berharap dia ucapan selamat liong minimal dari eh ada',NEG
+'sikap ucapan dan tindakan bukan saja melanggar hukum tapi juga dan membahayakan negara maka',NEG
+'gantung tangkap si di uang mobil mau asal warga pilih eh',NEG
+'astagfirullah ah sengaja membiarkan pendukung dan media berbuat anarkis',NEG
+'emang rusuh giliran menang bangga kalah teriak curang',NEG
+'da ada laporan baru coba cek jaya data masuk suara duh',NEG
+'isu ini bendera rusuh apabila kalah benar alah',NEG
+'akun pendukung sangat menghina dan sara',NEG
+'aku pelanggaran ham itu puluhan ratusan ribu besar otak di',NEG
+'trik paling kehilangan kesabaran terima laporan kecurangan di',NEG
+'rakyat patuh seruan ulama suara nol di bukan pelanggaran',NEG
+'hebat rakyat patuh seruan ulama suara nol di',NEG
+'kehilangan kesabaran terima laporan kecurangan di',NEG
+'di prop jaya di suara',NEG
+'haus ambisi menang sudah di iklan media massa modus penipuan publik',NEG
+'ketua ansor tuduhan komunis hanya adu domba untuk hambat laju',NEG
+'apakah karena sudah kalah akhirnya ia',NEG
+'suara nol untuk di bukan pelanggaran',NEG
+'kehilangan kesabaran terima laporan kecurangan di politik',NEG
+'tim hukum terima laporan dugaan kecurangan',NEG
+'saat ini ada tim bagaimana hasil akhir perhitungan harus bisa menyesuaikan hasil',NEG
+'penggembosan suara di dari keliling ca',NEG
+'indikasi penggembosan suara kami ada pola penggembosan',NEG
+'dari koalisi kaum komunis anarki maka itulah nanti kalah atas',NEG
+'hot bersiap kerusuhan pengumuman kekalahan',NEG
+'apa apa biar presiden rakyat aja kalau salah burhan jadi menteri',NEG
+'boneka majikan loh boneka ya boneka bowo ni',NEG
+'apa apa biar presiden rakyat aja kalau salah burhan',NEG
+'lawan bersiap kerusuhan pengumuman kekalahan',NEG
+'bersiap kerusuhan pengumuman kekalahan',NEG
+'mau dukung aku dukung antek asing itu akan dan rakyat puas',NEG
+'tambah parah macet parah waktu jam perjalanan ke',NEG
+'rencana bahaya kubu mengotak hasil',NEG
+'mata kubu lebih anarkis',NEG
+'korps media pendukung karena penghinaan atas agama islam',NEG
+'jumlah miskin di solo dan itu fakta kalo ada bilang berhasil kemiskinan justru fitnah dan penipuan',NEG
+'mayoritas orang muslim ulama mereka takut komunis haram pilih',NEG
+'kaget ini itu siapa mau pilih pemimpin anti islam asal usul aja aku ra',NEG
+'adil lembaga survei yang ke indonesia via',NEG
+'laporan sebagai petugas partai kepada bahwa merasa',NEG
+'akan jadi tangis kita semua karena kemenangan palsu di pasangan kita kita di',NEG
+'pantau langsung perolehan suara di berdasarkan laporan tim sukses potensi kecurangan sangat',NEG
+'mengenal anak kader komunis angkatan pertama',NEG
+'antara lain tentang kerusuhan akan kubu jika kalah oleh',NEG
+'nol lagi ya di ini suara nol',NEG
+'terbukti menggunakan buku nikah palsu kenapa belum juga penjara',NEG
+'suka koperasi lah jelas cukong aja pemilik bank biar rakyat utang ke bank bayar kan lahan ambil',NEG
+'publik haus pemimpin kerakyatan terbius propaganda ala oleh kubu',NEG
+'suka koperasi lah jelas cukong aja pemilik bank biar rakyat utang ke bank bayar kan lahan',NEG
+'mbah biar hapal cukong',NEG
+'aja cukong tapi saya liat kebanyakan iklan di metro itu milik agung grup kalo',NEG
+'tau apalagi bisa dari tim kubu',NEG
+'itu sama cuma beda pemilik agung sama cukong ambil lahan bank swasta',NEG
+'itu sama cuma beda pemilik agung sama cukong ambil lahan',NEG
+'aja cukong tapi saya liat kebanyakan iklan di metro itu milik agung',NEG
+'kalo masih ribut terus soal kawal kemungkinan mereka akan rusuh di juli',NEG
+'alasan berdiam diri anarkis kubu',NEG
+'kalau kalah akan oleh semua yang selama ini susah payah mendongkrak',NEG
+'menang ning luar negeri keok opini bisa rakyat gen',NEG
+'sekilas tangkap pendana has',NEG
+'sia harapan selamat kepala negara asing',NEG
+'kepalsuan sang fenomenal',NEG
+'benar sekali orang banyak dan terkecoh ternyata calon pasien',NEG
+'kubu mau ini aman damai',NEG
+'tegas berani sanggup dasar penipu rakyat',NEG
+'padahal pak bersabar dulu bisa jadi pilih',NEG
+'banteng panik juli ribuan relawan turun ke jalan',NEG
+'ternyata tertangkap itu agen sekilas tangkap pendana',NEG
+'dasar kubu munafik curang teriak curang minta pencoblosan ulang di keterlibatan birokrasi',NEG
+'kalau kalah mending rusuh saja itu kalimat keluar dari tadi malam dengan nada',NEG
+'sekilas tangkap pendana',NEG
+'saya belum apa apa kubu sudah bikin rusuh di kalo metro kayak apa',NEG
+'ironis ketika semua bukti telah terkuak bahwa adalah komunis dan sebagian rakyat indonesia masih menutup',NEG
+'sekilas tangkap pendana bang',NEG
+'mengenal anak kader komunis angkatan pertama lewat',NEG
+'rakyat jangan di periksa mega kasus usut sampai tuntas tas tas',NEG
+'tapi wajar ketika pendukung anarkis pada juli nanti kan memang mereka kalo sudah menang',NEG
+'dari sejak beberapa taipan cukong mendanai seperti taipan daftar cukong',NEG
+'hanya kecurangan bisa memenangkan',NEG

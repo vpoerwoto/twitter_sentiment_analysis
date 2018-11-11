@@ -1,0 +1,1879 @@
+@relation 'PRAB_TWCL_1_uni-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1200-prune-rate-1.0-T-I-N1-L-stemmerweka.core.stemmers.NullStemmer-M3-stopwordsD:\\~tesis\\~play\\stopword_list_tala.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 1 -min 1'
+
+@attribute @@class@@ {POS,NEG}
+@attribute abadi numeric
+@attribute ada numeric
+@attribute adalah numeric
+@attribute agar numeric
+@attribute ah numeric
+@attribute aja numeric
+@attribute ajak numeric
+@attribute akan numeric
+@attribute akhirnya numeric
+@attribute aku numeric
+@attribute al numeric
+@attribute ala numeric
+@attribute alasan numeric
+@attribute alhamdulillah numeric
+@attribute allah numeric
+@attribute amin numeric
+@attribute anak numeric
+@attribute anda numeric
+@attribute anies numeric
+@attribute apa numeric
+@attribute apresiasi numeric
+@attribute arifin numeric
+@attribute asia numeric
+@attribute atas numeric
+@attribute atau numeric
+@attribute att numeric
+@attribute ayah numeric
+@attribute bagaimana numeric
+@attribute bagi numeric
+@attribute bagus numeric
+@attribute bahwa numeric
+@attribute baik numeric
+@attribute bakal numeric
+@attribute bali numeric
+@attribute bangkit numeric
+@attribute bangsa numeric
+@attribute banten numeric
+@attribute banyak numeric
+@attribute bapak numeric
+@attribute barat numeric
+@attribute bawaslu numeric
+@attribute beliau numeric
+@attribute belom numeric
+@attribute bem numeric
+@attribute bener numeric
+@attribute berani numeric
+@attribute beras numeric
+@attribute bergerak numeric
+@attribute beri numeric
+@attribute berikan numeric
+@attribute berita numeric
+@attribute berkah numeric
+@attribute berkata numeric
+@attribute bersama numeric
+@attribute bersih numeric
+@attribute berwibawa numeric
+@attribute besar numeric
+@attribute bete numeric
+@attribute bicara numeric
+@attribute bisa numeric
+@attribute blusukan numeric
+@attribute bpk numeric
+@attribute bs numeric
+@attribute bu numeric
+@attribute buat numeric
+@attribute buka numeric
+@attribute bukan numeric
+@attribute bukti numeric
+@attribute bulan numeric
+@attribute bung numeric
+@attribute bupati numeric
+@attribute buruh numeric
+@attribute butuh numeric
+@attribute by numeric
+@attribute calon numeric
+@attribute capres numeric
+@attribute cara numeric
+@attribute cawapres numeric
+@attribute cc numeric
+@attribute cenderung numeric
+@attribute cerdas numeric
+@attribute cinta numeric
+@attribute cirebon numeric
+@attribute cita numeric
+@attribute coblos numeric
+@attribute cuma numeric
+@attribute dalam numeric
+@attribute dan numeric
+@attribute dana numeric
+@attribute dapat numeric
+@attribute dari numeric
+@attribute debangamh numeric
+@attribute debat numeric
+@attribute dekat numeric
+@attribute deklarasi numeric
+@attribute demokrasi numeric
+@attribute dengan numeric
+@attribute desa numeric
+@attribute dg numeric
+@attribute dgn numeric
+@attribute di numeric
+@attribute dia numeric
+@attribute dinilai numeric
+@attribute diserang numeric
+@attribute doa numeric
+@attribute doakan numeric
+@attribute dprd numeric
+@attribute dr numeric
+@attribute dua numeric
+@attribute dukung numeric
+@attribute dukungan numeric
+@attribute dulu numeric
+@attribute dur numeric
+@attribute ee numeric
+@attribute ekonomi numeric
+@attribute elektabilitas numeric
+@attribute emang numeric
+@attribute fakta numeric
+@attribute ga numeric
+@attribute gak numeric
+@attribute gakjadipilihjokuwi numeric
+@attribute ganjar numeric
+@attribute garuda numeric
+@attribute garudamerah numeric
+@attribute gerakan numeric
+@attribute gitu numeric
+@attribute greenpeace numeric
+@attribute gue numeric
+@attribute gugur numeric
+@attribute guru numeric
+@attribute gus numeric
+@attribute gw numeric
+@attribute haha numeric
+@attribute hamdan numeric
+@attribute hanura numeric
+@attribute hanya numeric
+@attribute hari numeric
+@attribute harus numeric
+@attribute hasil numeric
+@attribute hati numeric
+@attribute hatta numeric
+@attribute hattawapresku numeric
+@attribute hattawin numeric
+@attribute hehe numeric
+@attribute hidup numeric
+@attribute hitam numeric
+@attribute hrs numeric
+@attribute ht numeric
+@attribute ibu numeric
+@attribute ilham numeric
+@attribute imsakiyah numeric
+@attribute in numeric
+@attribute indonesia numeric
+@attribute indonesiabangkit numeric
+@attribute info numeric
+@attribute ingin numeric
+@attribute ini numeric
+@attribute insya numeric
+@attribute internet numeric
+@attribute islam numeric
+@attribute islami numeric
+@attribute itu numeric
+@attribute jadi numeric
+@attribute jadwal numeric
+@attribute jakarta numeric
+@attribute jangan numeric
+@attribute jari numeric
+@attribute jateng numeric
+@attribute jatuh numeric
+@attribute jawa numeric
+@attribute jawaban numeric
+@attribute jd numeric
+@attribute jg numeric
+@attribute jgn numeric
+@attribute jika numeric
+@attribute jitu numeric
+@attribute jiwa numeric
+@attribute jk numeric
+@attribute joki numeric
+@attribute juga numeric
+@attribute juni numeric
+@attribute juta numeric
+@attribute kabar numeric
+@attribute kader numeric
+@attribute kalah numeric
+@attribute kalau numeric
+@attribute kali numeric
+@attribute kalo numeric
+@attribute kami numeric
+@attribute kampanye numeric
+@attribute kamu numeric
+@attribute kan numeric
+@attribute karena numeric
+@attribute karna numeric
+@attribute kata numeric
+@attribute kau numeric
+@attribute kaya numeric
+@attribute ke numeric
+@attribute kebocoran numeric
+@attribute keluarga numeric
+@attribute kemenangan numeric
+@attribute kenapa numeric
+@attribute kepada numeric
+@attribute kepemimpinan numeric
+@attribute keputusan numeric
+@attribute keren numeric
+@attribute kesalahan numeric
+@attribute ketika numeric
+@attribute ketua numeric
+@attribute khawatir numeric
+@attribute kita numeric
+@attribute kl numeric
+@attribute klo numeric
+@attribute koalisi numeric
+@attribute kok numeric
+@attribute komitmen numeric
+@attribute konsolidasi numeric
+@attribute kopassus numeric
+@attribute korupsi numeric
+@attribute kota numeric
+@attribute kpd numeric
+@attribute kpu numeric
+@attribute kreatif numeric
+@attribute krn numeric
+@attribute ksatria numeric
+@attribute kuat numeric
+@attribute kubu numeric
+@attribute lagi numeric
+@attribute lagu numeric
+@attribute lah numeric
+@attribute lain numeric
+@attribute lalu numeric
+@attribute laris numeric
+@attribute lawan numeric
+@attribute lebih numeric
+@attribute lewat numeric
+@attribute liat numeric
+@attribute lihat numeric
+@attribute lingkungan numeric
+@attribute lo numeric
+@attribute lsm numeric
+@attribute lsn numeric
+@attribute lu numeric
+@attribute luar numeric
+@attribute mahasiswa numeric
+@attribute mahfud numeric
+@attribute makanya numeric
+@attribute malah numeric
+@attribute malaysia numeric
+@attribute mampu numeric
+@attribute mana numeric
+@attribute mandat numeric
+@attribute mantap numeric
+@attribute manusia numeric
+@attribute mari numeric
+@attribute masa numeric
+@attribute masalah numeric
+@attribute masih numeric
+@attribute massa numeric
+@attribute masuk numeric
+@attribute masyarakat numeric
+@attribute mau numeric
+@attribute media numeric
+@attribute memang numeric
+@attribute membelot numeric
+@attribute memilih numeric
+@attribute memimpin numeric
+@attribute memutuskan numeric
+@attribute menang numeric
+@attribute menangkan numeric
+@attribute mendukung numeric
+@attribute mengapa numeric
+@attribute mengapresiasi numeric
+@attribute mengenal numeric
+@attribute menggaungkan numeric
+@attribute menghibur numeric
+@attribute menjadi numeric
+@attribute mental numeric
+@attribute menuju numeric
+@attribute menurut numeric
+@attribute menyambut numeric
+@attribute merah numeric
+@attribute merapat numeric
+@attribute merdeka numeric
+@attribute mereka numeric
+@attribute meroket numeric
+@attribute metro numeric
+@attribute miliar numeric
+@attribute milih numeric
+@attribute militer numeric
+@attribute minta numeric
+@attribute muda numeric
+@attribute mulai numeric
+@attribute muslimat numeric
+@attribute nama numeric
+@attribute nanti numeric
+@attribute nasdem numeric
+@attribute nasionalisme numeric
+@attribute negara numeric
+@attribute negeri numeric
+@attribute news numeric
+@attribute nih numeric
+@attribute nilai numeric
+@attribute no numeric
+@attribute nomor numeric
+@attribute nu numeric
+@attribute nya numeric
+@attribute okke numeric
+@attribute oleh numeric
+@attribute om numeric
+@attribute one numeric
+@attribute online numeric
+@attribute orang numeric
+@attribute org numeric
+@attribute pa numeric
+@attribute pada numeric
+@attribute pak numeric
+@attribute palestina numeric
+@attribute paling numeric
+@attribute pancasila numeric
+@attribute panjang numeric
+@attribute pantas numeric
+@attribute para numeric
+@attribute parikan numeric
+@attribute paripurna numeric
+@attribute partai numeric
+@attribute pasangan numeric
+@attribute pasar numeric
+@attribute pasti numeric
+@attribute pd numeric
+@attribute pdi numeric
+@attribute pdip numeric
+@attribute pembangunan numeric
+@attribute pemenangan numeric
+@attribute pemerhati numeric
+@attribute pemilih numeric
+@attribute pemimpin numeric
+@attribute pemuda numeric
+@attribute penampilan numeric
+@attribute pendukung numeric
+@attribute penelitian numeric
+@attribute pengembangan numeric
+@attribute penting numeric
+@attribute perempuan numeric
+@attribute perjuangan numeric
+@attribute pernah numeric
+@attribute persen numeric
+@attribute pesan numeric
+@attribute pihak numeric
+@attribute pilih numeric
+@attribute pilihan numeric
+@attribute pilihankusatu numeric
+@attribute pilpres numeric
+@attribute pks numeric
+@attribute politik numeric
+@attribute presiden numeric
+@attribute presidenku numeric
+@attribute puluhan numeric
+@attribute pun numeric
+@attribute punya numeric
+@attribute putih numeric
+@attribute putra numeric
+@attribute rakyat numeric
+@attribute ramadhan numeric
+@attribute raya numeric
+@attribute relawan numeric
+@attribute resmi numeric
+@attribute ri numeric
+@attribute ribuan numeric
+@attribute rp numeric
+@attribute rustriningsih numeric
+@attribute saat numeric
+@attribute sabar numeric
+@attribute saja numeric
+@attribute saksi numeric
+@attribute salam numeric
+@attribute sama numeric
+@attribute sampai numeric
+@attribute sangat numeric
+@attribute santri numeric
+@attribute sapa numeric
+@attribute satu numeric
+@attribute saya numeric
+@attribute sby numeric
+@attribute sdh numeric
+@attribute sdm numeric
+@attribute se numeric
+@attribute sebagai numeric
+@attribute sebut numeric
+@attribute secara numeric
+@attribute sehat numeric
+@attribute sejahtera numeric
+@attribute sejumlah numeric
+@attribute sekarang numeric
+@attribute semoga numeric
+@attribute semua numeric
+@attribute seorang numeric
+@attribute sepakat numeric
+@attribute seperti numeric
+@attribute serangan numeric
+@attribute setelah numeric
+@attribute setuju numeric
+@attribute si numeric
+@attribute siap numeric
+@attribute siapa numeric
+@attribute siapkan numeric
+@attribute sidang numeric
+@attribute sih numeric
+@attribute skrg numeric
+@attribute soal numeric
+@attribute solidaritas numeric
+@attribute sosok numeric
+@attribute stiker numeric
+@attribute suara numeric
+@attribute subianto numeric
+@attribute sudah numeric
+@attribute suka numeric
+@attribute surabaya numeric
+@attribute surat numeric
+@attribute survei numeric
+@attribute sy numeric
+@attribute tahun numeric
+@attribute tak numeric
+@attribute tanah numeric
+@attribute tanggapan numeric
+@attribute tapi numeric
+@attribute tau numeric
+@attribute tdk numeric
+@attribute tegas numeric
+@attribute tepat numeric
+@attribute terlalu numeric
+@attribute terlontar numeric
+@attribute terpilih numeric
+@attribute terpopuler numeric
+@attribute terus numeric
+@attribute tetap numeric
+@attribute tiban numeric
+@attribute tidak numeric
+@attribute tiga numeric
+@attribute tim numeric
+@attribute timses numeric
+@attribute tinggal numeric
+@attribute titiek numeric
+@attribute tki numeric
+@attribute tokoh numeric
+@attribute tp numeric
+@attribute tps numeric
+@attribute triliun numeric
+@attribute tu numeric
+@attribute tuh numeric
+@attribute tunggu numeric
+@attribute turun numeric
+@attribute tusuk numeric
+@attribute tusukpecinyano numeric
+@attribute tv numeric
+@attribute uang numeric
+@attribute udah numeric
+@attribute udh numeric
+@attribute ulama numeric
+@attribute unggul numeric
+@attribute untuk numeric
+@attribute usah numeric
+@attribute usai numeric
+@attribute utk numeric
+@attribute via numeric
+@attribute video numeric
+@attribute wakil numeric
+@attribute warga numeric
+@attribute ya numeric
+@attribute yakin numeric
+@attribute yang numeric
+@attribute yg numeric
+@attribute ahmad numeric
+@attribute aktivis numeric
+@attribute akui numeric
+@attribute akun numeric
+@attribute allan numeric
+@attribute amerika numeric
+@attribute an numeric
+@attribute ancaman numeric
+@attribute andi numeric
+@attribute ap numeric
+@attribute apapun numeric
+@attribute arb numeric
+@attribute arief numeric
+@attribute artikel numeric
+@attribute atribut numeric
+@attribute australia numeric
+@attribute baca numeric
+@attribute badan numeric
+@attribute bagikan numeric
+@attribute baju numeric
+@attribute baru numeric
+@attribute bawa numeric
+@attribute bbc numeric
+@attribute beberapa numeric
+@attribute beda numeric
+@attribute begini numeric
+@attribute beken numeric
+@attribute belum numeric
+@attribute benar numeric
+@attribute berapa numeric
+@attribute berat numeric
+@attribute berdampingan numeric
+@attribute bergambar numeric
+@attribute bgt numeric
+@attribute biar numeric
+@attribute biasa numeric
+@attribute bikin numeric
+@attribute bila numeric
+@attribute bilang numeric
+@attribute bkn numeric
+@attribute bogor numeric
+@attribute bohong numeric
+@attribute bos numeric
+@attribute bp numeric
+@attribute buset numeric
+@attribute cek numeric
+@attribute cendana numeric
+@attribute ciee numeric
+@attribute clbk numeric
+@attribute co numeric
+@attribute count numeric
+@attribute curang numeric
+@attribute daerah numeric
+@attribute daftar numeric
+@attribute daging numeric
+@attribute dah numeric
+@attribute deh numeric
+@attribute deklarasikan numeric
+@attribute dhani numeric
+@attribute dibagi numeric
+@attribute dibalik numeric
+@attribute dibayar numeric
+@attribute dicurangi numeric
+@attribute difitnah numeric
+@attribute dikabarkan numeric
+@attribute diktator numeric
+@attribute dimasukkan numeric
+@attribute dipukul numeric
+@attribute diri numeric
+@attribute disederhanakan numeric
+@attribute disuap numeric
+@attribute ditegur numeric
+@attribute diwarnai numeric
+@attribute doang numeric
+@attribute dong numeric
+@attribute duduk numeric
+@attribute duit numeric
+@attribute eh numeric
+@attribute fadli numeric
+@attribute fahri numeric
+@attribute fitnah numeric
+@attribute foto numeric
+@attribute gaes numeric
+@attribute gara numeric
+@attribute genjer numeric
+@attribute gerindra numeric
+@attribute gigittipi numeric
+@attribute gini numeric
+@attribute gk numeric
+@attribute golkar numeric
+@attribute group numeric
+@attribute grup numeric
+@attribute gunakan numeric
+@attribute gusdurian numeric
+@attribute hahaha numeric
+@attribute hahahaha numeric
+@attribute haji numeric
+@attribute ham numeric
+@attribute hasto numeric
+@attribute hitung numeric
+@attribute hr numeric
+@attribute http numeric
+@attribute ikrar numeric
+@attribute impor numeric
+@attribute interview numeric
+@attribute isu numeric
+@attribute it numeric
+@attribute iya numeric
+@attribute jahat numeric
+@attribute jalan numeric
+@attribute janji numeric
+@attribute jelas numeric
+@attribute jelek numeric
+@attribute jelekin numeric
+@attribute jenderal numeric
+@attribute jiplak numeric
+@attribute jomblo numeric
+@attribute kaidah numeric
+@attribute kak numeric
+@attribute kalian numeric
+@attribute kapal numeric
+@attribute kasian numeric
+@attribute kasih numeric
+@attribute kasihan numeric
+@attribute kaskus numeric
+@attribute kasus numeric
+@attribute kayak numeric
+@attribute kecurangan numeric
+@attribute kekalahan numeric
+@attribute kekuasaan numeric
+@attribute kepala numeric
+@attribute klaim numeric
+@attribute klarifikasi numeric
+@attribute knp numeric
+@attribute kompas numeric
+@attribute komunis numeric
+@attribute kostum numeric
+@attribute kotak numeric
+@attribute kredibel numeric
+@attribute lagian numeric
+@attribute lbh numeric
+@attribute lemah numeric
+@attribute lembaga numeric
+@attribute lg numeric
+@attribute lha numeric
+@attribute lho numeric
+@attribute lol numeric
+@attribute lucu numeric
+@attribute mafia numeric
+@attribute main numeric
+@attribute maka numeric
+@attribute maling numeric
+@attribute malu numeric
+@attribute mantan numeric
+@attribute marah numeric
+@attribute mas numeric
+@attribute mba numeric
+@attribute megawati numeric
+@attribute membuat numeric
+@attribute memenangkan numeric
+@attribute menambah numeric
+@attribute mengaku numeric
+@attribute mengenai numeric
+@attribute menggunakan numeric
+@attribute milik numeric
+@attribute mnc numeric
+@attribute mobil numeric
+@attribute mulu numeric
+@attribute nah numeric
+@attribute nairn numeric
+@attribute nasi numeric
+@attribute nazi numeric
+@attribute nek numeric
+@attribute netral numeric
+@attribute ngajarin numeric
+@attribute ngaku numeric
+@attribute ngambek numeric
+@attribute ngamuk numeric
+@attribute ngeri numeric
+@attribute nggak numeric
+@attribute nggk numeric
+@attribute ngomong numeric
+@attribute ni numeric
+@attribute nonton numeric
+@attribute nyebelin numeric
+@attribute nyoblos numeric
+@attribute okowipresident numeric
+@attribute operasi numeric
+@attribute orba numeric
+@attribute orde numeric
+@attribute padahal numeric
+@attribute pajak numeric
+@attribute panggil numeric
+@attribute panitia numeric
+@attribute parah numeric
+@attribute pas numeric
+@attribute pdhl numeric
+@attribute pelanggaran numeric
+@attribute pemberian numeric
+@attribute pemberitaan numeric
+@attribute pembohongan numeric
+@attribute pemerintahan numeric
+@attribute pemilu numeric
+@attribute pencitraan numeric
+@attribute penculik numeric
+@attribute penculikan numeric
+@attribute pendapat numeric
+@attribute pengadilan numeric
+@attribute penghitungan numeric
+@attribute penuh numeric
+@attribute penuhi numeric
+@attribute percaya numeric
+@attribute perlu numeric
+@attribute permanen numeric
+@attribute pernyataan numeric
+@attribute persoalan numeric
+@attribute piala numeric
+@attribute pidato numeric
+@attribute pintar numeric
+@attribute pius numeric
+@attribute pk numeric
+@attribute pki numeric
+@attribute positif numeric
+@attribute post numeric
+@attribute prahara numeric
+@attribute pro numeric
+@attribute protes numeric
+@attribute publik numeric
+@attribute pura numeric
+@attribute puskapol numeric
+@attribute qc numeric
+@attribute quick numeric
+@attribute quran numeric
+@attribute rb numeric
+@attribute rcti numeric
+@attribute ribu numeric
+@attribute rumah numeric
+@attribute sakit numeric
+@attribute salah numeric
+@attribute sang numeric
+@attribute sapi numeric
+@attribute satunya numeric
+@attribute sbg numeric
+@attribute sebelum numeric
+@attribute sebenernya numeric
+@attribute sedih numeric
+@attribute segala numeric
+@attribute sekali numeric
+@attribute selamat numeric
+@attribute sendiri numeric
+@attribute shaquillarara numeric
+@attribute sia numeric
+@attribute sikap numeric
+@attribute sinting numeric
+@attribute sm numeric
+@attribute soeharto numeric
+@attribute sok numeric
+@attribute spanduk numeric
+@attribute stasiun numeric
+@attribute statistik numeric
+@attribute suharto numeric
+@attribute supaya numeric
+@attribute survey numeric
+@attribute tadi numeric
+@attribute tahu numeric
+@attribute tanya numeric
+@attribute telah numeric
+@attribute tempo numeric
+@attribute temukan numeric
+@attribute tengah numeric
+@attribute tentang numeric
+@attribute terbiasa numeric
+@attribute terima numeric
+@attribute terkait numeric
+@attribute ternyata numeric
+@attribute tft numeric
+@attribute thdp numeric
+@attribute the numeric
+@attribute tidaklupa numeric
+@attribute tni numeric
+@attribute tolak numeric
+@attribute trima numeric
+@attribute tuhan numeric
+@attribute tukang numeric
+@attribute tvone numeric
+@attribute tvonememangbeda numeric
+@attribute ui numeric
+@attribute visa numeric
+@attribute wahabi numeric
+@attribute wajah numeric
+@attribute waktu numeric
+@attribute wartawan numeric
+@attribute wawancara numeric
+@attribute wes numeric
+@attribute wkwk numeric
+@attribute wkwkwk numeric
+@attribute wow numeric
+@attribute wowo numeric
+@attribute yah numeric
+@attribute yahoo numeric
+@attribute yo numeric
+@attribute zon numeric
+
+@data
+{101 2.10714,350 3.634603,444 6.518397}
+{101 1.473223,206 3.994975,269 2.558244,350 2.541161,354 2.870151,444 4.557388}
+{110 2.754802,291 4.748741,709 5.477262}
+{13 3.122498,157 1.401852,165 2.614816,272 3.030135,326 2.614816,352 3.122498,354 2.119489,375 3.365444}
+{13 3.868492,110 1.945667,157 1.736767,272 3.754062,354 2.625855,375 4.16948}
+{76 2.619946,109 3.927092,110 1.97514,157 1.763076,318 3.927092,725 3.927092}
+{37 3.544187,101 1.193095,163 2.247006,354 2.324402,375 3.690816,404 2.822282,416 2.570615,460 2.740036}
+{209 4.547299,270 3.613018,354 3.266963,404 3.966737}
+{57 3.357856,143 4.343326,270 3.150234,354 2.848505,404 3.458647}
+{110 1.959645,263 3.034471,420 2.959642,460 3.11763,488 4.032597,615 3.514359}
+{110 2.303233,162 2.47228,223 4.935728,552 4.935728}
+{37 3.223497,101 1.085139,143 3.223497,163 2.043689,354 2.114082,375 3.356859,404 2.566912,416 2.338017,460 2.492109}
+{101 1.184724,168 3.519321,190 2.146381,209 3.212645,270 2.55258,282 2.948081,312 3.299774,354 2.308094}
+{77 2.63228,110 1.554558,176 3.501975,270 2.32025,308 3.501975,344 3.331349,354 2.098016,360 2.32025}
+{101 1.256283,168 3.731894,190 2.276027,206 3.406695,269 2.181529,270 2.70676,354 2.447507,470 3.12615}
+{141 2.878961,143 4.540966,221 4.728833,354 2.978124}
+{28 2.924871,77 2.406714,102 1.825041,176 3.201883,270 2.121422,308 3.201883,344 3.045878,354 1.918233,360 2.121422}
+{7 4.725752,97 3.095491,344 4.4955,354 2.831175}
+{101 1.472498,168 4.374177,190 2.667746,270 3.172611,354 2.868738,470 3.664181}
+{176 3.739717,209 3.118487,308 3.739717,340 2.183689,344 3.557507,354 2.240446}
+{101 1.96658,323 4.340381,459 5.332824,461 2.999086}
+{3 3.655498,73 5.034081,153 2.674793,327 3.778984}
+{125 3.08021,137 2.6355,157 1.28304,181 2.957839,245 2.773319,334 2.57772,358 3.08021,474 3.08021}
+{2 2.078713,76 2.412455,78 3.028147,157 1.623446,351 3.334731,405 3.07957,472 1.54903,738 3.897429}
+{145 5.166754,402 5.783125}
+{217 3.819442,263 2.625423,270 2.530589,326 2.822967,354 2.288209,392 3.819442,440 2.112302}
+{88 1.160182,101 0.940036,110 1.356996,151 3.056925,164 3.056925,233 3.056925,328 3.056925,413 3.056925,437 3.056925}
+{7 4.647421,110 2.063031,261 4.101841,266 3.115786,354 2.784247}
+{7 4.382566,76 2.580576,110 1.94546,261 3.868079,266 2.938219,354 2.625574}
+{88 1.178362,101 0.954766,151 3.104828,164 3.104828,233 3.104828,328 3.104828,413 3.104828,437 3.104828}
+{8 2.617554,38 3.478663,57 3.268393,88 1.756445,163 2.680293,175 3.102766,356 2.159074,469 2.438641}
+{88 1.178362,101 0.954766,151 3.104828,164 3.104828,233 3.104828,328 3.104828,413 3.104828,437 3.104828}
+{79 3.507787,141 2.654851,142 4.360722,251 3.507787,350 2.431502,471 1.885314}
+{8 2.516126,110 1.974804,175 2.982537,235 2.765785,269 2.375544,271 3.288032,383 2.516126,426 2.689098,471 1.829627}
+{39 4.135081,323 4.029147,340 3.466485,465 3.845833}
+{78 2.406842,93 2.133047,142 3.097767,147 2.874145,178 2.299761,278 3.25643,398 3.097767,511 2.539848}
+{6 1.862012,45 2.616877,64 3.215094,157 1.273974,329 2.416644,350 1.705363,351 2.616877,372 2.753723,430 2.837661,464 2.270569,472 1.215576}
+{2 1.963999,22 3.227923,150 3.227923,161 3.870953,204 3.870953,316 2.339884}
+{96 3.098479,136 2.700286,152 2.905186,184 2.828476,326 2.506993,371 2.36262,372 2.905186,410 2.549566}
+{54 3.732695,105 4.585987,110 2.03576,294 4.585987}
+{81 4.462343,153 2.092665,235 2.774286,311 3.480398,351 3.632057,472 1.687142}
+{153 2.912396,304 4.752207,350 3.2941,429 4.26887}
+{229 5.031313,334 4.921009,469 3.257213}
+{97 3.109548,110 2.107329,140 3.401326,294 4.747213,306 3.453216}
+{2 1.814316,17 2.981912,43 3.575935,65 2.736349,153 1.676975,163 2.070992,188 2.316556,457 2.291832,641 3.156142}
+{147 3.679819,333 3.966127,386 4.455573,388 3.319113}
+{23 7.75499}
+{101 0.988182,141 1.861085,162 1.531196,179 3.213493,190 1.790304,291 2.459004,350 1.704514,363 2.104922,472 1.214971,529 2.836249,567 2.752352,620 3.056923}
+{70 2.550101,99 2.351691,136 2.300134,141 1.673321,171 2.474669,172 1.851756,195 2.474669,207 2.889286,385 2.253495,428 1.832564,643 2.748512}
+{192 2.868241,229 3.439771,317 1.849654,334 3.36436,377 2.554561,378 3.619649,383 2.390243}
+{67 2.225667,110 1.557706,126 3.338095,166 2.381592,180 2.203237,211 2.121134,317 1.535827,346 2.63761,351 2.856152,383 1.984696,469 1.849039,472 1.326723}
+{72 7.271249,157 2.696074}
+{76 2.579417,155 4.001609,444 4.167163,472 1.656235,676 4.167163}
+{4 3.049593,101 1.062514,157 1.369121,244 3.286866,264 2.750664,295 2.750664,362 3.156285,424 3.455214}
+{229 5.544042,334 5.422497}
+{101 2.827605,110 4.081811,130 5.956789}
+{5 3.505228,6 2.370165,20 2.520034,60 2.622907,180 2.569564,185 2.215499,240 3.258009,457 2.622907}
+{94 3.633262,235 2.559282,257 2.994435,274 4.116516,301 2.949439,340 2.403709}
+{6 1.844948,93 2.08667,101 0.979614,116 2.394497,141 1.844948,178 2.24976,253 2.910024,286 2.910024,309 2.394497,404 2.317289,720 3.030416}
+{94 3.928481,235 2.767235,257 3.237746,274 4.451002,340 2.599021}
+{2 1.821568,22 2.99383,150 2.99383,161 3.590227,204 3.590227,316 2.170193,317 1.571349,376 2.436676}
+{2 1.963999,22 3.227923,150 3.227923,161 3.870953,204 3.870953,316 2.339884}
+{114 3.806383,138 3.25683,198 1.948966,270 2.651106,330 3.427142,725 3.531607}
+{5 4.419504,6 2.988379,457 3.307045,529 4.554218}
+{229 4.281858,317 2.302466,334 4.187985,377 3.17994,383 2.975396}
+{139 2.561576,162 1.728302,268 3.627156,367 3.106654,390 3.45043,428 2.300566,440 2.00596,464 2.561576}
+{137 3.252276,217 3.995745,271 2.953273,320 3.526668,338 3.526668}
+{51 2.652857,67 2.198875,183 3.059841,481 3.166892,485 3.166892,677 3.166892,765 2.969331}
+{17 2.963338,149 3.246215,175 2.382493,210 2.585003,256 2.54616,416 2.354495,423 1.951153,691 3.553661}
+{97 2.310272,110 1.565663,200 2.042647,423 1.93651,443 2.565603,504 3.112944,519 3.221853,548 3.020863,728 2.941099}
+{88 1.435762,124 3.783042,383 2.139654,425 3.338936,461 1.7741,496 3.455751,587 3.598722}
+{2 1.342566,43 2.646137,61 2.646137,68 2.335496,91 1.532502,102 1.508272,188 1.714215,194 2.106565,257 1.924852,290 2.206569,292 2.266412,333 2.517209,346 1.988984,457 1.695921}
+{20 4.265794,188 4.487829,269 3.699271,471 2.849152}
+{120 2.872367,133 2.90777,240 3.410726,461 2.00919,548 3.669533,727 3.781387}
+{4 4.112559,101 1.432863,157 1.846342,244 4.432536,362 4.25644}
+{110 1.508823,184 2.834325,265 3.104886,331 3.23334,345 3.104886,358 3.23334,696 3.104886}
+{117 2.555995,172 1.964482,188 1.985674,202 2.303954,240 2.440155,262 1.887433,280 2.705339,467 2.705339,630 2.799988,738 2.915828}
+{20 4.057335,74 5.815554,162 3.139624}
+{72 4.210307,379 3.374398,392 3.93976,430 3.477256,461 1.847594}
+{370 3.884251,406 4.426036,448 4.426036,461 2.423401}
+{230 3.746883,550 4.872605,567 4.728473}
+{101 0.896794,132 2.774215,163 1.68897,186 1.955189,264 2.321644,285 2.059558,296 2.664001,305 2.373683,307 1.831061,327 1.932212,377 1.762826,414 1.717201,453 2.664001,469 1.536695}
+{101 1.203984,211 2.36667,377 2.36667,402 3.35342,447 3.264874,453 3.576536,773 3.576536}
+{236 5.006821,266 4.465795,340 3.889511}
+{141 2.586087,333 4.247773,386 4.771976,388 3.554813}
+{157 1.296244,179 3.271296,378 2.80186,385 2.551443,403 2.551443,442 2.887266,452 3.271296,607 2.80186}
+{75 2.58953,141 2.093149,165 2.671266,199 3.30151,305 2.941718,356 1.686108,382 2.671266,467 3.189908,471 1.486427}
+{206 4.001309,305 3.905589,465 3.108493,597 4.383269}
+{141 3.881305,199 6.121956,471 2.756267}
+{81 3.574918,142 3.400738,177 3.061912,350 1.896223,357 3.155244,376 2.426285,382 2.642238}
+{6 1.504172,20 1.599284,61 2.59722,86 1.80907,119 1.569948,162 1.237549,163 1.504172,194 2.067623,243 2.775574,248 2.067623,262 1.599284,302 2.067623,346 1.952216,408 1.919617,455 1.682526,656 2.372521}
+{206 7.75499}
+{167 5.63008,376 5.333112}
+{66 5.120149,112 4.662534,340 3.490663}
+{47 2.925313,65 2.353137,126 2.925313,171 2.633855,215 1.992133,298 3.286316,576 2.809096,726 2.809096}
+{92 6.305257,145 4.514821}
+{190 2.86849,363 3.372583,381 5.148776,441 3.745321}
+{89 2.717935,143 2.977387,206 2.717935,341 3.100566,370 2.449926,406 2.791647,448 2.791647,464 2.301839}
+{19 3.438876,205 3.438876,374 2.697272,429 2.587704,439 3.764568,465 2.438756,471 1.548273}
+{33 5.062014,111 5.062014,461 2.981931}
+{26 3.658914,74 3.229379,134 3.658914,140 2.621572,169 3.342361,316 2.211712}
+{49 4.299411,141 2.907175,198 2.445013,423 2.756117,605 4.430464}
+{26 4.024456,134 4.024456,140 2.883479,169 3.676279,316 2.432672}
+{92 6.305257,145 4.514821}
+{26 4.024456,134 4.024456,140 2.883479,169 3.676279,316 2.432672}
+{48 4.281459,79 3.444027,110 1.997922,124 4.500749,350 2.387306}
+{51 2.889413,89 3.148712,341 3.591987,370 2.838224,406 3.234107,448 3.234107}
+{8 3.37177,34 5.261658,101 1.833223,460 4.210141}
+{10 2.996512,31 3.11743,32 2.594513,87 2.727601,235 2.434571,266 2.625366,289 2.805717,353 2.565032}
+{3 2.551662,18 2.942631,201 3.046574,317 1.742531,395 3.046574,422 3.51396,721 3.319978}
+{89 3.009353,165 2.667312,327 2.391056,341 3.43301,370 2.712607,406 3.090969,448 3.090969}
+{317 2.344152,321 5.355934,568 5.094977}
+{101 3.830307,185 6.743042}
+{302 5.279636,310 5.680257}
+{34 2.963768,54 2.733172,66 2.8761,87 2.338967,281 3.357974,334 2.673252,364 2.8761,440 1.857092}
+{34 4.345515,54 4.007413,66 4.216974,440 2.722893}
+{110 2.458871,113 3.628278,131 3.628278,380 5.269252}
+{6 3.140905,132 5.159089,211 3.278252,270 3.593252}
+{46 3.333095,97 2.39004,157 1.445817,177 3.125166,207 3.64877,262 2.246793,337 2.541518,493 2.57684}
+{32 2.413508,93 2.386083,101 1.120177,103 3.119993,235 2.264724,242 3.64273,339 3.64273,420 2.442208}
+{34 3.671106,101 1.279056,190 2.317285,369 3.671106,468 3.244114,769 3.956736}
+{3 2.707418,96 3.858899,153 1.981066,279 4.018548,392 4.224371}
+{32 2.090281,93 2.06653,101 0.970158,103 2.702151,235 1.961423,242 3.154881,307 1.980855,339 3.154881,350 1.673425,420 2.115138,623 2.881936}
+{8 2.398278,101 1.303938,256 3.038134,269 2.264281,282 3.244734,315 4.240307,408 3.13403}
+{32 2.413508,93 2.386083,101 1.120177,103 3.119993,235 2.264724,242 3.64273,339 3.64273,420 2.442208}
+{88 1.348774,89 2.963488,165 2.62666,327 2.354614,341 3.380688,370 2.671265,406 3.04386,448 3.04386}
+{110 1.688558,159 3.80384,200 2.202982,347 2.859178,443 2.766988,519 3.474749,728 3.171958}
+{101 1.409946,111 3.650107,380 4.361642,466 3.731923,730 3.446371}
+{198 2.294447,331 4.481117,345 4.30309,359 4.034649}
+{145 3.463295,185 2.450132,186 3.034334,262 2.786919,313 2.841694,508 4.134366}
+{101 1.842891,346 4.50463,350 3.178802,445 5.132947}
+{167 2.272895,179 3.172268,378 2.717042,385 2.474206,403 2.474206,450 2.799863,452 3.172268,607 2.717042}
+{71 3.219835,110 1.50252,122 3.219835,153 1.587316,173 2.899033,301 2.425137,317 1.481417,371 2.357617,383 1.914383,772 2.987401}
+{95 2.830467,119 2.235901,181 3.378917,281 3.698931,364 3.168129,366 3.168129,472 1.398508}
+{102 2.155945,163 2.190581,172 2.424174,175 2.535865,296 3.455189,313 2.374872,356 1.764593,428 2.399049,594 3.455189}
+{76 2.705076,88 1.743542,157 1.820363,194 3.657243,379 3.934757,716 4.196551}
+{96 3.942987,110 1.916099,122 4.106115,210 3.139852,317 1.889186,438 2.336716,469 2.274462}
+{369 4.422783,461 2.349987,561 4.078668,619 4.291956}
+{110 2.217811,122 4.752671,210 3.634258,371 3.479985,438 2.704659}
+{111 6.681824,461 3.936129}
+{96 3.383076,110 1.644009,122 3.52304,174 2.94831,210 2.693987,371 2.579629,423 2.033414,435 2.615481}
+{57 2.431346,110 1.528268,135 3.442752,244 3.275011,316 2.081048,336 3.144901,416 2.281012,508 3.144901}
+{17 3.059646,87 2.555717,153 1.720691,190 2.044162,229 2.986453,292 3.142625,336 3.351716,440 2.029187,461 1.720691}
+{41 2.220852,130 2.145937,316 2.002351,355 2.307334,419 2.059454,423 1.818776,450 2.923686,456 2.248224,461 1.553462,641 2.923686,741 3.025973}
+{60 2.98152,226 4.105929,470 3.559807,471 1.913273,674 4.249578}
+{18 3.57506,188 3.133506,192 3.282866,264 3.850703,340 2.824421,471 1.989344}
+{75 4.168977,87 4.052906,88 2.208315,295 4.632148}
+{15 3.593139,57 3.433279,101 1.494954,157 1.926349,158 3.956926,299 3.72006}
+{76 2.782864,78 3.493089,87 3.291929,93 3.095726,235 2.938272,460 3.337681}
+{69 4.424488,110 2.064666,201 3.55908,354 2.786453,364 3.983663}
+{231 3.034319,314 3.26827,383 2.321976,423 2.254087,428 2.603898,446 3.141501,648 3.62345}
+{110 1.633035,123 2.994273,133 2.496764,305 2.994273,357 3.246897,382 2.718989,423 2.01984,628 3.360492}
+{110 2.427069,157 2.166482,171 4.6829,371 3.808334,416 3.622514}
+{133 3.420936,226 4.44873,438 2.72867,449 4.604372}
+{14 4.428327,116 3.771306,258 3.708333,460 3.543348}
+{19 3.62267,205 3.62267,374 2.841431,429 2.726006,439 3.96577,471 1.631022}
+{44 3.881817,95 3.122553,101 1.254838,110 1.811431,214 3.248557,245 3.49506,438 2.209072,471 1.678264}
+{41 2.574306,130 2.487468,153 1.8007,323 2.606035,419 2.387222,440 2.123541,461 1.8007,598 2.674553,665 2.837987,746 2.938233}
+{6 3.818281,153 3.091832,311 5.142154,461 3.091832}
+{110 1.896875,294 4.273119,306 3.108351,387 4.06492,418 3.478041}
+{27 4.030912,234 4.412676,503 4.030912,644 2.858611}
+{2 4.583614,88 3.428672,141 5.232071}
+{76 3.44112,120 3.918027,145 4.471915,262 3.598557}
+{91 3.01411,184 4.339857,198 2.534948,396 3.728893,416 3.448196}
+{41 2.207935,75 2.35961,130 2.133455,323 2.235148,327 2.181987,349 2.820701,419 2.047476,440 1.821322,461 1.544427,598 2.293914,665 2.434089,746 2.520068}
+{88 1.574882,137 3.377509,190 2.311831,256 2.973147,316 2.508321,336 3.790601,351 3.377509}
+{198 2.294447,331 4.481117,345 4.30309,359 4.034649}
+{88 2.409682,140 4.549128,565 5.799891}
+{86 2.854882,347 3.080779,389 3.4178,515 3.74406,664 4.098656}
+{198 2.149978,419 2.744248,522 4.198964,675 3.895848,740 3.895848}
+{116 4.593946,258 4.517236,460 4.316262}
+{41 2.118171,130 2.04672,146 2.634574,190 1.76017,316 1.909773,317 1.382789,355 2.200655,373 3.005469,419 1.964235,423 1.734685,456 2.144278,461 1.481638,741 2.886068}
+{101 2.385346,114 7.379024}
+{33 3.396359,110 1.893847,114 4.058431,175 2.860268,332 3.396359,371 2.971651}
+{350 4.569103,404 6.266033}
+{101 1.052265,107 2.930842,110 1.519006,324 3.255163,325 2.930842,407 3.255163,418 2.785194,432 3.255163}
+{44 5.040353,198 2.58079,283 5.298512}
+{101 1.052265,107 2.930842,110 1.519006,324 3.255163,325 2.930842,407 3.255163,418 2.785194,432 3.255163}
+{44 3.948904,198 2.02194,283 4.15116,301 2.974261,597 3.792021}
+{217 5.695912,334 4.534463,461 2.671161}
+{38 2.689341,76 2.10676,88 1.357901,190 1.993316,256 2.563519,266 2.398737,268 3.577889,316 2.162735,336 3.268347,471 1.471497}
+{113 2.62182,131 2.62182,190 2.229942,293 3.428237,327 2.651954,505 3.186448,637 3.532736}
+{4 3.535139,29 3.260088,110 1.778007,163 2.319682,306 2.913565,356 1.868589,465 2.594733,468 3.123961}
+{101 1.052265,107 2.930842,110 1.519006,324 3.255163,325 2.930842,407 3.255163,418 2.785194,432 3.255163}
+{162 2.452816,226 4.543372,319 4.702326,363 3.371864}
+{76 2.223275,78 2.790686,88 1.433,111 3.005852,203 2.666528,227 2.169203,326 2.790686,327 2.501652,367 3.233938}
+{87 4.568221,290 5.468971,356 3.05967}
+{110 1.986945,157 1.773613,366 3.833705,371 3.117732,401 3.732478,537 3.833705}
+{34 6.928073,110 3.484491}
+{88 4.893926,356 6.015759}
+{24 2.918135,97 2.292233,146 2.918135,190 1.949618,235 2.175647,363 2.292233,399 2.918135,423 1.92139,440 1.935336,650 2.848327}
+{101 3.61356,340 6.861637}
+{8 1.800882,49 2.727154,76 1.87487,85 2.810283,140 2.281354,195 2.727154,231 2.353363,383 1.800882,428 2.019536,456 2.16102,472 1.203848,745 2.534811}
+{25 2.916919,41 2.140813,147 2.818318,251 2.443458,303 3.037596,319 2.916919,359 2.734952,388 2.542059,472 1.20729}
+{224 4.035765,316 3.06436,340 2.960161,391 5.069479}
+{182 3.745156,208 3.745156,318 3.618558,346 3.081681,370 3.081681}
+{110 1.664931,157 1.486173,254 3.42613,360 2.484988,366 3.212396,371 2.612457,401 3.127575,537 3.212396}
+{101 1.412353,259 3.933784,311 3.5822,419 2.855434,455 2.975342,494 3.5822}
+{2 1.699092,117 2.792536,120 2.24517,137 2.725732,307 2.102632,340 1.955445,396 2.399403,426 2.024277,450 2.9557,667 3.185668}
+{160 5.258697,350 3.160345,615 4.743226}
+{38 2.509986,441 2.429055,472 1.262528,476 3.176577,546 3.176577,561 2.717953,584 2.947265,655 3.176577}
+{91 2.590536,229 3.640747,302 3.560929,317 1.957724,469 2.356977,591 4.255081}
+{140 3.186629,199 4.062778,410 3.343034,438 2.407707,710 4.062778}
+{101 1.781314,190 3.227232,369 5.11267,468 4.518006}
+{91 2.330574,197 3.35567,200 2.330574,357 3.551738,471 1.655032,507 3.675999,722 3.024775}
+{112 3.187029,279 3.887112,465 2.647116,668 3.732684,716 3.732684}
+{154 3.830469,198 1.961299,245 3.448828,252 3.678292,369 3.553954,461 1.888347}
+{99 3.19055,102 2.234309,140 2.808572,162 1.867796,189 2.730377,326 2.897222,438 2.12206,461 1.838285,464 2.768324,472 1.482056}
+{110 1.829147,190 2.295642,223 3.919781,292 3.529241,366 3.529241,466 3.353856}
+{37 3.295378,101 1.109337,140 2.58472,189 2.512758,316 2.180622,332 2.871881,388 2.871881,426 2.180622,436 3.008217}
+{13 4.273931,116 3.639818,157 1.91879,202 3.639818,435 3.419807}
+{67 2.4172,186 2.555052,211 2.303671,228 2.619651,302 3.033938,317 1.667995,377 2.303671,394 3.177966,405 2.864594}
+{8 1.853233,101 1.007598,102 1.867647,129 3.276632,153 1.536613,162 1.561281,225 3.116985,295 2.608496,330 2.80643,415 3.276632,472 1.238843}
+{73 4.096025,88 1.761314,153 2.176369,193 2.687723,250 3.86991,266 3.111368,471 1.908658}
+{129 3.140991,153 1.473002,192 2.13178,225 2.987952,234 3.140991,295 2.500513,330 2.690254,415 3.140991,472 1.187559}
+{3 2.209115,9 2.952241,24 2.874289,76 2.029614,157 1.365815,268 3.446872,356 1.608049,368 2.874289,384 2.80553,472 1.303208}
+{82 3.109726,88 1.291998,102 1.940386,298 3.638018,360 2.255499,424 3.404245,428 2.159183,445 2.915731,471 1.400081}
+{3 3.162872,211 2.983079,337 3.43744,357 4.355673,363 3.232564}
+{40 4.160157,88 1.578886,101 1.279291,116 3.127006,170 3.563168,416 2.756332,460 2.937993}
+{88 2.000944,313 3.31027,350 2.796514,405 3.962897,467 4.653296}
+{3 2.813636,36 3.424054,88 1.666157,153 2.058787,191 4.010291,211 2.653695,356 2.048089,383 2.483001}
+{40 3.890328,88 1.476479,101 1.196316,116 2.924187,170 3.33206,416 2.577555,435 2.747433,460 2.747433}
+{54 2.491718,94 2.701942,113 2.005247,131 2.005247,153 1.435642,162 1.458689,188 1.983181,203 2.161973,235 1.903257,313 1.922113,319 2.796472,363 2.005247,472 1.157438,757 2.301061}
+{264 4.75481,356 2.786408,449 5.455968}
+{14 4.36554,101 1.521005,110 2.195659,228 3.399934,332 3.937618,350 2.62358}
+{59 3.807153,88 1.444912,160 3.360216,180 2.390397,354 2.280847,355 2.651838,428 2.414732,446 2.91328}
+{63 2.095078,119 1.478597,120 1.639945,166 1.660158,232 1.990963,237 1.990963,254 2.234471,256 1.752601,289 1.752601,313 1.53583,314 1.947315,329 1.838622,360 1.620672,396 1.752601,435 1.727486,449 2.234471,472 0.92483,599 2.234471}
+{148 4.606992,157 1.91901,187 3.94185,340 2.827889,435 3.420199}
+{195 4.261853,284 4.975903,389 4.149322}
+{35 3.855505,54 3.29886,153 1.900689,162 1.931202,211 2.449912,284 4.052977,350 2.149797}
+{32 2.454017,119 2.238887,190 2.063503,224 2.948617,230 2.513805,237 3.01471,312 3.17236,354 2.218971,455 2.399434}
+{91 3.57591,111 4.915416,311 4.815748}
+{141 3.444967,334 4.735423,353 3.896322,423 3.265965}
+{76 3.043504,116 3.885122,141 2.993468,327 3.424581,347 3.885122}
+{75 3.775558,97 3.451677,156 4.394169,190 2.935762,356 2.458361}
+{60 2.505012,69 3.718122,79 2.990876,87 2.722471,354 2.341599,356 1.823437,377 2.362615,494 3.048475}
+{125 3.391662,153 1.672024,198 1.736618,205 3.256918,214 2.838364,222 2.780812,301 2.554555,772 3.146824}
+{8 3.771949,101 2.050799,327 4.418606,460 4.709822}
+{119 2.084996,157 1.366771,180 2.165702,188 2.234508,295 2.745943,313 2.165702,317 1.509661,396 2.471374,405 2.592674,429 2.370982,471 1.418604,737 3.044359}
+{104 4.840946,118 4.243541,157 2.016462,236 3.825095}
+{51 3.191276,95 3.191276,137 3.394472,157 1.65253,372 3.571981,690 3.571981}
+{74 5.237245,101 1.824717,181 5.420474}
+{88 1.121989,108 2.406229,125 2.812253,221 2.812253,232 2.406229,261 2.609241,263 2.032108,338 2.609241,445 2.53206,472 1.117727,573 2.465202}
+{33 3.200346,141 2.328215,162 1.915525,327 2.66352,331 3.824207,345 3.672278,414 2.367132}
+{116 4.436949,157 2.339011,347 4.436949,416 3.910994}
+{101 1.28081,152 3.567398,159 4.165096,220 3.96216,406 3.567398}
+{10 2.608664,65 2.608664,146 2.842769,190 1.899266,196 3.008869,266 2.285557,436 2.842769,471 1.402067,483 3.242974}
+{88 1.680694,138 3.604434,178 3.127435,232 3.604434,251 3.388669,256 3.172905}
+{1 3.843423,320 3.392228,357 3.392228,387 3.65616,403 2.997672}
+{177 5.192457,471 2.493324,690 5.192457}
+{1 3.552034,11 2.961981,320 3.135046,357 3.135046,387 3.378968,403 2.770404}
+{3 2.483989,101 1.191835,118 3.231928,129 3.875756,295 3.085454,415 3.875756,471 1.594002}
+{16 3.75178,60 2.632263,79 3.142808,101 1.262978,395 3.142808,461 1.926074,565 3.75178}
+{94 4.117064,181 4.261103,235 2.900073,356 2.17618,382 3.447677}
+{2 3.269261,101 1.981462,317 2.82018,390 6.129616}
+{35 5.553723,153 2.737877,461 2.737877,465 3.782076}
+{88 3.748375,228 6.788929}
+{101 2.443245,113 5.204346,131 5.204346}
+{18 2.645028,39 2.492706,153 1.678268,189 2.492706,345 3.269081,365 3.578692,461 1.678268,587 3.404328}
+{88 2.052649,153 2.536357,356 2.523177,467 4.773539,721 4.510023}
+{104 5.762231,236 4.553052,471 2.491243}
+{88 2.522227,356 3.100396,424 6.645735}
+{110 2.440053,163 3.183423,193 3.183423,356 2.564364,753 5.228927}
+{101 1.217596,155 3.61697,200 2.29315,215 2.565055,220 3.76661,396 2.83696,492 3.391331}
+{71 4.376478,110 2.042262,265 4.202609,393 4.376478}
+{23 3.202114,86 2.230404,88 1.215285,119 1.935589,153 1.501667,154 3.046098,162 1.525774,172 2.052249,215 2.074388,237 2.606313,262 1.971758,356 1.493864,363 2.097469}
+{116 3.607,269 2.562478,364 4.110113,441 3.490697,460 3.388973}
+{29 4.453624,101 1.68261,148 5.205122,414 3.2219}
+{346 3.119843,384 3.37834,389 3.461138,514 3.791534,558 3.555006}
+{88 1.840842,101 1.49154,178 3.425439,198 2.362512,227 2.786573,247 4.614051,414 2.856035}
+{112 4.288688,258 4.064099,560 5.02296}
+{35 3.358719,153 1.655783,212 3.116259,228 2.426979,409 3.116259,512 3.225283,628 3.225283}
+{120 3.094288,162 2.199169,180 2.897842,230 3.132426,304 3.531725,340 2.694989,426 2.789854}
+{291 6.285303,440 4.542559}
+{39 2.691484,90 3.52977,110 1.715295,198 1.882105,211 2.335724,252 3.52977,390 3.675803,471 1.589196}
+{101 1.442496,159 4.690888,220 4.462334,406 4.017739}
+{63 3.226215,80 4.025416,100 2.784021,208 3.440868,231 2.784021,438 2.039147,472 1.424149}
+{42 3.7698,88 1.670448,101 1.353478,251 3.368011,377 2.66053,417 3.88471,428 2.791646}
+{315 7.75499}
+{104 6.103491,110 2.848164,354 3.843856}
+{259 4.553279,332 4.232141,340 3.104199,465 3.443901}
+{2 1.421819,36 2.185683,57 1.979074,88 1.063561,138 2.280924,141 1.622968,157 1.110422,197 2.336825,202 2.106396,280 2.473364,285 1.979074,337 1.951946,350 1.48643,383 1.584978,421 2.144386,429 1.926285,471 1.152533,472 1.059521}
+{30 4.346424,157 1.885375,180 2.987449,195 4.07528,313 2.987449,472 1.798951}
+{10 3.109848,133 2.758247,196 3.586942,230 2.758247,343 3.866023,350 2.155662,471 1.671436}
+{18 3.085211,163 2.417508,178 2.947949,258 3.085211,296 3.813119,317 1.826963,464 2.947949}
+{3 2.413396,53 3.582139,94 3.323551,397 3.439827,439 3.76561,471 1.548702,472 1.423718}
+{6 2.159472,144 3.547037,202 2.802707,230 2.530664,271 2.755907,289 2.671581,391 3.728711}
+{100 3.106557,130 2.722868,172 2.693809,356 1.960865,458 3.998348,549 3.998348}
+{85 3.61417,123 3.33297,167 2.933941,282 3.133455,304 3.133455,376 2.779185}
+{17 3.20748,67 2.439648,266 2.578781,292 3.294468,299 2.943341,307 2.415063,377 2.325065,416 2.548475}
+{14 3.654712,90 3.782575,91 2.398143,155 3.782575,269 2.211156,327 2.743519}
+{28 3.921178,112 3.347968,163 2.486017,356 2.002578,383 2.427826,409 3.78863,471 1.765418}
+{8 1.963384,11 2.894731,259 2.973237,287 2.973237,309 2.609287,455 2.248827,471 1.427695,672 2.327334,715 3.30225}
+{4 2.791753,24 2.637638,157 1.253363,198 1.540667,287 2.709173,309 2.377547,340 1.846979,400 2.889424,455 2.0491,472 1.19591,501 2.709173,627 1.92956}
+{8 1.931418,11 2.847602,162 1.62715,172 2.188605,259 2.92483,260 2.847602,287 2.92483,455 2.212214,472 1.291108,694 3.013984}
+{3 2.079351,4 2.863528,162 1.545924,180 2.037062,259 2.778825,338 2.863528,358 3.086325,385 2.530466,472 1.226657,501 2.778825}
+{102 3.170093,153 2.608204,253 5.080495,329 4.180457}
+{8 2.17915,88 1.462265,101 1.184798,168 3.519542,228 2.648404,282 2.948266,348 3.665151,632 3.212847}
+{108 3.535397,186 2.912086,210 3.159611,317 1.901075,383 2.456692,423 2.384865,634 3.720276}
+{76 3.1637,373 5.111097,384 4.373174,471 2.209731}
+{}
+{20 2.495936,101 1.246454,253 3.702696,266 2.717518,272 3.471709,391 4.053375,471 1.667052}
+{82 3.579591,156 3.267663,203 2.767407,383 2.21633,397 3.579591,445 3.356284}
+{172 4.715745,307 4.619839,440 4.06924}
+{3 1.956766,157 1.209797,160 2.694713,198 1.487115,259 2.615004,287 2.615004,332 2.430571,400 2.78899,455 1.977875,553 2.615004,694 2.694713}
+{101 2.030239,249 6.602185,269 3.5255}
+{85 3.449516,88 1.483312,109 3.449516,167 2.800276,180 2.453923,304 2.990701,350 2.073073,376 2.652571}
+{12 2.542678,77 2.231432,89 2.47554,98 2.620183,157 1.176337,227 1.705532,275 2.968689,288 2.968689,342 2.620183,370 2.231432,461 1.3922}
+{12 3.489565,77 3.062412,98 3.595933,101 1.252865,157 1.614401,198 1.984465,342 3.595933,469 2.146838}
+{6 2.022353,85 3.082017,109 3.082017,145 2.672083,188 2.262149,305 2.842221,307 2.192491,350 1.852215,436 2.911879}
+{12 2.521431,77 2.212787,89 2.454854,98 2.598289,141 1.704941,157 1.166507,227 1.69128,275 2.943883,288 2.943883,342 2.598289,370 2.212787}
+{12 3.632441,77 3.187799,98 3.743164,157 1.680501,227 2.436503,342 3.743164}
+{12 2.584669,77 2.268284,89 2.516422,98 2.663454,157 1.195763,227 1.733698,275 3.017716,288 3.017716,342 2.663454,370 2.268284}
+{49 3.920285,110 2.031818,111 3.643792,198 2.229409,200 2.650818,245 3.920285}
+{60 2.340513,163 2.114982,227 2.098036,238 3.12784,285 2.579045,301 2.616541,322 3.473961,356 1.703696,405 2.744966}
+{188 3.35946,230 3.519591,289 3.715575,329 3.897942,469 2.732568}
+{12 3.826193,77 3.357834,98 3.942822,157 1.770138,342 3.942822}
+{63 3.226215,80 4.025416,100 2.784021,208 3.440868,231 2.784021,438 2.039147,472 1.424149}
+{20 2.322454,119 2.279853,183 3.328874,237 3.069871,258 2.787638,346 2.834976,377 2.279853,757 2.834976}
+{91 2.296411,182 3.622113,362 3.622113,414 2.334796,461 1.859506,465 2.568702,752 3.622113}
+{165 3.103171,198 2.045025,245 3.596056,283 4.198555,316 2.53791,404 3.054112}
+{88 1.364814,135 3.596104,184 2.99873,198 1.751584,265 3.284986,297 3.284986,393 3.420891}
+{48 4.594979,60 3.095777,314 3.845378,337 3.364521,472 1.826271}
+{141 2.694614,153 2.181949,190 2.592132,227 2.673024,287 3.985055,353 3.047659,455 3.014122}
+{101 1.844814,270 3.974795,404 4.363932,468 4.679064}
+{118 3.72277,198 2.174502,249 4.464379,422 3.940288,440 2.468978}
+{60 2.420592,153 1.77119,163 2.187345,227 2.169819,238 3.234856,285 2.667285,322 3.59282,356 1.761986,405 2.838882}
+{54 2.713962,88 1.26548,95 2.551502,99 2.713962,137 2.713962,211 2.015536,330 2.855885,338 2.942937,377 2.015536,440 1.84404,472 1.260674}
+{198 4.31476,404 6.443812}
+{29 4.013165,54 4.013165,101 1.516201,184 4.111521,354 2.953882}
+{38 4.659561,431 6.199062}
+{10 2.518296,30 3.006258,56 3.290978,88 1.24901,101 1.012009,102 1.875824,153 1.543341,163 1.90596,166 2.233576,356 1.535321,429 2.262165,446 2.518296,469 1.734121}
+{101 1.599223,141 3.011885,313 3.265271,319 4.750625,405 3.909025}
+{16 3.20866,135 3.51255,141 2.034283,172 2.251208,184 2.929056,271 2.596141,297 3.20866,356 1.638689}
+{37 3.835451,49 3.596183,101 1.291144,111 3.342549,130 2.719996,459 3.501228}
+{10 2.433577,69 3.025313,113 2.083157,131 2.083157,144 3.025313,188 2.060233,289 2.278625,317 1.391919,364 2.723892,507 2.905123}
+{65 2.307746,88 1.144583,105 3.015825,162 1.437009,343 2.868885,384 2.454686,385 2.352189,410 2.266862,423 1.655852,425 2.661785,515 2.75491}
+{8 1.534617,25 2.478558,32 1.79771,133 1.841508,172 1.738966,173 2.323937,212 2.394775,224 2.160033,289 1.94405,313 1.703599,411 2.7133,421 2.07625,428 1.720942,433 2.20845}
+{88 1.882366,91 2.872446,309 3.728052,317 2.170769,326 3.665801,384 4.036944}
+{46 4.061859,88 1.687581,110 1.973864,306 3.234511,429 3.05649,459 3.707906,471 1.828757}
+{8 1.831112,88 1.228722,101 0.995571,102 1.845355,172 2.074942,221 3.07978,222 2.5251,293 2.772932,314 2.577361,421 2.47739,472 1.224056,630 2.957426}
+{45 5.116331,110 2.790376,213 5.116331}
+{71 3.744427,198 1.917243,265 3.595668,278 3.936211,393 3.744427}
+{6 1.804594,186 2.089039,206 2.59834,224 2.480581,289 2.232546,350 1.652776,353 2.04103,403 2.430283,411 3.115952,421 2.384364,433 2.536182}
+{52 3.557758,54 3.044101,157 1.481959,211 2.260715,255 3.416415,464 2.641255,472 1.414028,682 3.203288}
+{132 4.529775,167 3.411766,262 2.932151,307 2.98978,376 3.231807}
+{277 4.110443,355 3.873731,356 2.59452,368 4.637543}
+{192 3.730747,337 3.828836,427 4.376054,457 3.523005}
+{57 3.457285,75 3.50755,153 2.295784,157 1.939818,356 2.283854,372 4.192961,471 2.013384}
+{13 2.5143,103 2.439927,110 1.264573,153 1.33594,214 2.267842,224 2.267842,282 2.179877,361 2.848723,371 1.984252,412 2.848723,454 2.848723,472 1.077057}
+{15 3.012845,57 2.878802,88 1.547077,203 2.878802,317 1.784109,383 2.305543,395 3.119268,582 3.723678}
+{88 1.366619,264 2.866612,371 2.508147,412 3.600861,429 2.475174,454 3.600861,471 1.480944,634 3.084132}
+{61 3.159429,62 2.88609,67 2.003905,101 0.971557,119 1.909787,157 1.251917,198 1.538889,224 2.515192,263 2.171741,295 2.515192,299 2.417633,385 2.464193}
+{76 1.777022,91 1.747807,115 2.870858,180 1.894848,211 1.824236,223 2.870858,238 2.584826,304 2.309333,438 1.633754,503 2.756805,734 2.870858}
+{16 3.843844,62 3.843844,84 4.496851,395 3.219929}
+{363 5.273644,464 5.68582}
+{18 2.652311,90 3.278082,189 2.49957,228 2.466709,231 2.652311,266 2.405882,317 1.570613,426 2.169177,486 3.167273}
+{260 4.514199,285 3.823107,346 4.069064,438 2.930606}
+{87 2.823194,219 3.299011,410 3.046583,454 4.053163,471 1.666965,584 3.577346}
+{18 4.191761,189 3.950366,317 2.482226,350 3.00825,426 3.428207}
+{93 2.208279,116 2.534045,286 3.079616,373 3.207025,434 2.975516,463 2.975516,768 3.371284}
+{10 3.638098,91 2.753477,162 2.265406,171 4.072107,417 4.196232}
+{198 2.032014,337 2.90586,405 3.13579,417 3.682094,452 4.171843,461 1.956432,471 1.715775}
+{76 2.262498,111 3.058882,306 2.795021,327 2.545786,365 3.842378,387 3.655166,461 1.801926}
+{82 6.224918,230 4.624962}
+{42 4.151488,88 1.839579,235 3.01346,306 3.525837,337 3.376167,350 2.570991}
+{2 1.850179,117 3.040855,119 2.20428,188 2.362346,215 2.362346,317 1.59603,408 2.695233,469 1.92152,472 1.378729,627 2.224532,773 3.331131}
+{93 3.125098,303 4.538497,434 4.21087,441 3.470484}
+{60 3.394418,219 4.31084,371 3.689087,470 4.052789}
+{3 1.869753,20 1.796419,99 2.374546,102 1.662869,119 1.763467,120 1.9559,208 2.664969,319 2.664969,421 2.232404,427 2.322488,472 1.10301,497 2.664969,511 2.275396}
+{6 2.047702,101 1.08727,178 2.497003,180 2.219973,198 1.722173,237 2.877847,377 2.137245,457 2.266059,472 1.336801,674 3.229827,744 3.229827}
+{5 4.164549,10 3.720687,101 1.495205,110 2.158416,215 3.149883,289 3.483782}
+{76 2.807688,88 1.80968,91 2.761528,110 2.116676,304 3.648736,340 2.784278,459 3.976178}
+{9 3.398743,101 1.220257,153 1.860923,172 2.543226,174 3.159033,230 2.693193,299 3.036501,356 1.851253,383 2.244367,472 1.500307}
+{10 2.966938,157 1.536362,289 2.778026,350 2.056601,360 2.568907,422 3.422107,457 2.484963,528 3.541832}
+{91 2.182018,139 2.660789,149 3.441683,278 3.767641,378 3.226979,397 3.441683}
+{221 4.921556,402 4.431207,468 4.035166}
+{60 2.98104,88 1.765289,101 1.430323,136 3.702859,194 3.702859,323 3.156824,428 2.950143}
+{8 1.745709,15 2.281264,18 2.281264,29 2.512229,157 1.223028,158 2.512229,236 2.320003,296 2.819492,300 2.724184,317 1.350891,383 1.745709,395 2.361845,472 1.166966}
+{88 1.605567,167 3.031077,231 3.12675,376 2.871197,461 1.98392,464 2.98764,472 1.599469,742 3.864458}
+{46 3.534879,73 3.415389,88 1.468637,211 2.339105,337 2.69538,350 2.052563,371 2.69538,429 2.659945,471 1.591496}
+{2 1.592019,5 2.687519,39 2.185604,55 3.137797,101 0.964905,119 1.896711,136 2.497971,163 1.817246,178 2.21598,317 1.373332,349 2.687519,624 2.769439}
+{18 2.909691,189 2.742128,266 2.639348,317 1.723025,423 2.161505,426 2.379674,433 3.204282,438 2.131193,470 3.01247}
+{67 2.260428,70 3.145495,102 2.031371,157 1.412176,193 2.064006,266 2.389339,353 2.334429,379 3.052451,383 2.015693,416 2.36126,426 2.154262}
+{64 4.413704,211 2.667962,271 3.262188,317 1.931763,371 3.074326,464 3.117053}
+{140 3.043213,153 1.991863,253 3.879931,266 2.847596,267 4.04045,317 1.858974,461 1.991863}
+{58 4.490057,187 3.419775,215 2.721829,247 3.996823,469 2.213922}
+{20 2.581848,88 1.591311,137 3.412744,144 3.988605,157 1.661425,180 2.632593,580 3.700675}
+{15 3.130312,60 2.714407,158 3.44724,219 3.44724,371 2.950044,470 3.240885}
+{9 3.129733,88 1.386826,316 2.208804,364 3.129733,376 2.480027,402 3.129733,435 2.580606,514 3.337967}
+{119 2.799,315 4.630486,343 4.404875,377 2.799,471 1.904403}
+{110 2.140424,144 4.586834,269 2.574773,469 2.540742,472 1.823033,520 4.255718}
+{93 2.208279,116 2.534045,276 3.371284,286 3.079616,434 2.975516,463 2.975516,541 3.207025}
+{118 3.898307,165 3.455228,185 2.53077,235 2.906425,404 3.400602,423 2.566765}
+{76 2.209742,78 2.773699,93 2.458171,264 2.987556,303 3.569937,317 1.642495,327 2.486424,637 3.312229}
+{133 3.387969,458 4.748655,472 1.887349,658 4.748655}
+{102 1.903797,128 2.60507,202 2.51057,313 2.097119,379 2.86075,426 2.018969,431 3.340053,663 3.051087,722 2.51057}
+{16 4.808429,271 3.890521,317 2.303841,363 3.447947,471 2.164882}
+{30 3.144193,88 1.306319,157 1.363876,211 2.08058,348 3.274274,350 1.825708,379 2.948048,402 2.948048,430 3.03791,472 1.301357}
+{2 2.478948,20 3.008574,175 3.275667,317 2.138428,399 4.074265,408 3.611187}
+{119 2.948541,162 2.324257,174 3.883231,215 3.159976,317 2.134919,356 2.275647,429 3.352973}
+{58 3.459573,102 1.84521,133 2.197122,187 2.634924,215 2.09716,247 3.079538,408 2.392678,469 1.705819,657 3.237267}
+{101 1.645049,110 2.374723,125 5.088928,629 5.088928}
+{36 5.914315,153 3.556111,356 3.537631}
+{2 1.393691,70 2.424432,93 1.799293,141 1.59086,186 1.841615,207 2.746902,254 2.509253,305 2.2358,360 1.819973,376 1.864314,396 1.968126,436 2.290595,470 2.101963,711 1.998151}
+{101 1.733768,110 2.502794,380 5.363378,459 4.701502}
+{20 3.227592,234 5.241576,316 3.168387,423 2.87791,472 1.981757}
+{83 4.551177,155 4.15743,163 2.6358,366 3.898076}
+{45 2.577899,120 2.123401,152 2.712707,180 1.988593,243 3.384701,449 2.893194,462 3.167206,585 2.795395}
+{140 2.86708,141 2.317496,153 1.87658,177 3.427337,195 3.427337,365 4.001568,461 1.87658}
+{83 5.391392,163 3.122409,366 4.617719}
+{31 2.986576,79 2.870733,218 3.311142,271 2.772789,299 2.870733,472 1.418403,621 3.751552}
+{18 3.552728,189 3.348133,236 3.613059,266 3.22264,317 2.103811,426 2.905577}
+{347 3.863585,414 3.026633,434 4.536683,470 3.933266}
+{139 4.046366,460 4.046366,488 5.233901}
+{48 3.183748,50 3.346814,91 1.938298,157 1.326168,203 2.363592,245 2.866541,252 3.057264,358 3.183748}
+{128 6.412581,350 4.361041}
+{31 3.397352,118 3.558632,203 3.013831,218 3.766559,250 3.558632}
+{128 3.011373,140 2.766357,169 3.526955,307 2.424199,727 3.407733,767 3.672871}
+{93 2.760357,116 3.167565,286 3.849531,434 3.719405,463 3.719405}
+{14 6.658592,469 3.975302}
+{175 3.712768,210 4.028349,383 3.132163,433 4.507459}
+{60 1.983831,67 1.963269,86 2.156046,133 2.100812,162 1.474908,178 2.186011,180 1.943484,209 2.58117,237 2.519423,307 1.943484,350 1.641854,421 2.368608,467 2.731985}
+{398 7.75499}
+{39 2.509193,106 3.602363,277 2.662523,317 1.57666,368 3.00395,383 2.037463,402 3.085418,433 2.932089}
+{88 2.879925,91 4.394697,236 5.703731}
+{156 4.112079,163 2.855914,356 2.300543,371 3.434812,383 2.789064,465 3.194547}
+{171 5.349786,193 3.617418,429 4.293478}
+{37 3.471959,101 1.16878,200 2.201214,230 2.579581,270 2.518228,329 2.856882,404 2.764766,562 3.6156}
+{18 3.125465,189 2.945476,231 3.125465,266 2.835074,317 1.8508,426 2.556143,486 3.732293}
+{48 3.384612,50 3.557966,183 3.140282,203 2.512712,245 3.047393,252 3.250147}
+{3 3.730254,79 4.453762,218 5.13703}
+{88 1.612259,141 2.460268,190 2.366698,256 3.04371,348 4.04111,353 2.782609,401 3.54241}
+{8 1.839638,15 2.404008,45 2.647401,57 2.297053,65 2.488925,88 1.234443,158 2.647401,167 2.330449,200 1.883731,317 1.423576,383 1.839638,658 3.094119}
+{14 3.353634,93 2.4889,116 2.856062,286 3.470963,434 3.353634,463 3.353634}
+{19 4.442415,110 2.158796,419 3.023473,461 2.280629,712 4.626205}
+{47 3.327199,112 2.727958,178 2.47009,271 2.585102,312 2.9957,317 1.530814,363 2.291028,471 1.438481,576 3.195016}
+{18 3.261719,87 3.073884,189 3.073884,266 2.958669,309 3.317109,317 1.931485,426 2.667578}
+{8 2.333008,36 3.217214,175 2.765475,252 3.768038,465 2.672188,471 1.696471,583 3.532975}
+{136 2.852809,153 1.680533,174 2.852809,198 1.745456,351 2.916754,382 2.648597,447 2.988239,453 3.273493,461 1.680533}
+{39 3.642004,191 4.776338,351 4.255822,356 2.439315}
+{88 3.920083,465 6.69125}
+{35 3.310793,79 2.663218,153 1.632156,223 3.310793,292 2.980928,366 2.980928,461 1.632156,466 2.832792}
+{52 3.684268,70 3.418307,141 2.243019,158 3.152346,230 2.628573,304 2.963644,350 2.054317}
+{56 3.016671,67 1.913359,91 1.747096,101 0.927657,110 1.339127,145 2.308393,193 1.747096,232 2.455374,256 2.161412,272 2.583774,290 2.515551,383 1.706201,445 2.583774}
+{36 2.484101,55 3.184955,84 3.403669,88 1.208772,153 1.49362,226 2.811061,277 2.354015,284 3.184955,383 1.801381,471 1.309893}
+{51 3.505017,260 3.819561,282 3.505017,361 4.580452}
+{3 2.496828,81 3.895789,88 1.478552,145 2.981105,250 3.248633,337 2.713577,429 2.677903,471 1.602241}
+{67 2.803141,95 3.38188,110 1.96187,121 3.321967,184 3.685374,332 3.518349}
+{88 2.570186,101 2.08249,224 5.391206,360 4.486887}
+{21 2.8294,127 2.8294,216 2.8294,239 2.652892,241 2.733757,273 2.946457,301 2.219232,335 2.8294}
+{21 2.952891,127 2.952891,216 2.952891,239 2.76868,241 2.853074,273 3.075058,335 2.952891}
+{110 2.616374,121 4.430217,141 3.41346,332 4.692114}
+{21 2.751146,75 2.157854,88 1.143019,127 2.751146,216 2.751146,239 2.579521,241 2.658149,273 2.864966,335 2.751146,356 1.405033}
+{2 1.73795,20 2.109263,31 2.726946,32 2.269529,101 1.053352,120 2.296517,157 1.357315,215 2.21905,248 2.726946,323 2.324822,340 2.000166,374 2.454277,414 2.016983}
+{21 2.952891,53 3.075058,127 2.952891,216 2.952891,239 2.76868,241 2.853074,335 2.952891}
+{95 3.977455,121 3.906991,271 3.841752,306 3.781016}
+{25 3.655707,88 1.518837,99 3.257316,157 1.585758,227 2.299139,353 2.621373,438 2.166466,717 3.80695}
+{110 2.221871,121 3.762219,367 4.286982,708 4.761372}
+{105 4.325812,236 3.251522,312 3.705052,459 3.607222,461 2.028638}
+{36 2.861539,56 3.668881,88 1.392435,157 1.453786,250 3.059418,277 2.711687,305 2.986231,337 2.555526,471 1.508919}
+{64 3.522177,110 1.563525,121 2.647465,157 1.395655,193 2.039858,206 2.937084,332 2.803972,371 2.453341,425 3.108695}
+{8 1.901911,31 2.677014,32 2.227972,101 1.034064,213 2.737018,248 2.677014,340 1.963541,363 2.202656,374 2.409337,414 1.98005,736 3.198859}
+{88 1.689299,110 1.975874,121 3.34568,306 3.237803,380 4.234211,459 3.711681}
+{13 4.576925,110 2.301975,121 3.897857,209 4.324263}
+{38 3.786141,235 3.131599,306 3.664062,350 2.671782,468 3.928654}
+{110 2.103438,121 3.56168,306 3.446839,369 4.182181,468 3.695744}
+{110 2.255221,121 3.818689,293 4.351329,297 4.64084}
+{271 4.906073,383 3.754312,460 4.6878}
+{101 0.93284,102 1.729079,128 2.365994,157 1.202028,162 1.445444,258 2.242093,313 1.90466,317 1.327695,340 1.771331,353 1.987039,377 1.833682,403 2.365994,426 1.833682,472 1.146928,581 2.77108,596 2.885724}
+{32 2.139533,211 1.951972,235 2.007638,250 2.692789,267 3.07188,269 1.724369,277 2.386729,285 2.280543,300 2.850126,350 1.712855,421 2.471036}
+{29 2.668376,47 3.118634,88 1.244224,101 1.008131,227 1.883443,320 2.893505,338 2.893505,355 2.283516,400 2.994736,416 2.172096,472 1.239498}
+{88 2.456762,110 2.87353,121 4.865651,306 4.708765}
+{83 3.501453,110 1.554326,121 2.631887,184 2.919802,265 3.198524,297 3.198524,369 3.090403}
+{21 2.952891,127 2.952891,216 2.952891,239 2.76868,241 2.853074,273 3.075058,335 2.952891}
+{110 7.75499}
+{121 3.102634,297 3.770621,336 3.770621,347 3.102634,350 2.189449,420 2.76737}
+{14 3.563848,88 1.532475,110 1.792446,121 3.035088,306 2.937226,338 3.563848,459 3.367112}
+{102 2.530966,180 2.787974,211 2.68408,426 2.68408,436 3.702749,536 4.224022}
+{225 4.309374,274 4.530093,309 3.405071,323 3.07456}
+{118 3.306523,163 2.29644,202 2.980474,235 2.465214,262 2.441648,322 3.772015,340 2.315359,356 1.849867}
+{166 4.186474,246 5.444268,340 3.601841}
+{2 1.813592,41 2.396469,101 1.099198,166 2.426007,189 2.489791,198 1.741065,302 2.845632,455 2.315631,564 3.265258,638 3.265258}
+{15 3.79205,33 4.084424,157 2.032989,158 4.175975,269 2.739689}
+{115 3.105469,279 3.105469,290 2.722233,321 3.264526,360 2.162927,362 2.982094,368 2.722233,471 1.342618}
+{22 2.955181,42 3.035328,88 1.344993,91 2.052427,150 2.955181,271 2.619298,348 3.371212,682 3.035328}
+{166 3.808067,211 3.391605,285 3.962505,395 4.293492}
+{88 2.475978,269 3.483683,277 4.821825,356 3.043545,461 3.059444}
+{153 4.10495,236 6.579457}
+{75 2.6959,137 3.062554,277 2.780994,281 3.762653,356 1.755368,404 2.737027,417 3.32094}
+{1 4.260841,304 3.260447,320 3.760644,350 2.260053,461 1.998169,469 2.245173,471 1.752378}
+{136 4.11834,182 4.725643,352 4.565901}
+{24 4.182365,59 5.015529,401 4.182365}
+{32 2.075851,50 3.133102,53 2.980448,60 2.008018,91 1.814526,100 2.31569,102 1.785837,250 2.612641,267 2.980448,329 2.355014}
+{45 3.252226,62 3.649995,153 1.87382,163 2.314088,213 3.252226,356 1.864083,528 3.649995}
+{22 3.916405,150 3.916405,253 4.290261,350 2.491183,461 2.202517}
+{138 4.247526,211 3.154444,266 3.498663,356 2.43456,396 3.739005}
+{76 3.308368,78 4.152709,88 2.132391,97 3.680309,327 3.722609}
+{9 2.449523,38 2.149681,101 0.879457,189 1.992057,196 2.524189,263 1.965868,337 1.992057,426 1.728747,427 2.276762,438 1.548235,472 1.081294,595 2.6125,695 2.6125,745 2.276762}
+{40 3.593647,101 1.105083,170 3.077953,280 3.171774,305 2.924995,327 2.380987,420 2.409301,460 2.537911}
+{115 3.105469,279 3.105469,290 2.722233,321 3.264526,360 2.162927,362 2.982094,368 2.722233,471 1.342618}
+{2 1.914823,68 3.330982,88 1.432341,136 3.00447,162 1.798286,337 2.628767,352 3.330982,423 2.072147,429 2.594208,472 1.426901}
+{88 2.088088,329 4.135487,352 4.855954,464 3.885515}
+{101 1.461313,126 4.520545,198 2.314635,237 3.867884,356 2.21696,408 3.512284}
+{106 4.064018,153 1.905866,198 1.979495,201 3.109835,318 3.586927,354 2.434733,376 2.758236}
+{128 4.912611,180 3.954723,289 4.512903}
+{22 2.651913,27 2.905062,52 3.025249,150 2.651913,156 2.651913,157 1.260146,300 2.806862,316 1.922341,354 1.905241,376 2.15839}
+{138 3.923544,157 1.910098,266 3.2318,272 4.12872,489 3.688677}
+{32 3.338157,153 2.362772,189 3.509391,235 3.132372,266 3.377853,461 2.362772,471 2.072132}
+{2 1.841404,124 3.629324,138 2.954034,269 1.938022,302 2.889271,307 2.278743,442 3.203263,457 2.32605,472 1.37219}
+{39 3.846351,128 4.306934,289 3.956506,377 3.33794}
+{106 4.616628,153 2.165019,198 2.248659,201 3.532699,318 4.074664}
+{100 2.544842,157 1.364338,160 3.038939,224 2.741054,230 2.33685,269 1.838603,353 2.255349,364 2.949047,383 1.94741,470 2.634734,472 1.301798}
+{22 2.856017,27 3.128649,52 3.258087,150 2.856017,156 2.856017,157 1.357133,300 3.022891,316 2.070294}
+{101 1.230595,123 3.257207,214 3.185798,282 3.062228,352 3.532015,361 4.001803}
+{55 7.412436,101 2.2794}
+{101 2.50611,153 3.821884,269 4.351847,440 4.507096}
+{74 2.398264,99 2.211667,172 1.741499,248 2.16318,356 1.267664,382 2.008334,409 2.398264,446 2.079275,457 1.741499,472 1.027351,481 2.482169,485 2.482169,678 2.398264,711 1.976583}
+{86 2.607095,123 3.046491,166 2.540306,211 2.26249,276 3.742917,282 2.864125,310 3.205803}
+{86 3.095639,166 3.016334,211 2.686458,276 4.444303,310 3.806539}
+{101 3.870046,269 6.720314}
+{101 2.209035,269 3.835976,327 4.759537,414 4.22991}
+{226 4.216215,313 2.999339,438 2.586055,471 1.964664,685 4.777007}
+{110 3.209175,230 4.90654,317 3.1641,423 3.969309}
+{36 2.428686,88 1.181807,123 2.534516,157 1.233878,162 1.483743,163 1.803409,175 2.087666,196 2.748351,303 2.962187,356 1.452712,395 2.382798,399 2.596633,438 1.685727,472 1.177318}
+{101 1.549021,180 3.162768,192 3.418798,460 3.557449,472 1.904523,707 4.44595}
+{313 4.392709,747 6.39093}
+{173 3.153626,185 1.993267,244 3.502601,269 1.96615,381 3.681999,427 2.931205,446 2.81751}
+{2 1.220471,28 2.197381,99 1.957914,136 1.91499,139 1.698811,211 1.454054,212 2.123102,222 1.876161,255 2.197381,367 2.060301,374 1.723509,398 2.28829,436 2.0059,438 1.302224,462 2.405493,675 2.123102}
+{76 2.638208,78 3.311515,316 2.708303,327 2.968538,347 3.36775,356 2.090235,414 2.638208,471 1.842694}
+{101 1.078454,154 3.336178,220 3.336178,412 3.507052,414 2.065049,513 3.336178,558 3.003785}
+{88 1.419227,101 1.149927,139 2.640898,222 2.916598,227 2.148353,291 2.861491,440 2.068077,451 3.739475,700 3.202855}
+{75 3.470359,291 3.706352,349 4.148503,356 2.259639,396 3.470359}
+{75 3.122104,162 2.076305,177 3.732195,225 4.145193,356 2.032881,438 2.358955,469 2.296108}
+{76 2.986242,78 3.748372,101 1.559539,327 3.360149,347 3.812025,414 2.986242}
+{119 2.156472,139 2.519465,356 1.664338,368 2.974901,417 3.148722,451 3.567528,462 3.567528,471 1.467235}
+{95 2.743706,201 2.743706,394 2.989929,430 3.164628,438 1.941054,458 3.410851,530 3.275345}
+{30 3.214611,201 2.69283,394 2.934488,430 3.105947,438 1.905061,530 3.214611,687 3.214611}
+{100 2.393022,108 2.635303,139 2.286556,147 2.857641,353 2.120799,409 2.857641,441 2.355189,524 2.525264,749 3.07998}
+{87 3.503252,101 1.546622,269 2.685701,523 4.307757,704 4.439065}
+{67 2.58409,141 2.359543,269 2.175565,447 3.397381,525 4.074169,604 3.875664}
+{68 2.720101,153 1.44529,189 2.146668,246 2.720101,356 1.43778,360 2.041925,416 2.041925,442 2.720101,447 2.569942,451 3.081897,493 2.176502}
+{110 2.465262,163 3.216312,211 3.356956,255 5.073066,356 2.590857}
+{57 2.946169,75 2.989003,76 2.456432,101 1.282851,153 1.956381,327 2.764002,356 1.946215,414 2.456432,467 3.681998}
+{57 4.443877,101 1.934999,153 2.950923,354 3.769788,414 3.70518}
+{191 4.080276,192 3.031545,269 2.385181,306 3.249177,729 4.249084}
+{163 2.662913,246 4.058215,312 3.938173,356 2.145074,442 4.058215}
+{32 2.534154,101 1.176172,183 3.375812,249 3.824823,269 2.042416,385 2.983165,518 3.638466}
+{42 3.364997,70 3.467568,88 1.491074,318 3.467568,411 3.928784,456 2.666453}
+{22 3.795247,150 3.795247,195 3.898177,352 4.017}
+{0 NEG,71 7.027499,110 3.279348}
+{0 NEG,73 3.979391,153 2.114397,337 3.140483,389 3.759715,538 3.979391}
+{0 NEG,330 3.663622,363 2.801836,477 3.566886,642 3.566886,700 3.663622}
+{0 NEG,73 3.482291,153 1.850269,337 2.748178,389 3.290056,538 3.482291,769 3.75323}
+{0 NEG,76 2.226639,231 2.794908,374 2.709389,428 2.398447,455 2.44971,472 1.429718,482 3.781479,579 3.454323}
+{0 NEG,76 2.090637,231 2.624196,346 2.668759,374 2.5439,428 2.251951,455 2.300083,472 1.342391,482 3.550508,579 3.243334}
+{0 NEG,34 3.477787,190 2.195257,313 2.474034,468 3.073279,472 1.489789,501 3.374914,708 3.748375}
+{0 NEG,6 2.150495,8 2.100158,112 2.896114,141 2.150495,163 2.150495,213 3.022312,262 2.286474,317 1.625176,394 3.096384,493 2.62235}
+{0 NEG,141 2.661341,567 3.935848,580 4.055819,691 4.595277}
+{0 NEG,141 2.594969,199 4.093027,307 2.81328,405 3.367924,465 2.902661,469 2.36101,471 1.842789}
+{0 NEG,20 2.499126,87 2.826951,186 2.720992,191 3.707429,269 2.167228,356 1.893414,679 4.058556}
+{0 NEG,157 1.171715,190 1.64742,229 2.406827,461 1.38673,471 1.216151,473 1.838414,499 2.957026,531 1.77154,557 2.957026,588 2.957026,597 2.701198,694 2.609889}
+{0 NEG,162 1.880664,194 3.142101,309 2.96672,478 3.754609,739 3.605445,764 3.291265}
+{0 NEG,157 1.410158,262 2.19138,350 1.887662,556 3.385385,652 2.896615,695 3.25089,711 2.588726,714 3.558779}
+{0 NEG,141 2.338667,250 3.367322,399 3.367322,438 2.186056,571 3.688763,688 3.688763}
+{0 NEG,42 2.730552,91 1.846344,117 2.658453,186 2.137369,193 1.846344,202 2.396309,232 2.594858,262 1.963092,264 2.53797,438 1.725861,752 2.912226}
+{0 NEG,39 2.530802,171 3.111989,438 1.96695,461 1.703917,471 1.494321,690 3.111989,701 3.882894,737 3.206848}
+{0 NEG,2 1.768341,32 2.309215,290 2.90635,317 1.525434,337 2.427668,472 1.317745,500 3.48532,695 3.183787,715 3.315505}
+{0 NEG,8 2.029049,76 2.112411,82 3.277113,153 1.682391,258 2.651527,304 2.745187,350 1.902889,388 2.855964,753 3.412693}
+{0 NEG,18 3.436091,101 1.429613,141 2.69245,142 4.42248,438 2.516753,468 3.625975}
+{0 NEG,76 2.054786,140 2.500277,262 2.148796,363 2.285794,377 2.10938,431 3.489623,616 3.489623,661 3.319599}
+{0 NEG,589 4.280122,756 4.457198,768 4.685489}
+{0 NEG,123 3.905134,282 3.671369,299 3.671369,637 4.234607}
+{0 NEG,19 3.36745,20 2.269952,25 3.36745,429 2.533958,676 3.506768,679 3.686379}
+{0 NEG,8 2.022389,30 3.266358,93 2.342185,101 1.099568,178 2.525245,410 2.687704,438 1.935728,747 3.266358,763 3.266358}
+{0 NEG,186 2.888606,202 3.238557,477 3.592839,514 3.935808,642 3.592839}
+{0 NEG,66 2.990833,198 1.700844,301 2.50193,538 3.081999,575 3.491931,582 3.189825,674 3.189825}
+{0 NEG,66 3.159794,198 1.796929,538 3.25611,575 3.6892,582 3.370028,674 3.370028}
+{0 NEG,101 1.248708,113 2.659867,131 2.659867,190 2.262302,295 3.232689,494 3.16714,724 4.339557}
+{0 NEG,2 1.917534,211 2.284526,299 2.892022,307 2.372954,354 2.264204,429 2.59788,464 2.669074,469 1.991472,484 3.779373}
+{0 NEG,67 2.278623,141 2.08062,162 1.711818,317 1.57237,497 3.281748,512 3.281748,603 3.59256,687 3.281748}
+{0 NEG,101 1.019333,113 2.171277,131 2.171277,180 2.08126,190 1.846741,295 2.638877,306 2.411247,445 2.839117,471 1.363293,494 2.58537,724 3.542425}
+{0 NEG,91 2.331081,157 1.594907,231 2.974914,285 2.842559,395 3.079998,471 1.655393,489 3.079998,651 3.676799}
+{0 NEG,51 2.569406,157 1.330509,262 2.067605,350 1.781042,556 3.19417,652 2.733007,695 3.067272,711 2.442508,714 3.35777}
+{0 NEG,32 3.041019,38 3.449979,120 3.077182,193 2.658192,235 2.853551,269 2.450927,313 2.881822}
+{0 NEG,224 3.044535,228 2.628801,423 2.099779,443 2.781912,504 3.3754,548 3.275556,561 3.112778}
+{0 NEG,149 3.544884,163 2.247448,198 1.890164,299 2.969495,435 2.740575,443 2.822837,469 2.044821,728 3.235981}
+{0 NEG,101 1.775317,190 3.216368,236 4.339457,597 5.273728}
+{0 NEG,3 5.753812,91 5.199377}
+{0 NEG,97 1.988883,416 2.011742,443 2.208695,504 2.679893,520 2.679893,521 3.036342,548 2.600622,744 2.773652,770 3.036342}
+{0 NEG,45 3.491119,120 2.875614,157 1.69958,543 4.289186,689 4.289186}
+{0 NEG,157 1.335039,190 1.877053,229 2.742313,461 1.580026,471 1.38567,499 3.369204,557 3.369204,588 3.369204,694 2.97368}
+{0 NEG,6 1.804498,20 1.918599,60 1.996921,68 2.750011,108 2.536047,119 1.883406,192 2.114674,240 2.480448,333 2.963976,405 2.341998,471 1.281445,711 2.266484}
+{0 NEG,6 1.675286,67 1.834715,97 1.89478,215 1.87393,326 2.137992,416 1.916558,443 2.104191,504 2.553096,548 2.477575,618 2.751739,713 2.642418,744 2.642418}
+{0 NEG,15 3.477537,86 3.277273,158 3.829619,185 2.54711,193 2.724926,313 2.95417}
+{0 NEG,67 1.785195,86 1.960487,166 1.910262,410 2.115613,481 2.571097,485 2.571097,542 2.814603,578 2.290904,677 2.571097,678 2.484186,765 2.410704}
+{0 NEG,97 2.161445,416 2.186288,443 2.400328,504 2.91241,520 2.91241,521 3.299784,548 2.82626,744 3.014302}
+{0 NEG,5 4.568827,6 3.089349,240 4.246593,457 3.418781}
+{0 NEG,97 2.625183,416 2.655355,443 2.915318,504 3.537266,548 3.432634,744 3.66102}
+{0 NEG,51 2.120444,67 1.757574,86 1.930153,153 1.299517,166 1.880705,481 2.531316,485 2.531316,542 2.771054,578 2.255458,677 2.531316,678 2.445749,765 2.373404}
+{0 NEG,141 2.952333,377 3.081434,528 4.656695,550 4.499284}
+{0 NEG,15 2.950494,38 3.000598,82 3.646617,158 3.249216,185 2.161079,193 2.311946,313 2.506447,472 1.509307}
+{0 NEG,3 3.001765,313 2.940717,399 3.905609,438 2.53551,471 1.926265,678 4.133809}
+{0 NEG,123 3.905134,282 3.671369,299 3.671369,637 4.234607}
+{0 NEG,157 1.249994,190 1.75748,229 2.567619,461 1.479373,471 1.297398,473 1.961233,499 3.154576,531 1.889891,557 3.154576,588 3.154576,694 2.784247}
+{0 NEG,110 2.500052,200 3.2617,443 4.096757,519 5.144658}
+{0 NEG,110 1.878973,162 2.016881,180 2.657642,421 3.238983,472 1.600352,629 4.026557,655 4.026557}
+{0 NEG,101 1.315462,153 2.006114,198 2.083615,236 3.21542,477 3.567171,642 3.567171,648 3.775597}
+{0 NEG,101 1.445576,153 2.20454,198 2.289708,477 3.920003,642 3.920003,648 4.149045}
+{0 NEG,67 1.785195,86 1.960487,166 1.910262,410 2.115613,481 2.571097,485 2.571097,542 2.814603,578 2.290904,677 2.571097,678 2.484186,765 2.410704}
+{0 NEG,10 3.38421,110 1.963221,206 3.687913,446 3.38421,469 2.330398,506 3.787931}
+{0 NEG,78 2.545824,93 2.256219,101 1.05921,190 1.918986,340 2.011289,487 3.146471,494 2.68651,544 3.444471,666 3.276646}
+{0 NEG,103 5.910889,441 5.020087}
+{0 NEG,8 3.447715,370 4.581926,583 5.221024}
+{0 NEG,10 2.63774,119 2.083659,145 2.63774,173 2.952411,262 2.122594,350 1.82841,652 2.805692,695 3.148847,697 2.744181}
+{0 NEG,660 7.75499}
+{0 NEG,547 3.6359,551 3.458748,594 3.321339,618 3.458748,774 3.458748}
+{0 NEG,102 2.750117,119 2.916489,157 1.911837,173 4.132478,307 3.029379,403 3.763136}
+{0 NEG,97 3.036351,180 2.910469,313 2.910469,382 3.426093,423 2.545122,537 3.970269}
+{0 NEG,153 2.229378,163 2.753187,167 3.406093,376 3.226433,382 3.513603,446 3.637715}
+{0 NEG,66 2.853375,198 1.622673,480 3.331442,538 2.940351,575 3.331442,582 3.043221,674 3.043221}
+{0 NEG,172 2.855179,356 2.078329,561 3.626017,713 4.069504,756 4.237866}
+{0 NEG,93 2.194695,101 1.030327,190 1.866658,340 1.956444,487 3.060672,494 2.613253,544 3.350545,666 3.187297,719 3.060672}
+{0 NEG,110 1.859899,143 3.827337,200 2.426522,443 3.047758,519 3.827337,728 3.493821}
+{0 NEG,78 3.131506,93 2.775275,202 3.184684,626 4.030458,738 4.030458}
+{0 NEG,79 3.89147,101 1.563837,310 4.355705,347 3.822529,414 2.99447}
+{0 NEG,93 2.388595,101 1.121356,190 2.031577,340 2.129295,487 3.331081,494 2.844133,544 3.646565,666 3.468893}
+{0 NEG,38 2.003854,108 2.169886,157 1.056365,203 1.88273,293 2.283357,378 2.283357,445 2.283357,553 2.283357,733 2.66592,749 2.536029,751 2.536029,752 2.435277}
+{0 NEG,192 3.289923,421 3.709298,511 3.780732,661 4.611232}
+{0 NEG,91 2.461887,156 3.544741,193 2.461887,438 2.301236,747 3.883118,752 3.883118}
+{0 NEG,20 3.065588,24 4.151474,101 1.530935,157 1.972713,185 2.695126,262 3.065588,269 2.65846,472 1.882287}
+{0 NEG,20 2.165064,39 2.449067,162 1.675358,178 2.483105,198 1.712588,199 3.211851,299 2.690518,472 1.32936,573 2.931968,585 3.10328}
+{0 NEG,54 2.104646,65 1.97866,113 1.693745,120 1.733585,131 1.693745,190 1.440584,355 1.801093,438 1.399817,440 1.430031,469 1.362523,531 1.54912,551 2.459781,599 2.362058,644 1.675107,727 2.282213,730 1.943606,774 2.459781}
+{0 NEG,100 3.098932,140 3.00411,153 1.96627,236 3.151557,350 2.223973,456 2.845653,512 3.830077}
+{0 NEG,383 3.550309,423 3.446507,618 5.971329}
+{0 NEG,41 3.099989,130 2.995419,419 2.874701,440 2.557176,461 2.168409,598 3.220706,665 3.417514}
+{0 NEG,227 5.176319,457 5.774564}
+{0 NEG,15 2.703493,63 3.132896,101 1.124809,157 1.449393,158 2.977208,561 2.977208,619 3.132896,654 3.479577}
+{0 NEG,41 2.46853,130 2.385261,256 2.638107,316 2.225662,355 2.564658,419 2.289133,423 2.021613,456 2.498956,461 1.726711,741 3.363443}
+{0 NEG,78 3.285231,93 2.911513,101 1.366846,146 3.70651,190 2.476335,440 2.458194,561 3.617843}
+{0 NEG,6 1.572573,33 2.161645,146 2.264264,152 2.325672,172 1.740264,188 1.759037,190 1.512764,236 2.04099,356 1.266765,511 2.117814,528 2.480408,529 2.396563,585 2.396563,622 2.480408}
+{0 NEG,583 5.304308,599 5.657224}
+{0 NEG,197 3.32475,198 1.942015,260 3.32475,377 2.410073,383 2.255049,405 2.996904,738 3.792808}
+{0 NEG,24 3.046684,123 2.973801,198 1.779594,282 2.795786,465 2.366875,670 3.475595,680 3.65361}
+{0 NEG,153 3.258661,236 5.223016,456 4.716047}
+{0 NEG,228 3.025333,269 2.35021,313 2.763398,373 4.186787,472 1.664035,661 4.186787}
+{0 NEG,41 2.625092,130 2.536541,316 2.36682,355 2.727316,419 2.434317,423 2.14983,456 2.657447,461 1.836224,741 3.576762}
+{0 NEG,383 5.564346,423 5.401659}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,3 2.623328,87 2.851058,190 2.280388,235 2.544765,466 3.331572,471 1.683418,473 2.544765,531 2.452197,644 2.651628}
+{0 NEG,113 2.605323,131 2.605323,465 2.576654,505 3.166398,566 3.237373,699 3.237373,730 2.989661}
+{0 NEG,75 2.453247,87 2.384945,157 1.356746,290 2.855202,307 2.149816,316 2.069703,356 1.597371,359 2.932637,367 2.932637,487 3.127756}
+{0 NEG,41 2.272395,130 2.195741,197 2.826398,215 2.195741,263 2.329847,419 2.107251,440 1.874495,461 1.589516,560 3.096202,598 2.360885,665 2.505151}
+{0 NEG,3 2.485225,538 3.422468,587 3.688753,626 3.688753,733 3.877685}
+{0 NEG,113 2.76225,131 2.76225,505 3.357121,566 3.43237,699 3.43237,730 3.169738}
+{0 NEG,178 2.749794,262 2.397596,472 1.472136,554 3.70396,592 3.556809,613 3.556809,627 2.375239}
+{0 NEG,29 2.3318,76 1.686902,88 1.087283,107 2.453738,162 1.365071,189 1.995484,190 1.596066,257 2.083947,325 2.453738,418 2.3318,426 1.731721,438 1.550899,508 2.616995,545 2.864848}
+{0 NEG,192 4.234508,435 4.40624,446 4.774292}
+{0 NEG,41 2.243276,130 2.167605,300 2.953208,323 2.270925,349 2.865852,419 2.080249,440 1.850475,461 1.569148,598 2.330632,665 2.47305,746 2.560406}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,76 2.346577,107 3.413291,190 2.22022,325 3.413291,418 3.243668,545 3.985169}
+{0 NEG,76 2.346577,107 3.413291,190 2.22022,325 3.413291,418 3.243668,545 3.985169}
+{0 NEG,18 2.988662,153 1.896303,180 2.538871,188 2.619534,262 2.489933,317 1.769789,318 3.568928,423 2.22017,469 2.130716,471 1.663042}
+{0 NEG,27 2.614507,101 0.880132,316 1.730075,401 2.386677,422 2.526128,442 2.526128,461 1.342225,496 2.614507,602 2.862124,712 2.722673,763 2.614507}
+{0 NEG,200 2.417929,347 3.13815,350 2.214512,443 3.036965,519 3.813784,661 3.971566}
+{0 NEG,41 2.16452,101 0.992809,120 2.16452,130 2.091506,188 2.091506,228 2.219246,316 1.951562,355 2.248809,419 2.007216,423 1.772643,456 2.191199,457 2.069184,461 1.514059,741 2.94922}
+{0 NEG,86 2.854882,347 3.080779,389 3.4178,515 3.74406,664 4.098656}
+{0 NEG,87 2.434082,88 1.326263,96 3.192198,137 2.844319,201 2.674055,210 2.541988,474 3.324265,675 3.084292}
+{0 NEG,87 2.367465,235 2.113124,367 2.911142,466 2.766473,486 2.999879,487 3.104832,644 2.201861,736 3.233284}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,60 2.188341,102 1.946207,110 1.515708,153 1.601248,251 2.612785,269 1.823286,408 2.523642,546 3.248096,631 3.013621,676 3.248096}
+{0 NEG,332 4.583427,371 4.010278,601 4.801014}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,133 2.31346,149 3.113777,215 2.208205,299 2.608363,310 2.91953,617 3.40868,766 3.642758}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,41 2.5135,130 2.428713,323 2.544479,419 2.330834,440 2.073382,461 1.758167,465 2.428713,598 2.611379,665 2.770952,746 2.868831}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,86 2.550654,114 3.483469,347 2.752478,389 3.053586,515 3.345078,664 3.661887}
+{0 NEG,99 3.261018,162 1.909049,340 2.339459,472 1.514789,554 3.811278,697 3.189526,710 3.659863}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,113 2.525901,131 2.525901,418 3.138682,505 3.069872,566 3.138682,699 3.138682,730 2.898522}
+{0 NEG,113 2.76225,131 2.76225,505 3.357121,566 3.43237,699 3.43237,730 3.169738}
+{0 NEG,113 2.76225,131 2.76225,505 3.357121,566 3.43237,699 3.43237,730 3.169738}
+{0 NEG,113 2.76225,131 2.76225,505 3.357121,566 3.43237,699 3.43237,730 3.169738}
+{0 NEG,113 2.402297,131 2.402297,190 2.043231,505 2.919649,566 2.985093,637 3.236943,699 2.985093,730 2.756685}
+{0 NEG,101 1.052265,107 2.930842,110 1.519006,324 3.255163,325 2.930842,407 3.255163,418 2.785194,432 3.255163}
+{0 NEG,113 2.292399,131 2.292399,190 1.949759,327 2.318747,505 2.786084,566 2.848533,637 3.088862,699 2.848533,730 2.630574}
+{0 NEG,41 2.646643,130 2.557365,323 2.679264,419 2.454302,440 2.183212,461 1.851299,598 2.749707,665 2.917733,746 3.020797}
+{0 NEG,113 2.76225,131 2.76225,505 3.357121,566 3.43237,699 3.43237,730 3.169738}
+{0 NEG,97 3.048736,356 2.171377,443 3.385682,626 4.427598,728 3.881203}
+{0 NEG,76 3.576082,78 4.488748,316 3.671096,627 3.704823}
+{0 NEG,761 7.75499}
+{0 NEG,11 3.262706,60 2.507645,428 2.481655,479 3.912666,489 2.994019,747 3.574161}
+{0 NEG,156 3.835819,426 2.780541,472 1.739168,619 3.939849,749 4.375825}
+{0 NEG,2 1.603981,3 2.026138,102 1.801952,198 1.539837,209 2.636217,246 2.790248,334 2.516741,388 2.516741,440 1.748365,595 2.887867,734 3.007343}
+{0 NEG,285 3.5216,399 4.158189,404 3.627305,428 3.16277,438 2.699485}
+{0 NEG,189 2.894909,293 3.559712,355 2.894909,440 2.298499,456 2.820746,469 2.189993,619 3.559712}
+{0 NEG,2 1.604757,3 2.027119,32 2.095597,100 2.337717,109 2.791599,198 1.540582,306 2.300759,314 2.517959,363 2.071785,377 1.911888,382 2.337717,399 2.637493,472 1.195844}
+{0 NEG,6 2.020007,17 2.908501,120 2.338405,292 2.987381,316 2.108339,394 2.908501,589 3.186143,594 3.186143}
+{0 NEG,111 5.217782,326 4.84428,461 3.073691}
+{0 NEG,20 1.780309,60 1.852985,102 1.647957,117 2.410926,119 1.747652,188 1.872974,410 2.17319,536 2.750336,570 2.410926,629 2.750336,680 2.891204,711 2.103118}
+{0 NEG,60 2.961532,246 4.078403,401 3.853261,428 2.930838,441 3.361308}
+{0 NEG,60 2.499008,67 2.473107,119 2.356952,441 2.836348,489 2.983707,652 3.173687,685 3.89919}
+{0 NEG,2 1.940334,91 2.214839,119 2.31169,307 2.40117,317 1.673801,419 2.377615,461 1.793453,469 2.015152,522 3.63798,740 3.375361}
+{0 NEG,88 2.048108,694 4.762978,761 5.767077}
+{0 NEG,2 1.713007,20 2.078991,86 2.351704,189 2.351704,203 2.384388,363 2.211539,416 2.236957,435 2.384388,438 1.827754,472 1.276511,583 2.891762,745 2.687809}
+{0 NEG,57 2.474714,97 2.295317,219 2.852159,571 3.200998,593 3.333428,682 3.001309,688 3.200998}
+{0 NEG,166 3.422239,363 3.302883,438 2.729709,469 2.656985,698 4.79669}
+{0 NEG,120 4.042392,185 3.264109,262 3.712782,317 2.638964,340 3.520746}
+{0 NEG,153 3.287358,346 5.269011,360 4.644424}
+{0 NEG,2 1.514328,3 1.91289,102 1.701234,198 1.453769,209 2.488868,246 2.63429,334 2.37607,388 2.37607,440 1.650642,553 2.556368,595 2.726453,734 2.839251}
+{0 NEG,20 3.280087,112 4.154652,162 2.538178,769 5.067289}
+{0 NEG,162 1.676615,198 1.713874,332 2.80119,408 2.600674,441 2.559558,518 3.347242,534 3.518682,648 3.10561}
+{0 NEG,57 2.474714,97 2.295317,219 2.852159,571 3.200998,593 3.333428,682 3.001309,688 3.200998}
+{0 NEG,157 1.813307,552 4.353228,556 4.353228,753 4.353228}
+{0 NEG,57 2.298654,97 2.13202,219 2.649246,571 2.973267,593 3.096276,682 2.787785,688 2.973267,772 2.872761}
+{0 NEG,153 1.987948,255 3.872305,271 3.133099,277 3.133099,426 2.562387,512 3.872305}
+{0 NEG,57 2.474714,97 2.295317,219 2.852159,571 3.200998,593 3.333428,682 3.001309,688 3.200998}
+{0 NEG,2 1.718125,79 2.591273,307 2.126185,456 2.298302,472 1.280324,491 3.386347,493 2.391511,610 3.221354,706 3.386347}
+{0 NEG,123 2.560306,163 1.821759,202 2.364401,282 2.407043,320 2.776317,489 2.407043,516 3.14559,617 3.14559,730 2.364401}
+{0 NEG,20 1.90751,112 2.416107,133 2.102451,139 2.187717,162 1.476059,307 1.945001,549 2.946844,570 2.583184,589 2.829772,598 2.157729,678 2.734117}
+{0 NEG,425 3.17394,498 3.596101,531 2.154407,537 3.080055,540 3.596101,740 3.17394}
+{0 NEG,19 3.565726,312 3.343284,461 1.830558,465 2.528714,536 3.713246,565 3.565726}
+{0 NEG,162 1.581911,425 2.930187,498 3.319927,531 1.988952,537 2.843512,540 3.319927,578 2.702204,764 2.768431}
+{0 NEG,425 3.478633,498 3.94132,531 2.361226,537 3.375735,540 3.94132}
+{0 NEG,108 3.174923,157 1.545647,410 2.93199,448 3.340951,680 3.900709,716 3.563238}
+{0 NEG,57 5.820813,235 5.124257}
+{0 NEG,112 3.14134,435 2.844395,483 3.831387,602 4.027625,728 3.358568}
+{0 NEG,183 5.543628,473 3.904949,531 3.762903}
+{0 NEG,2 1.887252,17 3.101785,88 1.411717,97 2.436493,443 2.705774,501 3.185907,707 3.283019,743 3.283019}
+{0 NEG,91 3.89406,419 4.180248,468 5.244206}
+{0 NEG,186 3.826562,346 4.290146,466 4.645611,471 2.347391}
+{0 NEG,62 3.310869,101 1.114552,230 2.459895,383 2.049949,440 2.004458,469 1.909833,472 1.370343,525 3.624439,639 3.873333}
+{0 NEG,88 1.284415,100 2.501324,227 1.944281,349 2.898616,384 2.75457,547 3.384263,608 3.384263,754 3.091472}
+{0 NEG,91 2.695224,471 1.913985,474 4.427037,558 3.985958,697 3.704833}
+{0 NEG,162 7.75499}
+{0 NEG,88 1.550767,383 2.311041,403 3.186921,528 3.732558,689 4.086065,721 3.407301}
+{0 NEG,2 2.220754,3 2.805242,67 2.776168,76 2.577302,163 2.53493,473 2.721231,612 4.377006}
+{0 NEG,2 1.97618,101 1.197741,115 3.705189,162 1.855909,211 2.354397,472 1.472624,511 3.037871,663 3.557989,711 2.833272}
+{0 NEG,2 1.831687,153 1.693031,165 2.668295,313 2.266719,423 1.982181,440 1.996568,471 1.484774,489 2.762548,696 3.297838,750 3.610173}
+{0 NEG,65 2.603766,136 2.708836,182 3.108289,235 2.115478,256 2.437978,260 2.837431,428 2.158185,472 1.286497,669 3.402673}
+{0 NEG,33 4.757265,157 2.36789,162 2.847398,198 2.910674,353 3.914294}
+{0 NEG,8 1.862565,172 2.110583,174 2.621632,175 2.207826,185 1.782752,353 2.157088,558 2.820563,578 2.680395,623 3.008226,631 2.906538}
+{0 NEG,32 3.334356,101 1.547568,162 2.39797,337 3.505395,374 3.605785,429 3.459311,472 1.902737}
+{0 NEG,88 1.741176,101 1.410786,307 2.880522,443 3.337233,521 4.587769,728 3.825663}
+{0 NEG,101 1.140343,153 1.739052,172 2.376671,215 2.402309,248 2.95215,314 2.95215,322 3.527629,356 1.730015,472 1.402053,625 3.092296}
+{0 NEG,20 2.960419,39 3.348753,360 3.185358,619 4.11778,722 3.613728}
+{0 NEG,38 2.356476,86 2.183689,112 2.445176,180 1.968402,193 1.815653,248 2.495782,289 2.246227,311 2.445176,388 2.495782,409 2.767011,455 2.03094,472 1.185312}
+{0 NEG,66 2.4382,110 1.263678,119 1.720755,128 2.220285,215 1.844148,232 2.317034,401 2.37382,476 2.708006,534 2.846706,646 2.846706,716 2.600422}
+{0 NEG,2 1.404467,6 1.603161,94 2.443179,101 0.851232,102 1.577813,162 1.318991,166 1.878729,186 1.855855,194 2.203692,195 2.370909,289 1.983344,350 1.468289,471 1.138468,554 2.63327,709 2.443179,756 2.63327}
+{0 NEG,33 4.723276,88 2.251759,110 2.63375,567 5.081681}
+{0 NEG,20 1.929737,39 2.182871,101 0.963698,215 2.030179,360 2.076362,438 1.696536,617 3.133873,630 2.862745,722 2.355593,743 2.765975,773 2.862745}
+{0 NEG,101 1.013824,110 1.463513,238 2.823771,240 2.624614,258 2.436738,304 2.522811,384 2.683444,457 2.112983,656 3.011648,763 3.011648}
+{0 NEG,44 3.550439,111 2.971239,165 2.75855,203 2.635821,673 3.732287,700 3.196698}
+{0 NEG,101 0.953863,168 2.83353,170 2.656765,227 1.782057,475 2.83353,522 2.950758,614 2.950758,740 2.737748,742 2.83353}
+{0 NEG,101 1.431027,428 2.951595,472 1.75945,493 3.286467,558 3.985794,751 4.426855}
+{0 NEG,154 5.328113,203 3.955554,396 4.013063}
+{0 NEG,39 2.531489,130 2.354412,149 3.319943,157 1.440112,167 2.603988,232 2.958142,376 2.466636,419 2.259527,745 2.89329}
+{0 NEG,65 2.585919,69 3.214697,101 1.039184,313 2.121792,340 1.973263,509 3.214697,564 3.086983,599 3.086983,627 2.06149}
+{0 NEG,567 4.547884,594 4.850472,730 3.991184}
+{0 NEG,329 3.456976,440 2.543511,531 2.755328,550 4.059236,576 4.201252}
+{0 NEG,88 1.072986,172 1.81195,215 1.831496,227 1.624232,248 2.250689,313 1.775099,356 1.318946,360 1.873159,427 2.250689,493 1.996613,553 2.421472,595 2.582582,599 2.582582,770 2.827177}
+{0 NEG,77 3.807675,190 2.822216,719 4.627455,759 4.03277}
+{0 NEG,8 2.376284,88 1.594547,109 3.708199,167 3.010272,269 2.243516,376 2.85149,510 3.996715}
+{0 NEG,65 2.328482,120 2.040078,128 2.373324,157 1.205752,202 2.287231,300 2.685702,310 2.606259,313 1.91056,408 2.249038,426 1.839363,471 1.251479,586 3.251884}
+{0 NEG,101 1.234432,170 3.438225,227 2.306231,475 3.666984,614 3.818693,742 3.666984}
+{0 NEG,8 1.618407,25 2.613887,100 2.114908,162 1.363449,198 1.393748,231 2.114908,259 2.450824,285 2.020815,287 2.450824,385 2.231781,400 2.613887,455 1.853696,472 1.081868,578 2.329031}
+{0 NEG,60 2.257716,172 2.257716,173 3.017191,175 2.361739,264 2.804392,423 1.934156,426 2.129377,433 2.867252,438 1.907032,470 2.695615}
+{0 NEG,465 3.645915,473 3.498982,531 3.371703,537 4.820366}
+{0 NEG,309 2.768122,374 2.638614,441 2.678867,472 1.39237,621 3.682699,709 3.250372,712 3.503267}
+{0 NEG,486 5.131697,543 5.814255}
+{0 NEG,20 2.904654,39 3.285673,360 3.125355,630 4.309024,722 3.545656}
+{0 NEG,101 1.234432,170 3.438225,227 2.306231,475 3.666984,614 3.818693,742 3.666984}
+{0 NEG,8 2.249942,175 2.66701,185 2.15353,227 2.28541,293 3.407184,353 2.605719,457 2.549542,630 3.633877}
+{0 NEG,2 1.716849,101 1.040563,192 2.296595,456 2.296595,471 1.391685,532 3.383831,610 3.218961,643 3.218961,706 3.383831}
+{0 NEG,343 4.282919,346 3.384167,384 3.664566,574 4.112767}
+{0 NEG,6 3.028937,153 2.452665,262 3.220461,337 3.642907,709 4.616027}
+{0 NEG,101 1.079056,261 3.097071,372 3.00546,456 2.381552,464 2.478137,513 3.338038,675 3.097071,745 2.793488}
+{0 NEG,101 1.627663,374 3.792403,549 5.035145,745 4.213737}
+{0 NEG,2 1.36081,87 1.868189,101 0.824772,370 2.016012,456 1.82033,471 1.103079,491 2.682096,520 2.367234,532 2.682096,574 2.450053,610 2.551416,643 2.551416,708 2.551416}
+{0 NEG,2 1.378211,101 0.835318,355 1.892078,370 2.041791,456 1.843606,471 1.117184,491 2.716392,493 1.918374,532 2.716392,549 2.584041,610 2.584041,643 2.584041,708 2.584041}
+{0 NEG,101 1.053502,170 2.934287,185 1.854632,227 1.968208,395 2.621548,396 2.454627,475 3.129516,614 3.25899,742 3.129516}
+{0 NEG,101 1.158698,165 2.784944,181 3.442008,374 2.699729,400 3.442008,709 3.325657,745 2.999668}
+{0 NEG,247 5.425591,305 4.642263,350 3.025264}
+{0 NEG,88 1.517553,157 1.584417,261 3.529146,390 3.803731,435 2.823864,464 2.823864,660 3.529146}
+{0 NEG,486 4.233906,543 4.797051,716 4.382033}
+{0 NEG,101 1.759072,222 4.461593,263 3.932089,466 4.656007}
+{0 NEG,102 2.775446,215 3.154413,248 3.876395,262 2.998349,624 4.297664}
+{0 NEG,46 3.248856,73 3.139034,88 1.349803,211 2.149837,337 2.477284,350 1.886481,371 2.477284,429 2.444717,456 2.41382,469 1.874061,471 1.462721}
+{0 NEG,6 1.986308,101 1.054672,119 2.073167,248 2.730363,262 2.111906,656 3.132991,689 3.429713,698 3.262608,757 2.577964}
+{0 NEG,24 2.911826,79 2.672034,218 3.081961,356 1.62905,461 1.637559,565 3.189785,570 2.911826,670 3.321752}
+{0 NEG,39 2.421712,171 2.977847,438 1.882165,461 1.630469,465 2.252314,471 1.429908,690 2.977847,701 3.715522,737 3.068617}
+{0 NEG,59 3.929194,67 2.492138,88 1.49123,97 2.573725,157 1.556934,317 1.719706,426 2.375089,429 2.700865,682 3.365349}
+{0 NEG,88 2.074168,186 3.664025,421 4.182006,651 4.992339}
+{0 NEG,28 4.276701,175 3.138798,193 2.711418,363 3.066665,728 3.904027}
+{0 NEG,51 2.826252,193 2.139035,200 2.139035,301 2.646298,317 1.616515,473 2.296241,531 2.212712,609 2.506715,627 2.253083,644 2.392667,672 2.476195}
+{0 NEG,2 1.735877,86 2.383101,87 2.383101,101 1.052096,166 2.322049,262 2.106747,326 2.528725,363 2.241064,383 1.935076,438 1.852156,511 2.668466,624 3.019692}
+{0 NEG,313 2.801972,374 3.197449,493 3.151628,496 4.076574,631 3.938773}
+{0 NEG,6 1.750116,102 1.722444,119 1.826646,157 1.197415,188 1.957632,377 1.826646,426 1.826646,511 2.356915,576 2.760446,654 2.87465,685 3.021885,720 2.87465}
+{0 NEG,8 1.959538,101 1.065396,175 2.322774,228 2.381501,422 3.057864,433 2.819948,493 2.446765,501 2.967413,662 3.464586}
+{0 NEG,93 1.867165,101 0.876564,153 1.336783,182 2.603906,254 2.603906,291 2.181252,394 2.377,410 2.142609,493 2.013098,655 2.711634,713 2.603906,736 2.711634}
+{0 NEG,209 5.325808,648 5.636989}
+{0 NEG,157 2.981934,554 7.158767}
+{0 NEG,93 2.795932,157 1.691355,551 4.060458,604 4.060458,774 4.060458}
+{0 NEG,409 3.445354,441 2.839566,448 3.34344,562 3.713419,606 3.903614}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,11 2.531344,60 1.945536,67 1.925372,88 1.152092,119 1.834942,173 2.599996,186 2.035175,383 1.716913,470 2.322886,489 2.322886,628 2.772984,705 3.035611}
+{0 NEG,20 2.486277,193 2.338416,200 2.338416,317 1.767191,473 2.510274,531 2.41896,609 2.740366,627 2.463094,644 2.615688,672 2.707002}
+{0 NEG,198 2.663,327 3.622381,350 2.899984,461 2.563948,763 4.994289}
+{0 NEG,6 1.931583,100 2.465076,132 3.172718,167 2.389649,256 2.389649,285 2.355404,376 2.263603,427 2.655138,653 3.33522}
+{0 NEG}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,20 1.813249,102 1.678448,133 1.998557,187 2.396793,314 2.344247,377 1.779988,408 2.17644,446 2.253318,472 1.113344,613 2.689936,640 2.944698,657 2.944698}
+{0 NEG,157 1.831656,254 4.222584,258 3.416512,264 3.67993,316 2.794174,469 2.435744}
+{0 NEG,9 3.771181,88 1.67106,141 2.549997,167 3.154717,194 3.505204,350 2.335469,376 2.988316}
+{0 NEG,101 1.575632,227 2.943678,239 4.388559,248 4.079039,493 3.618564}
+{0 NEG,74 7.323232,101 2.551499}
+{0 NEG,6 3.238874,101 1.719748,185 3.02752,377 3.380505,453 5.108654}
+{0 NEG,47 3.558744,88 1.419812,141 2.166599,301 2.680398,410 2.811957,576 3.417362,679 3.741017}
+{0 NEG,193 2.186023,194 3.00489,200 2.186023,317 1.652025,469 1.988935,473 2.346682,531 2.261319,609 2.56178,627 2.302577,644 2.445226,672 2.530589}
+{0 NEG,88 2.644763,133 4.729567,427 5.547639}
+{0 NEG,193 2.275625,200 2.275625,291 3.006725,317 1.719739,473 2.442869,531 2.354007,609 2.666783,627 2.396956,644 2.545453,672 2.634315}
+{0 NEG,2 2.549556,251 3.845237,427 4.000404,767 4.780225}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,2 1.485811,11 2.441999,76 1.724362,101 0.900533,178 2.068146,203 2.068146,423 1.607887,527 2.928467,569 2.928467,598 2.039797,705 2.928467,713 2.67511}
+{0 NEG,153 1.882998,301 2.876886,340 2.34458,419 2.496326,474 3.81962,489 3.072521,772 3.543888}
+{0 NEG,5 3.344523,62 3.567047,117 3.256213,157 1.5473,382 2.886114,472 1.476373,651 3.567047}
+{0 NEG,178 2.881003,190 2.272752,323 2.768717,410 3.06635,602 4.07946,624 3.600556}
+{0 NEG,31 2.994719,145 2.87856,239 3.22196,377 2.273892,379 3.22196,438 2.036457,720 3.578496}
+{0 NEG,193 1.956837,200 1.956837,257 2.457824,317 1.478824,473 2.100652,492 2.893959,531 2.024238,609 2.293198,627 2.06117,635 2.817546,644 2.188864,672 2.265278}
+{0 NEG,193 1.956837,200 1.956837,257 2.457824,317 1.478824,473 2.100652,492 2.893959,531 2.024238,609 2.293198,627 2.06117,635 2.817546,644 2.188864,672 2.265278}
+{0 NEG,2 1.739774,101 1.054458,130 2.221379,162 1.633891,188 2.221379,198 1.6702,355 2.388451,374 2.456853,419 2.131856,456 2.327263,579 3.132354,641 3.026471}
+{0 NEG,36 3.635758,157 1.847123,162 2.221173,189 3.24695,214 3.711004,396 3.339939,472 1.762453}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,79 3.006725,193 2.275625,200 2.275625,317 1.719739,473 2.442869,531 2.354007,609 2.666783,627 2.396956,644 2.545453,672 2.634315}
+{0 NEG,88 1.128231,178 2.099412,272 2.546146,372 2.546146,389 2.478916,479 2.972738,527 2.972738,569 2.972738,621 2.972738}
+{0 NEG,193 1.990974,200 1.990974,317 1.504622,473 2.137298,520 3.034197,531 2.059552,609 2.333203,627 2.097128,644 2.22705,649 3.43777,672 2.304796}
+{0 NEG,141 1.897365,193 1.897365,200 1.897365,257 2.383126,317 1.433879,473 2.036809,492 2.806006,531 1.962718,609 2.223503,627 1.998527,635 2.731915,644 2.12234,672 2.196432}
+{0 NEG,67 2.773733,290 3.646711,639 4.673478,751 4.160094}
+{0 NEG,104 5.077415,263 3.668893,312 4.571537}
+{0 NEG,63 3.33494,101 1.19735,157 1.542866,213 3.169211,299 2.979499,330 3.33494,482 3.893691}
+{0 NEG,109 2.713254,167 2.202588,262 1.892955,266 2.061006,272 2.632996,289 2.202588,309 2.310695,376 2.086408,383 1.738705,421 2.352369,428 1.949809,433 2.50215}
+{0 NEG,8 1.816759,162 1.530553,189 2.23739,205 2.934244,351 2.614476,363 2.104038,426 1.941652,483 3.055639,510 3.055639,535 2.678552}
+{0 NEG,193 1.956837,200 1.956837,257 2.457824,317 1.478824,473 2.100652,492 2.893959,531 2.024238,609 2.293198,627 2.06117,635 2.817546,644 2.188864,672 2.265278}
+{0 NEG,193 1.956837,200 1.956837,257 2.457824,317 1.478824,473 2.100652,492 2.893959,531 2.024238,609 2.293198,627 2.06117,635 2.817546,644 2.188864,672 2.265278}
+{0 NEG,228 3.154871,317 2.008782,395 3.512076,438 2.484643,469 2.418448,561 3.735699,627 2.799821}
+{0 NEG,3 3.525033,91 3.185362,157 2.179399,440 3.041768,660 4.854415}
+{0 NEG,2 1.974059,60 2.493619,88 1.476652,157 1.541714,401 3.244458,443 2.830231,660 3.434028,733 3.890782}
+{0 NEG,2 1.483837,11 2.438755,101 0.899337,178 2.065399,203 2.065399,211 1.767825,423 1.605751,527 2.924576,569 2.924576,598 2.037087,705 2.924576,713 2.671556}
+{0 NEG,88 2.873699,568 7.202897}
+{0 NEG,193 2.468731,200 2.468731,317 1.865673,473 2.650167,531 2.553764,609 2.893082,627 2.600358,644 2.761456,672 2.857858}
+{0 NEG,193 1.956837,200 1.956837,257 2.457824,317 1.478824,473 2.100652,492 2.893959,531 2.024238,609 2.293198,627 2.06117,635 2.817546,644 2.188864,672 2.265278}
+{0 NEG,101 1.178667,198 1.866939,222 2.989492,385 2.989492,414 2.256938,419 2.382976,472 1.449172,574 3.501327,747 3.501327}
+{0 NEG,193 2.859578,232 4.01886,256 3.537714,438 2.672976,652 4.01886}
+{0 NEG,75 2.530037,113 2.313001,131 2.313001,153 1.655976,157 1.399214,200 2.04506,356 1.647371,360 2.339585,511 2.754122,605 3.116621,625 2.944573}
+{0 NEG,3 1.994364,29 2.5328,102 1.773693,120 2.086252,316 1.880995,377 1.880995,383 1.760003,417 2.74649,471 1.279804,503 2.842578,570 2.594874,623 2.842578}
+{0 NEG,113 2.305933,131 2.305933,471 1.44784,477 2.935576,478 3.348846,642 2.935576,739 3.215803,764 2.935576}
+{0 NEG,200 2.33097,471 1.655314,516 4.024833,635 3.35624,725 3.552342,765 3.447263}
+{0 NEG,91 2.556271,113 2.89119,131 2.89119,200 2.556271,605 3.895695,725 3.895695}
+{0 NEG,39 2.623193,113 2.466847,131 2.466847,200 2.181084,471 1.548874,605 3.32392,687 3.440209,725 3.32392}
+{0 NEG,118 5.052052,263 4.164492,423 3.326426,471 2.491696}
+{0 NEG,2 1.586694,175 2.096648,350 1.658797,351 2.545421,374 2.240679,414 1.841442,426 1.890368,436 2.607805,472 1.182384,592 2.856743,635 2.607805,666 2.974932}
+{0 NEG,101 2.185123,317 3.110048,536 6.759639}
+{0 NEG,113 2.408684,131 2.408684,139 2.596941,200 2.129659,291 2.813863,477 3.066383,605 3.245548,642 3.066383}
+{0 NEG,101 0.970839,188 2.045224,260 2.632649,441 2.296533,457 2.023396,524 2.462372,574 2.883958,646 3.157095,652 2.56967,675 2.786471}
+{0 NEG,91 2.09688,218 3.195595,461 1.697937,480 3.620636,632 3.019187,660 3.195595,743 3.195595}
+{0 NEG,15 2.66992,16 3.299846,153 1.694062,172 2.315185,174 2.875776,196 3.188301,277 2.66992,356 1.685259,469 1.903474,472 1.365781}
+{0 NEG,291 3.03308,350 2.102448,444 3.770588,522 3.770588,627 2.417966,740 3.498396}
+{0 NEG,359 3.659273,378 3.659273,465 2.767715,473 2.656174,531 2.559553,578 3.477426}
+{0 NEG,67 3.03302,75 3.426229,88 1.81488,157 1.894844,426 2.890568,472 1.807987,676 4.548977}
+{0 NEG,76 2.314826,78 2.905602,93 2.575069,238 3.367107,269 2.099246,329 2.954944,469 2.071499,472 1.486342,722 2.954944}
+{0 NEG,91 2.909991,200 2.909991,291 3.844896,414 2.958632,605 4.434755}
+{0 NEG,2 1.598186,6 1.824286,174 2.507648,192 2.137863,304 2.410382,453 2.877434,472 1.190948,579 2.877434,592 2.877434,762 3.366263}
+{0 NEG,4 3.664119,29 3.379033,101 1.276622,203 2.931863,350 2.202044,370 3.120482,468 3.237939}
+{0 NEG,101 1.70909,157 2.202279,447 4.634583,525 5.557832}
+{0 NEG,6 2.137829,63 3.161628,110 1.638619,174 2.938642,180 2.317682,198 1.797972,472 1.395638,507 3.371983,658 3.511488}
+{0 NEG,49 2.276945,51 2.034266,146 2.216824,198 1.294866,309 1.998228,461 1.246702,488 2.428439,526 2.658434,539 2.658434,583 2.276945,671 2.658434,760 2.528908}
+{0 NEG,8 2.185297,88 1.466389,157 1.530999,285 2.728658,293 3.309289,426 2.335525,478 3.67549,760 3.67549}
+{0 NEG,49 2.359573,146 2.29727,198 1.341855,309 2.070741,461 1.291944,488 2.516565,526 2.754906,539 2.754906,583 2.359573,671 2.754906,760 2.620679}
+{0 NEG,49 2.359573,146 2.29727,198 1.341855,309 2.070741,461 1.291944,488 2.516565,526 2.754906,539 2.754906,583 2.359573,671 2.754906,760 2.620679}
+{0 NEG,88 1.27372,231 2.480497,377 2.02866,438 1.816831,455 2.174132,471 1.380274,496 3.065731,556 3.192566,650 2.731634,731 3.356084}
+{0 NEG,91 1.469935,192 1.722603,230 1.722603,231 1.875924,307 1.593599,329 1.90778,360 1.681633,440 1.403672,450 2.240146,455 1.64423,460 1.792464,472 0.959617,497 2.318519,546 2.41444,580 2.240146,591 2.41444,757 1.90778}
+{0 NEG,153 1.860618,157 1.572126,198 1.932499,263 2.727218,301 2.842694,580 3.501768,650 3.229313,772 3.501768}
+{0 NEG,2 2.667521,85 4.640358,251 4.023152,457 3.369596,472 1.987802}
+{0 NEG,67 2.270461,101 1.100792,153 1.678736,163 2.073168,311 2.791975,356 1.670013,455 2.318989,620 3.405278,755 3.405278,758 2.739223}
+{0 NEG,156 7.75499}
+{0 NEG,91 1.69044,133 1.98101,277 2.157331,311 2.276549,317 1.277502,396 2.09132,420 1.956891,455 1.89088,520 2.57619,625 2.433975,631 2.57619,632 2.433975,758 2.233535}
+{0 NEG,213 3.313304,240 3.240665,269 2.173725,472 1.539076,483 3.872385,768 4.070723}
+{0 NEG,101 0.929919,215 1.95902,269 1.6148,311 2.358586,377 1.827941,455 1.95902,458 2.876688,564 2.762403,568 2.876688,638 2.762403,767 2.876688}
+{0 NEG,524 7.75499}
+{0 NEG,102 1.795991,133 2.138517,177 2.698756,201 2.41112,235 1.958958,472 1.191312,580 2.781018,620 2.997395,736 2.997395,763 2.878314}
+{0 NEG,119 2.296342,185 2.056563,353 2.488393,457 2.434745,508 3.470256,589 3.470256,718 3.798921}
+{0 NEG,88 1.06521,148 2.669938,230 1.90489,269 1.498743,285 1.982143,307 1.762235,360 1.859584,435 1.982143,469 1.478933,484 2.806688,511 2.189072,584 2.4772,707 2.4772,757 2.109663}
+{0 NEG,270 3.528275,471 2.190146,523 4.561076,704 4.700106}
+{0 NEG,8 2.418418,201 3.271982,219 3.480317,317 1.871456,530 3.905983,573 3.565614}
+{0 NEG,185 7.75499}
+{0 NEG,77 3.302652,88 1.667573,101 1.351149,157 1.741047,163 2.544677,188 2.846406,329 3.302652,719 4.013701}
+{0 NEG,160 4.236096,185 2.598249,302 3.820863,667 4.565685}
+{0 NEG,17 3.25431,197 3.25431,529 3.444456,550 3.444456,640 3.902597}
+{0 NEG,251 2.822164,317 1.614177,490 3.369005,533 3.508387,559 3.688081,748 3.508387}
+{0 NEG,101 2.891682,291 7.195696}
+{0 NEG,133 1.867454,162 1.311075,251 2.105503,317 1.204272,490 2.51348,517 2.751529,533 2.617467,559 2.751529,581 2.51348,723 2.751529,748 2.617467}
+{0 NEG,133 1.872987,162 1.314959,240 2.196956,317 1.20784,490 2.520926,517 2.759681,533 2.625221,581 2.520926,591 2.625221,723 2.759681,748 2.625221}
+{0 NEG,162 1.375534,251 2.20902,317 1.26348,490 2.637054,506 2.472546,533 2.746154,559 2.886807,581 2.637054,723 2.886807,748 2.746154}
+{0 NEG,2 1.61037,317 1.389162,457 2.034209,466 2.583402,472 1.200027,506 2.718497,555 3.391926,607 2.718497,718 3.173966,764 2.646717}
+{0 NEG,60 1.827275,215 1.846987,260 2.377475,262 1.755607,378 2.441953,403 2.223703,408 2.107252,511 2.223703,607 2.441953,668 2.604426,764 2.377475,765 2.441953}
+{0 NEG,93 2.092393,100 2.36097,102 1.820756,178 2.255929,410 2.401063,570 2.663727,579 2.918003,653 3.194365,693 3.194365}
+{0 NEG,6 1.880151,162 1.546883,185 1.757461,262 1.999036,408 2.39944,427 2.58444,506 2.780549,529 2.865305,648 2.865305,653 3.246414}
+{0 NEG,65 2.51727,152 2.817569,269 1.756633,317 1.439788,506 2.817569,596 3.129357,707 2.903454,727 2.903454,757 2.472675}
+{0 NEG,2 1.794309,108 2.878483,256 2.533866,472 1.337096,493 2.497554,662 3.536502,690 3.029009,693 3.536502}
+{0 NEG,10 1.946693,117 2.121392,192 1.726599,194 2.025248,269 1.358466,455 1.648044,600 2.178925,612 2.543992,645 2.420041,729 2.420041,731 2.543992,754 2.323898,773 2.323898}
+{0 NEG,2 1.61037,317 1.389162,457 2.034209,466 2.583402,472 1.200027,506 2.718497,555 3.391926,607 2.718497,718 3.173966,764 2.646717}
+{0 NEG,65 2.539398,102 1.891543,258 2.452759,317 1.452445,457 2.126876,652 2.701088,710 3.031449,717 3.156865,771 3.318555}
+{0 NEG,10 2.08039,194 2.164341,269 1.451764,455 1.76123,600 2.328572,612 2.718711,645 2.586247,729 2.586247,731 2.718711,754 2.483501,773 2.483501}
+{0 NEG,180 3.419157,427 4.335227,500 5.445645}
+{0 NEG,102 2.479734,128 3.393156,166 2.952661,289 3.117077,377 2.629749,626 4.138518}
+{0 NEG,112 2.302511,228 2.029248,235 1.835371,408 2.181933,416 1.955948,472 1.116154,501 2.528496,523 2.528496,625 2.461732,663 2.696726,704 2.605569,711 2.147438}
+{0 NEG,6 1.739735,86 2.092382,139 2.121462,162 1.431356,192 2.038779,403 2.342935,457 1.925252,517 3.003961,523 2.572888,546 2.857599,771 3.003961}
+{0 NEG,212 4.7555,310 4.614833,350 2.857937,469 2.839121}
+{0 NEG,2 1.694123,108 2.717761,256 2.392386,472 1.262438,493 2.358102,662 3.339039,690 2.859882,693 3.339039,758 2.555073}
+{0 NEG,157 1.402851,172 2.269018,187 2.881604,353 2.319014,509 3.367842,564 3.234044,638 3.234044,757 2.661115}
+{0 NEG,42 2.330773,118 2.26923,396 1.949768,560 2.485848,585 2.401819,586 2.908154,654 2.588692,663 2.485848,698 2.588692,743 2.401819}
+{0 NEG,42 2.649721,396 2.216579,497 2.826018,560 2.826018,585 2.730489,654 2.942935,698 2.942935,743 2.730489}
+{0 NEG,6 1.776887,152 2.627831,256 2.198267,314 2.442494,426 1.854587,446 2.347754,494 2.392968,512 2.802671,580 2.707932,669 3.06811}
+{0 NEG,63 2.735547,102 1.820476,108 2.599605,119 1.930608,147 2.818931,162 1.521847,169 2.917554,172 2.046967,212 2.818931,450 2.818931}
+{0 NEG,185 2.313957,192 2.90101,280 3.772597,317 1.870786,572 3.47907,645 4.066123}
+{0 NEG,269 3.913658,687 6.69501}
+{0 NEG,446 2.76739,469 1.90565,472 1.367342,650 2.943596,659 3.616501,727 3.191945,757 2.718364,758 2.76739}
+{0 NEG,6 1.896362,20 2.016272,102 1.866378,119 1.979287,157 1.297476,172 2.098581,213 2.665153,356 1.527589,472 1.238001,507 2.991119,606 3.274405,641 2.89001}
+{0 NEG,113 3.043555,131 3.043555,175 3.115145,346 3.492541,356 2.167688,764 3.874607}
+{0 NEG,307 2.913158,516 4.639748,597 4.238339,722 3.487493}
+{0 NEG,133 2.272074,162 1.595145,167 2.398591,311 2.611035,376 2.272074,382 2.474301,589 3.058073,722 2.516319,757 2.516319,758 2.561701}
+{0 NEG,153 2.000721,198 2.078014,263 2.932575,301 3.056746,465 2.763776,650 3.472477,772 3.765448}
+{0 NEG,258 6.286034,269 4.541547}
+{0 NEG,60 2.238681,67 2.215478,202 2.625536,260 2.912756,317 1.528796,383 1.97561,471 1.436585,607 2.991752,652 2.843077,737 3.082946}
+{0 NEG,201 3.106938,230 2.755665,394 3.385758,430 3.583584,438 2.198025,530 3.708959}
+{0 NEG,6 1.967629,27 3.103527,101 1.044753,166 2.305845,185 1.83923,188 2.200936,192 2.305845,237 2.765311,460 2.399359,757 2.55372,758 2.599777}
+{0 NEG,57 3.17491,208 4.106687,316 2.717483,393 4.276588,627 2.742449}
+{0 NEG,6 1.777662,157 1.216262,187 2.498331,270 2.033677,420 2.057861,423 1.685294,471 1.262387,489 2.348779,590 2.498331,683 2.498331,702 2.498331,732 2.498331,759 2.443559}
+{0 NEG,153 2.372062,595 4.620516,650 4.116981,745 4.026723}
+{0 NEG,270 2.236804,302 2.687626,420 2.263403,423 1.853624,471 1.388477,590 2.747869,683 2.747869,702 2.747869,732 2.747869,759 2.687626}
+{0 NEG,270 2.117479,420 2.142659,423 1.754739,457 2.048286,471 1.314407,590 2.60128,628 2.919433,683 2.60128,702 2.60128,732 2.60128,759 2.544251}
+{0 NEG,6 2.036767,76 2.070812,88 1.334731,162 1.675737,214 2.799723,271 2.599312,354 2.106921,426 2.125832,484 3.516839,518 3.345488}
+{0 NEG,2 1.455611,17 2.392364,157 1.136813,289 2.055568,292 2.457247,353 1.879234,381 2.868944,472 1.084703,476 2.729161,496 2.620737,567 2.457247,655 2.729161}
+{0 NEG,101 2.161095,323 4.769689,561 5.720105}
+{0 NEG,139 2.652377,377 2.270234,497 3.430801,502 3.755729,534 3.755729,722 2.823015}
+{0 NEG,133 2.762033,139 2.874048,601 3.393582,703 4.349078,754 3.717529}
+{0 NEG,8 3.008615,461 2.494601,633 5.31942,758 4.070485}
+{0 NEG,8 3.008615,461 2.494601,633 5.31942,758 4.070485}
+{0 NEG,166 4.425771,383 3.688208,745 5.191295}
+{0 NEG,8 1.732537,15 2.26405,102 1.746013,196 2.703629,203 2.163322,228 2.105618,251 2.344024,472 1.158161,623 2.798217,633 3.063234,755 2.913984}
+{0 NEG,120 1.919614,190 1.595172,192 1.943273,228 1.968147,270 1.897055,420 1.919614,423 1.572076,471 1.17758,590 2.330493,616 2.863243,683 2.330493,702 2.330493,732 2.330493,759 2.279401}
+{0 NEG,185 4.054655,550 6.610571}
+{0 NEG,23 3.110544,438 1.683907,563 3.324148,607 2.664176,620 2.958989,649 3.110544,762 3.324148}
+{0 NEG,88 1.551215,101 1.25687,185 2.212649,263 2.809507,420 2.740226,523 3.50072,615 3.253818,704 3.607427}
+{0 NEG,157 1.457864,186 2.466641,471 1.513153,515 3.360869,628 3.360869,697 2.928956,737 3.247261,758 2.815348}
+{0 NEG,197 3.016845,213 2.944676,397 3.304829,402 3.098663,560 3.304829,739 3.304829}
+{0 NEG,2 2.217509,101 1.344007,201 3.344444,440 2.41712,604 4.157662,659 4.370611}
+{0 NEG,85 4.063818,120 3.086903,128 3.591148,684 4.604339}
+{0 NEG,270 2.21594,420 2.242291,423 1.836334,471 1.375526,567 2.864593,590 2.722238,683 2.722238,702 2.722238,732 2.722238,759 2.662557}
+{0 NEG,119 2.326248,163 2.228786,258 2.844366,317 1.684342,356 1.795369,383 2.176616,408 2.844366,438 2.083346,457 2.466453,651 3.51545}
+{0 NEG,270 2.21594,420 2.242291,423 1.836334,471 1.375526,590 2.722238,619 2.864593,683 2.722238,702 2.722238,732 2.722238,759 2.662557}
+{0 NEG,2 1.862278,185 1.987024,186 2.460803,187 2.987521,307 2.304575,435 2.592162,471 1.509571,592 3.352915,658 3.49163}
+{0 NEG,162 1.770648,317 1.626408,438 2.011688,471 1.528309,611 3.716027,632 3.098732,636 3.716027,735 3.279788}
+{0 NEG,133 2.533248,162 1.778506,235 2.320546,269 1.993127,584 3.294343,710 3.409598,722 2.805568,735 3.294343}
+{0 NEG,270 2.384589,420 2.412945,423 1.976092,471 1.480213,590 2.929419,683 2.929419,702 2.929419,732 2.929419,759 2.865196}
+{0 NEG,8 3.325231,201 4.498848,530 5.370575}
+{0 NEG,88 1.356093,136 2.844533,145 2.734199,396 2.560106,426 2.159856,440 1.97608,634 3.060377,700 3.060377,721 2.97957}
+{0 NEG,102 1.866268,183 2.88984,185 1.77251,304 2.505467,394 2.73031,652 2.664996,675 2.88984,734 3.114683,758 2.505467}
+{0 NEG,32 1.972961,60 1.908491,88 1.130155,97 1.950543,141 1.724589,230 2.021029,267 2.832721,277 2.200912,311 2.322538,356 1.38922,368 2.483145,395 2.278655,455 1.929078,758 2.278655}
+{0 NEG,60 2.971601,360 3.071984,420 3.108515,471 1.906908,615 3.691134,632 3.866361}
+{0 NEG,185 1.822159,211 2.034608,237 2.739644,269 1.79737,296 3.074721,307 2.113363,405 2.530017,471 1.384321,568 3.201927,622 3.074721}
+{0 NEG,31 2.991668,90 3.432829,139 2.653945,261 3.316788,523 3.218678,704 3.316788}
+{0 NEG,270 2.042744,420 2.067036,423 1.692808,471 1.268016,590 2.50947,618 2.932914,641 2.721192,683 2.50947,702 2.50947,732 2.50947,759 2.454454}
+{0 NEG,91 1.609145,162 1.323914,188 1.799945,235 1.727406,285 1.962218,302 2.211917,347 2.088455,469 1.464066,518 2.643098,663 2.538093,684 2.778473,703 2.969274,722 2.088455}
+{0 NEG,8 1.971475,192 2.365728,416 2.309462,596 3.315859,625 2.90666,659 3.485692,722 2.620041,757 2.620041}
+{0 NEG,101 1.217097,119 2.392445,185 2.142631,198 1.92781,240 3.150852,295 3.150852,447 3.300431,469 2.085547,494 3.086964}
+{0 NEG,88 1.306423,91 1.99357,95 2.634053,119 2.080746,367 2.948284,493 2.430993,611 3.442252,615 2.740345,735 3.038153}
+{0 NEG,270 2.384589,420 2.412945,423 1.976092,471 1.480213,590 2.929419,683 2.929419,702 2.929419,732 2.929419,759 2.865196}
+{0 NEG,45 3.352839,162 1.962802,188 2.668554,227 2.366563,706 4.119296,767 3.918592}
+{0 NEG,8 2.702477,227 2.745079,416 3.165785,428 3.030598,472 1.806543,611 4.77815}
+{0 NEG,126 2.575838,162 1.290223,167 1.940087,263 1.861276,340 1.581115,376 1.837753,469 1.42681,472 1.023765,591 2.575838,638 2.473505,641 2.389892,646 2.707768,707 2.389892,757 2.035309}
+{0 NEG,8 2.118608,162 1.784851,307 2.351896,349 3.2083,355 2.609126,396 2.683849,472 1.41624,541 3.563325,722 2.815577}
+{0 NEG,38 2.356851,101 0.964212,162 1.494055,180 1.968715,414 1.846296,455 2.031264,469 1.65222,501 2.685591,506 2.685591,613 2.864273,629 2.982773,758 2.399358}
+{0 NEG,39 2.363168,203 2.396011,311 2.646147,356 1.582786,388 2.700912,433 2.761453,455 2.197865,471 1.395341,564 3.099197,721 2.829131}
+{0 NEG,75 2.855186,198 1.940991,263 2.739202,356 1.859083,463 3.517156,513 3.790808,650 3.243504}
+{0 NEG,75 2.855186,198 1.940991,263 2.739202,356 1.859083,463 3.517156,513 3.790808,650 3.243504}
+{0 NEG,51 3.12229,95 3.12229,167 2.923487,372 3.494766,376 2.769283,690 3.494766}
+{0 NEG,8 3.164179,327 3.70664,353 3.664522,558 4.791653}
+{0 NEG,162 1.716493,403 2.809665,465 2.333682,601 3.003957,727 3.179475,755 3.426854,770 3.602372}
+{0 NEG,9 2.668182,39 2.169879,198 1.517356,203 2.200036,277 2.302474,354 1.866314,356 1.453326,368 2.59773,469 1.641509,472 1.177816,550 2.749513,711 2.266073,721 2.59773}
+{0 NEG,77 2.672032,97 2.328527,280 3.137542,420 2.383298,471 1.462026,600 3.044733,615 2.829992,636 3.554861}
+{0 NEG,20 2.405304,180 2.452579,185 2.114633,226 3.447626,258 2.887082,326 2.887082,340 2.280895,384 3.179384}
+{0 NEG,6 2.024129,210 2.542345,227 2.007911,414 2.057963,457 2.239972,529 3.084724,535 2.914437,572 2.844717,754 3.192645}
+{0 NEG,163 2.737578,198 2.302377,212 4.172002,263 3.249204,356 2.205219,469 2.490762,627 2.883538}
+{0 NEG,210 2.637117,227 2.082761,374 2.59749,414 2.134679,435 2.560267,500 3.625303,535 3.023079,572 2.950761}
+{0 NEG,210 3.085416,227 2.436822,414 2.497565,535 3.53699,572 3.452378,740 3.743653}
+{0 NEG,38 2.832155,117 3.141979,185 2.039764,210 2.740836,227 2.164677,269 2.012014,404 2.740836,414 2.218637,572 3.066816}
+{0 NEG,210 2.93038,227 2.314376,414 2.372067,535 3.359263,572 3.278903,766 4.305097}
+{0 NEG,210 3.523117,227 2.782512,414 2.851873,535 4.038752,572 3.942137}
+{0 NEG,210 3.523117,227 2.782512,414 2.851873,535 4.038752,572 3.942137}
+{0 NEG,210 3.085416,227 2.436822,414 2.497565,535 3.53699,572 3.452378,624 3.743653}
+{0 NEG,88 2.100972,440 3.061507,523 4.741391,704 4.885916}
+{0 NEG,18 2.525174,99 2.780835,140 2.447908,157 1.353793,472 1.291737,552 3.250068,601 2.848988,721 2.848988,726 3.120949}
+{0 NEG,46 3.204116,101 1.078615,120 2.351595,192 2.38058,420 2.351595,438 1.898842,472 1.326159,514 3.204116,615 2.792348,632 2.924907}
+{0 NEG,43 3.921313,51 3.000636,317 1.716256,377 2.370325,457 2.513187,650 3.191694,764 3.269917}
+{0 NEG,95 2.752452,180 2.258435,187 2.927708,257 2.616514,262 2.214903,428 2.281427,502 3.59698,573 2.999461}
+{0 NEG,95 2.752452,180 2.258435,187 2.927708,257 2.616514,262 2.214903,428 2.281427,502 3.59698,573 2.999461}
+{0 NEG,301 2.663502,379 3.183978,438 2.012451,472 1.405504,495 3.39582,574 3.39582,577 3.717435}
+{0 NEG,140 2.131988,185 1.610857,198 1.449352,231 2.199283,262 1.83228,301 2.131988,307 1.868293,385 2.320819,428 1.887312,562 2.830625,606 2.975605,657 2.975605}
+{0 NEG,138 2.525704,157 1.229588,193 1.797138,202 2.332446,211 1.875725,222 2.420241,227 1.782739,414 1.827178,428 1.968164,508 2.834614,600 2.657782,667 2.951887}
+{0 NEG,89 2.975216,91 2.066342,222 2.782783,227 2.049785,228 2.452521,461 1.673209,553 3.055906,632 2.975216,697 2.840376}
+{0 NEG,88 1.615697,264 3.389076,287 3.646241,455 2.757858,524 3.320357,631 3.757385}
+{0 NEG,128 2.755401,157 1.399864,163 2.04601,215 2.288611,301 2.531212,469 1.861545,472 1.335696,495 3.227157,625 2.945941,656 3.227157}
+{0 NEG,101 1.063253,102 1.970808,157 1.370074,163 2.002469,377 2.090034,435 2.441845,489 2.645811,495 3.158481,577 3.457618,651 3.158481}
+{0 NEG,185 2.133001,269 2.103983,477 3.285598,604 3.748145,642 3.285598,669 3.940119}
+{0 NEG,11 2.566647,188 1.993949,258 2.274924,329 2.313556,395 2.355281,416 2.039307,503 2.811656,570 2.566647,578 2.505248,670 2.927979}
+{0 NEG,36 2.2919,91 1.701839,165 2.171878,280 2.593561,285 2.075251,461 1.378055,565 2.684299,711 2.137542,714 2.938526,735 2.593561,739 2.684299}
+{0 NEG,138 2.907048,163 2.06848,197 2.978294,313 2.242498,330 3.059067,354 2.139727,377 2.158931,471 1.468909,771 3.571597}
+{0 NEG,88 1.500168,101 1.215509,218 3.488715,363 2.589151,677 3.610771,700 3.385519,752 3.610771}
+{0 NEG,185 2.449533,509 4.30436,552 4.30436,726 4.133356}
+{0 NEG,33 2.406554,120 2.026697,147 2.668087,186 2.026697,269 1.614232,307 1.898029,382 2.234287,440 1.671819,456 2.051676,524 2.357757,582 2.761432,622 2.761432}
+{0 NEG,15 2.551363,153 1.618837,157 1.367834,472 1.305134,615 2.748078,656 3.153317,673 3.451965,700 2.956603,735 3.046725}
+{0 NEG,157 1.249383,232 2.566365,256 2.259115,262 1.941536,428 1.999849,472 1.192113,509 2.999409,585 2.782887,601 2.629262,725 2.782887,745 2.510101}
+{0 NEG,3 2.660186,309 3.119879,349 3.555047,359 3.555047,472 1.569305,596 3.948443}
+{0 NEG,67 3.234689,101 1.56828,162 2.430062,185 2.760869,198 2.484064,228 3.505608,489 3.902525}
+{0 NEG,160 4.479536,472 1.918911,486 4.479536,697 4.040441}
+{0 NEG,185 2.318729,188 2.774733,192 2.906992,211 2.589074,255 3.912635,755 4.074507}
+{0 NEG,101 0.986225,166 2.176668,251 2.454134,436 2.674371,471 1.319012,615 2.553166,632 2.674371,673 3.207129,700 2.746901,735 2.830631}
+{0 NEG,353 3.565269,440 3.010162,456 3.694107,622 4.972044}
+{0 NEG,2 2.3073,8 2.572071,323 3.086431,340 2.655417,441 3.308002,480 4.547584}
+{0 NEG,74 4.973425,465 3.650411,601 4.698875}
+{0 NEG,215 2.719983,340 2.451687,469 2.21242,668 3.835433,697 3.342533,756 3.994111}
+{0 NEG,70 2.877212,101 1.002454,213 2.653351,314 2.595181,450 2.877212,472 1.232519,561 2.653351,691 3.259906,729 3.101074}
+{0 NEG,162 3.378916,356 3.308248,472 2.681097,511 5.530825}
+{0 NEG,101 2.073309,340 3.93692,355 4.69625,428 4.276349}
+{0 NEG,88 1.472192,102 2.211009,145 2.968282,277 2.86701,356 1.809662,707 3.423657,739 3.543436,757 2.915696}
+{0 NEG,29 2.500147,228 2.111423,277 2.270292,317 1.344394,356 1.433012,363 2.01203,469 1.618566,563 3.282614,638 2.805931,720 2.922018,721 2.561421}
+{0 NEG,110 2.422585,185 2.954385,640 5.457393,711 3.969815}
+{0 NEG,5 3.248963,148 3.608487,152 3.248963,157 1.50309,414 2.233604,524 2.958585,625 3.163176}
+{0 NEG,172 3.517564,472 2.075092,524 4.2807,668 5.013604}
+{0 NEG,6 2.878928,185 2.691062,198 2.421256,507 4.540913,619 4.257636}
+{0 NEG,185 2.481967,238 3.926817,592 4.188084,603 4.584733}
+{0 NEG,435 7.75499}
+{0 NEG,53 3.429226,75 2.582847,157 1.42842,165 2.664372,356 1.681757,360 2.38842,383 2.038878,399 3.006037,696 3.292989}
+{0 NEG,165 3.162103,696 3.908151,750 4.278289,753 4.069838}
+{0 NEG,32 2.256714,101 1.047404,102 1.941431,313 2.138575,397 3.111402,423 1.870123,472 1.287785,489 2.606373,493 2.405447,495 3.111402,765 2.917302}
+{0 NEG,78 3.244956,388 3.495148,398 4.176476,423 2.410562,634 3.760361}
+{0 NEG,101 1.407787,165 3.383632,382 3.383632,465 2.965722,600 3.921064,711 3.330139}
+{0 NEG,8 1.811269,33 2.549431,88 1.215407,102 1.825358,175 2.147022,185 1.733655,198 1.559838,228 2.201305,421 2.450544,464 2.261631,541 3.046406,649 3.202438}
+{0 NEG,15 2.256826,20 1.880221,88 1.158866,174 2.430831,230 2.072373,464 2.156419,494 2.381542,524 2.381542,553 2.615284,573 2.546229,647 3.263145}
+{0 NEG,45 4.00298,100 3.63496,469 2.591483,547 4.918059}
+{0 NEG,15 2.031768,20 1.692719,88 1.0433,174 2.188421,230 1.86571,307 1.725989,340 1.605167,441 1.999647,449 2.511132,464 1.941374,472 1.039338,494 2.144047,524 2.144047,573 2.292311,647 2.937733}
+{0 NEG,88 1.307972,101 1.059783,139 2.433874,175 2.310537,269 1.840307,359 2.951779,447 2.873839,553 2.951779,573 2.873839,600 2.951779}
+{0 NEG,67 1.828004,139 2.035399,162 1.373289,215 1.867075,227 1.655784,314 2.294411,363 1.887849,385 2.247888,414 1.697058,435 2.035399,469 1.518669,581 2.632751,600 2.468512,616 2.882097}
+{0 NEG,36 3.804493,39 3.397641,257 3.548263,510 4.640212}
+{0 NEG,76 2.301236,165 2.888543,263 2.686411,377 2.362378,627 2.384082,696 3.57005,750 3.908166}
+{0 NEG,31 2.653185,87 2.321409,91 1.930162,353 2.183049,440 1.843152,477 2.779138,636 3.332767,642 2.779138,687 3.044431}
+{0 NEG,103 3.401161,214 3.161281,326 2.934989,340 2.318743,355 2.765969,471 1.633176,686 3.777527}
+{0 NEG,103 3.057694,214 2.842038,326 2.638598,340 2.084584,355 2.486646,471 1.468249,510 3.396053,686 3.396053}
+{0 NEG,12 3.213886,465 2.430843,587 3.569529,711 2.729537,712 3.569529,743 3.311851}
+{0 NEG,2 1.823121,68 3.171459,139 2.537659,269 1.91878,285 2.537659,420 2.409062,446 2.749629,447 2.996384,524 2.802581}
+{0 NEG,3 1.990801,68 2.741583,88 1.178897,157 1.230839,175 2.082525,214 2.472846,257 2.259538,423 1.705493,426 1.877634,584 2.741583,631 2.741583,686 2.954892}
+{0 NEG,33 4.202905,222 4.117684,227 3.033067,470 4.039883}
+{0 NEG,101 1.172692,119 2.305158,162 1.817095,541 3.6277,558 3.266261,749 3.6277,751 3.6277}
+{0 NEG,141 2.340254,326 2.986621,493 2.853745,613 3.691267,668 3.691267,697 3.216894}
+{0 NEG,67 2.184485,88 1.307139,100 2.545578,157 1.364732,301 2.467688,429 2.367445,495 3.146167,577 3.444138,603 3.444138}
+{0 NEG,13 2.604145,193 1.708784,215 1.911399,285 2.083719,422 2.604145,426 1.783506,469 1.554722,471 1.213475,478 2.80676,570 2.460387,584 2.604145,670 2.80676}
+{0 NEG,51 2.378542,65 2.378542,101 0.955847,120 2.083938,163 1.800188,166 2.109623,185 1.682716,186 2.083938,238 2.662292,355 2.165089,469 1.637886,625 2.591995,737 2.743443}
+{0 NEG,57 2.127634,139 2.127634,162 1.43552,185 1.630939,186 2.019815,205 2.752055,211 1.821094,222 2.349751,269 1.608751,354 1.804894,405 2.264513,464 2.127634,472 1.139054,479 3.0127}
+{0 NEG,608 5.618779,715 5.345016}
+{0 NEG,241 3.723367,570 3.517825,608 4.218606,715 4.013064}
+{0 NEG,224 2.657596,250 2.783759,374 2.391862,383 1.888116,428 2.117362,441 2.428351,490 3.049494,503 3.049494,697 2.657596}
+{0 NEG,101 1.658176,185 2.919126,353 3.532073,414 3.175113,681 5.129536}
+{0 NEG,101 1.399694,155 4.157909,185 2.464084,353 2.981483,414 2.680167,681 4.329928}
+{0 NEG,2 2.164757,91 2.471011,101 1.312035,271 3.153492,326 3.153492,382 3.153492,472 1.613149,594 3.897509}
+{0 NEG,166 3.934239,197 4.833817,240 4.614743}
+{0 NEG,162 1.839103,186 2.587666,191 3.525769,269 2.061036,404 2.807615,469 2.033795,476 3.671636,711 2.807615}
+{0 NEG,51 2.979025,101 1.197159,157 1.542621,177 3.33441,269 2.078861,493 2.749371,709 3.436048,710 3.556261}
+{0 NEG,97 3.421384,101 1.606212,353 3.421384,414 3.075611,681 4.968786}
+{0 NEG,133 2.573455,186 2.542122,230 2.573455,329 2.850098,514 3.463714,615 3.018584,624 3.34663}
+{0 NEG,215 3.019956,524 3.635914,622 4.258424,667 4.434602}
+{0 NEG,2 1.482518,32 1.935969,36 2.278992,88 1.108965,157 1.157827,175 1.958991,185 1.581825,186 1.958991,222 2.278992,360 1.935969,363 1.913971,423 1.604324,623 2.669181,684 2.921977,697 2.326158}
+{0 NEG,291 4.080096,475 4.870683,601 4.446249}
+{0 NEG,157 4.580413,185 6.257771}
+{0 NEG,28 3.723072,90 3.723072,101 1.253313,138 3.317339,157 1.614979,211 2.463636,257 2.96473,472 1.540951}
+{0 NEG,9 2.605855,32 2.01579,88 1.154688,185 1.647045,228 2.091332,302 2.422067,442 2.685286,613 2.779233,634 2.605855,711 2.213139,769 2.894214}
+{0 NEG,97 3.421384,101 1.606212,353 3.421384,414 3.075611,681 4.968786}
+{0 NEG,79 4.860717,645 6.042624}
+{0 NEG,38 3.311427,153 2.066013,219 3.585798,227 2.530995,235 2.738952,266 2.953601,598 3.068618}
+{0 NEG,24 2.553324,88 1.162096,227 1.759121,355 2.132787,456 2.078148,472 1.157682,551 2.912781,562 2.912781,578 2.492244,660 2.702512,774 2.912781}
+{0 NEG,8 3.563724,175 4.224326,473 3.917329,531 3.774832}
+{0 NEG,95 3.534023,214 3.676632,601 3.851171,686 4.393338}
+{0 NEG,6 1.858979,32 2.126706,45 2.612615,77 2.412708,86 2.235797,172 2.057212,316 1.94027,717 3.053464,719 2.932156,726 2.932156}
+{0 NEG,31 3.233199,88 1.541385,162 1.935189,185 2.198628,263 2.791703,634 3.478536,692 4.340242}
+{0 NEG,6 1.974398,32 2.258747,77 2.562506,86 2.374612,172 2.184938,316 2.060736,717 3.243045,719 3.114205,726 3.114205}
+{0 NEG,31 3.19207,88 1.521777,101 1.233018,162 1.910571,185 2.170659,263 2.75619,634 3.434286,692 4.28503}

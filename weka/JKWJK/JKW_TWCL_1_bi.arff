@@ -1,0 +1,1468 @@
+@relation 'JKW_TWCL_1_bi-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1200-prune-rate-1.0-T-I-N1-L-stemmerweka.core.stemmers.NullStemmer-M3-stopwordsD:\\~tesis\\~play\\stopword_list_tala.txt-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 2'
+
+@attribute @@class@@ {POS,NEG}
+@attribute 'ada yg' numeric
+@attribute 'adalah kita' numeric
+@attribute 'adalah tidak' numeric
+@attribute 'adelaide dukung' numeric
+@attribute 'akan menghapus' numeric
+@attribute 'akrab disapa' numeric
+@attribute 'alumni itb' numeric
+@attribute 'anak muda' numeric
+@attribute 'apresiasi gagasan' numeric
+@attribute 'australia indonesia' numeric
+@attribute 'ayo kita' numeric
+@attribute 'bangga ke' numeric
+@attribute 'bareng debat' numeric
+@attribute 'baru dari' numeric
+@attribute 'bekerja salamduajari' numeric
+@attribute 'besar untuk' numeric
+@attribute 'bisa kembalikan' numeric
+@attribute 'bu risma' numeric
+@attribute 'bukan capres' numeric
+@attribute 'cak imin' numeric
+@attribute 'calon presiden' numeric
+@attribute 'capres boneka' numeric
+@attribute 'capres cawapres' numeric
+@attribute 'capres mengaku' numeric
+@attribute 'capres no' numeric
+@attribute 'cawapresnya jk' numeric
+@attribute 'cerdaspilih pintarpilih' numeric
+@attribute 'cinta laura' numeric
+@attribute 'ciputat siang' numeric
+@attribute 'cita besar' numeric
+@attribute 'cita cita' numeric
+@attribute 'coblos no' numeric
+@attribute 'dan kewibawaan' numeric
+@attribute 'dan pakar' numeric
+@attribute 'dan sudah' numeric
+@attribute 'dan tegas' numeric
+@attribute 'dari masyarakat' numeric
+@attribute 'debat di' numeric
+@attribute 'deklarasi dukung' numeric
+@attribute 'di adelaide' numeric
+@attribute 'di debat' numeric
+@attribute 'di jakarta' numeric
+@attribute 'di lapangan' numeric
+@attribute 'di media' numeric
+@attribute 'di sini' numeric
+@attribute 'di tugu' numeric
+@attribute 'dideklarasikan tadi' numeric
+@attribute 'dinilai sebagai' numeric
+@attribute 'disapa menyambangi' numeric
+@attribute 'dua jari' numeric
+@attribute 'dukung pintarpilih' numeric
+@attribute 'eva sundari' numeric
+@attribute 'gagasan jk' numeric
+@attribute 'gelar baru' numeric
+@attribute 'gus dur' numeric
+@attribute 'hari ini' numeric
+@attribute 'hasyim muzadi' numeric
+@attribute 'hubungan australia' numeric
+@attribute 'indonesia soal' numeric
+@attribute 'indonesia timur' numeric
+@attribute 'indonesia yang' numeric
+@attribute 'indonesia yg' numeric
+@attribute 'ini pria' numeric
+@attribute 'irmadi yg' numeric
+@attribute 'it ramaikan' numeric
+@attribute 'itb dan' numeric
+@attribute 'itu bukan' numeric
+@attribute 'itu sederhana' numeric
+@attribute 'jadi presiden' numeric
+@attribute 'jaka winata' numeric
+@attribute 'jangan lupa' numeric
+@attribute 'jari jangan' numeric
+@attribute 'jari pintarpilih' numeric
+@attribute 'jika terpilih' numeric
+@attribute 'jk kuat' numeric
+@attribute 'jk penguasaan' numeric
+@attribute 'jk soal' numeric
+@attribute 'jpnn pilpres' numeric
+@attribute 'kalau bukan' numeric
+@attribute 'kalla adalah' numeric
+@attribute 'kampanye kreatif' numeric
+@attribute 'ke jk' numeric
+@attribute 'kebanggaan seniman' numeric
+@attribute 'kembalikan kepercayaan' numeric
+@attribute 'kepercayaan rakyat' numeric
+@attribute 'kh hasyim' numeric
+@attribute 'ki jaka' numeric
+@attribute 'kita adalah' numeric
+@attribute 'kita dukung' numeric
+@attribute 'komunitas sobat' numeric
+@attribute 'kontrak politik' numeric
+@attribute 'kuat penguasaan' numeric
+@attribute 'kumuh ciputat' numeric
+@attribute 'lapangan capres' numeric
+@attribute 'lapangan kelihatan' numeric
+@attribute 'lebih baik' numeric
+@attribute 'lupa coblos' numeric
+@attribute 'lupa pilih' numeric
+@attribute 'masa depan' numeric
+@attribute 'masyarakat sunda' numeric
+@attribute 'mayoritas warga' numeric
+@attribute 'media center' numeric
+@attribute 'memiliki cita' numeric
+@attribute 'menang telak' numeric
+@attribute 'mengaku bangga' numeric
+@attribute 'menghapus sertifikasi' numeric
+@attribute 'muzadi bukan' numeric
+@attribute 'no bekerja' numeric
+@attribute 'nobar di' numeric
+@attribute 'nomor sederhana' numeric
+@attribute 'nomor urut' numeric
+@attribute 'nonton bareng' numeric
+@attribute 'nyata dan' numeric
+@attribute 'pagi silakan' numeric
+@attribute 'pak jk' numeric
+@attribute 'pak jkw' numeric
+@attribute 'pakar it' numeric
+@attribute 'pasar kumuh' numeric
+@attribute 'pemimpin yang' numeric
+@attribute 'pemimpin yg' numeric
+@attribute 'penampilan cawapresnya' numeric
+@attribute 'pendidikan calon' numeric
+@attribute 'pendukung kalla' numeric
+@attribute 'pendukung nonton' numeric
+@attribute 'penguasaan di' numeric
+@attribute 'penguasaan lapangan' numeric
+@attribute 'penting untuk' numeric
+@attribute 'pilih pintarpilih' numeric
+@attribute 'pintar bicara' numeric
+@attribute 'pintarpilih salam' numeric
+@attribute 'presiden dan' numeric
+@attribute 'presiden nomor' numeric
+@attribute 'pria yang' numeric
+@attribute 'program nyata' numeric
+@attribute 'puji penampilan' numeric
+@attribute 'ramaikan nobar' numeric
+@attribute 'ratusan alumni' numeric
+@attribute 'revolusi mental' numeric
+@attribute 'salam dua' numeric
+@attribute 'salam jari' numeric
+@attribute 'salamduajari no' numeric
+@attribute 'sambangi pasar' numeric
+@attribute 'saya bangga' numeric
+@attribute 'sederhana dan' numeric
+@attribute 'seniman pendukung' numeric
+@attribute 'seribu pendukung' numeric
+@attribute 'sertifikasi guru' numeric
+@attribute 'siang ini' numeric
+@attribute 'siapa lagi' numeric
+@attribute 'silakan disebarkan' numeric
+@attribute 'soal pendidikan' numeric
+@attribute 'soal trust' numeric
+@attribute 'sobat di' numeric
+@attribute 'sudah dideklarasikan' numeric
+@attribute 'sukanya kerja' numeric
+@attribute 'sundari itu' numeric
+@attribute 'tadi pagi' numeric
+@attribute 'tak akan' numeric
+@attribute 'tak pintar' numeric
+@attribute 'tangkap akun' numeric
+@attribute 'tetap unggul' numeric
+@attribute 'tidak ada' numeric
+@attribute 'timses memiliki' numeric
+@attribute 'trust dan' numeric
+@attribute 'tugu proklamasi' numeric
+@attribute 'untuk indonesia' numeric
+@attribute 'untuk pintarpilih' numeric
+@attribute 'visi misi' numeric
+@attribute 'winata gelar' numeric
+@attribute 'yang akrab' numeric
+@attribute 'yg bisa' numeric
+@attribute 'yg dibayar' numeric
+@attribute 'yg mendukung' numeric
+@attribute 'ada tuh' numeric
+@attribute 'adalah bangsa' numeric
+@attribute 'adalah kamu' numeric
+@attribute 'adanya potensi' numeric
+@attribute 'akan berhadapan' numeric
+@attribute 'andai memilih' numeric
+@attribute 'anjlok pdip' numeric
+@attribute 'apbd dki' numeric
+@attribute 'bangsa indonesia' numeric
+@attribute 'bayaran ga' numeric
+@attribute 'been chirpified' numeric
+@attribute 'begitu dasyatnya' numeric
+@attribute 'berhadapan satgas' numeric
+@attribute 'bersiap kerusuhan' numeric
+@attribute 'bila jadi' numeric
+@attribute 'bisa blunder' numeric
+@attribute 'bisa hancur' numeric
+@attribute 'blusukan sampe' numeric
+@attribute 'bpk soal' numeric
+@attribute 'bukan pelanggaran' numeric
+@attribute 'bus karatan' numeric
+@attribute 'bus transjakarta' numeric
+@attribute 'by chirpstory' numeric
+@attribute 'by has' numeric
+@attribute 'by is' numeric
+@attribute 'cium konspirasi' numeric
+@attribute 'colek juga' numeric
+@attribute 'cukong jkw' numeric
+@attribute 'curangi pemilu' numeric
+@attribute 'dan kita' numeric
+@attribute 'dan nilai' numeric
+@attribute 'dan polri' numeric
+@attribute 'dari etika' numeric
+@attribute 'dasyatnya pencitraan' numeric
+@attribute 'debat capres' numeric
+@attribute 'di begitu' numeric
+@attribute 'di belakang' numeric
+@attribute 'di madura' numeric
+@attribute 'di mata' numeric
+@attribute 'di metro' numeric
+@attribute 'di pilpres' numeric
+@attribute 'di tayangkan' numeric
+@attribute 'diharapkan dulang' numeric
+@attribute 'diminta usut' numeric
+@attribute 'dinilai jauh' numeric
+@attribute 'dinilai tidak' numeric
+@attribute 'disana patuh' numeric
+@attribute 'dki era' numeric
+@attribute 'dki jakarta' numeric
+@attribute 'dukung jkw' numeric
+@attribute 'dukung pdip' numeric
+@attribute 'dukungan untuk' numeric
+@attribute 'dulang kemenangan' numeric
+@attribute 'elektabilitas anjlok' numeric
+@attribute 'etika dan' numeric
+@attribute 'ga ada' numeric
+@attribute 'ga suka' numeric
+@attribute 'gubernur dki' numeric
+@attribute 'hancur negeri' numeric
+@attribute 'has been' numeric
+@attribute 'ingatkan tni' numeric
+@attribute 'ini yg' numeric
+@attribute 'is likable' numeric
+@attribute 'itu sama' numeric
+@attribute 'jadi gubernur' numeric
+@attribute 'jauh dari' numeric
+@attribute 'jauh hari' numeric
+@attribute 'jd presiden' numeric
+@attribute 'jdi presiden' numeric
+@attribute 'jika kalah' numeric
+@attribute 'jika tidak' numeric
+@attribute 'jk kalah' numeric
+@attribute 'jk kalo' numeric
+@attribute 'jkw by' numeric
+@attribute 'jkw dengan' numeric
+@attribute 'jkw ga' numeric
+@attribute 'jkw itu' numeric
+@attribute 'jkw jadi' numeric
+@attribute 'jkw jd' numeric
+@attribute 'jkw jg' numeric
+@attribute 'jkw kalah' numeric
+@attribute 'jkw menang' numeric
+@attribute 'jkw provokator' numeric
+@attribute 'jkw sdh' numeric
+@attribute 'jkw tapi' numeric
+@attribute 'jkw yg' numeric
+@attribute 'juga melihat' numeric
+@attribute 'kalah by' numeric
+@attribute 'kalah itu' numeric
+@attribute 'kalah telak' numeric
+@attribute 'kami sdh' numeric
+@attribute 'kamu adalah' numeric
+@attribute 'kamu kamu' numeric
+@attribute 'karena sudah' numeric
+@attribute 'kasus bus' numeric
+@attribute 'kata pak' numeric
+@attribute 'kecewa ama' numeric
+@attribute 'kecurangan di' numeric
+@attribute 'kehilangan kesabaran' numeric
+@attribute 'kekalahan jkw' numeric
+@attribute 'kemenangan di' numeric
+@attribute 'kerusuhan jika' numeric
+@attribute 'kerusuhan pasca' numeric
+@attribute 'kesabaran terima' numeric
+@attribute 'kita dan' numeric
+@attribute 'komunis di' numeric
+@attribute 'konspirasi curangi' numeric
+@attribute 'kpk diminta' numeric
+@attribute 'kpk tangkap' numeric
+@attribute 'kubu jkw' numeric
+@attribute 'lakukan serangan' numeric
+@attribute 'laporan kecurangan' numeric
+@attribute 'lembaga survey' numeric
+@attribute 'madura bukan' numeric
+@attribute 'madura suara' numeric
+@attribute 'mana yg' numeric
+@attribute 'mata kami' numeric
+@attribute 'media pro' numeric
+@attribute 'melihat adanya' numeric
+@attribute 'memilih jkw' numeric
+@attribute 'metro dinilai' numeric
+@attribute 'metro tv' numeric
+@attribute 'negara asing' numeric
+@attribute 'negeri ini' numeric
+@attribute 'negri ini' numeric
+@attribute 'netral jika' numeric
+@attribute 'nilai agama' numeric
+@attribute 'nol di' numeric
+@attribute 'oh ya' numeric
+@attribute 'orang pintar' numeric
+@attribute 'orang yg' numeric
+@attribute 'org yg' numeric
+@attribute 'palestina diharapkan' numeric
+@attribute 'pasca pengumuman' numeric
+@attribute 'patuh pd' numeric
+@attribute 'pd seruan' numeric
+@attribute 'pdip bisa' numeric
+@attribute 'pdip cium' numeric
+@attribute 'pelanggaran pemilu' numeric
+@attribute 'pencitraan jkw' numeric
+@attribute 'pendukung dan' numeric
+@attribute 'pendukung dinilai' numeric
+@attribute 'pendukung jkw' numeric
+@attribute 'pengumuman kekalahan' numeric
+@attribute 'pilih no' numeric
+@attribute 'polri netral' numeric
+@attribute 'potensi kerusuhan' numeric
+@attribute 'presiden bisa' numeric
+@attribute 'quick count' numeric
+@attribute 'rakyat disana' numeric
+@attribute 'real count' numeric
+@attribute 'satgas jkw' numeric
+@attribute 'saya adalah' numeric
+@attribute 'saya tak' numeric
+@attribute 'sdh tahu' numeric
+@attribute 'seburuk nya' numeric
+@attribute 'selama ini' numeric
+@attribute 'serangan fajar' numeric
+@attribute 'seruan ulama' numeric
+@attribute 'setelah di' numeric
+@attribute 'sikap pendukung' numeric
+@attribute 'soal apbd' numeric
+@attribute 'soal kasus' numeric
+@attribute 'solid dukung' numeric
+@attribute 'suara nol' numeric
+@attribute 'survey bayaran' numeric
+@attribute 'tak solid' numeric
+@attribute 'tayangkan di' numeric
+@attribute 'tdk apa' numeric
+@attribute 'tegas soal' numeric
+@attribute 'temuan bpk' numeric
+@attribute 'terakhir tuh' numeric
+@attribute 'terima laporan' numeric
+@attribute 'terkenal setelah' numeric
+@attribute 'terpopuler metro' numeric
+@attribute 'tertangkap lakukan' numeric
+@attribute 'tidak akan' numeric
+@attribute 'tidak boleh' numeric
+@attribute 'tidak tegas' numeric
+@attribute 'tim tertangkap' numeric
+@attribute 'tindakan anarkis' numeric
+@attribute 'tni dan' numeric
+@attribute 'tuh lembaga' numeric
+@attribute 'tuh yg' numeric
+@attribute 'ulama madura' numeric
+@attribute 'untuk palestina' numeric
+@attribute 'usut temuan' numeric
+@attribute 'ya terakhir' numeric
+@attribute 'yg mau' numeric
+@attribute 'yg umumkan' numeric
+
+@data
+{}
+{140 3.070019}
+{}
+{78 1.857114,147 1.783334,158 1.672084}
+{140 3.070019}
+{96 3.070019}
+{}
+{50 2.008656,139 1.964619,140 1.237172}
+{1 0.875181,3 1.143711,80 1.143711,83 1.087986,123 1.143711,145 1.087986,162 1.087986,172 1.087986}
+{}
+{161 3.070019}
+{166 3.070019}
+{}
+{128 3.070019}
+{}
+{71 1.380621,72 1.613309,97 1.98211,140 0.993669}
+{167 3.070019}
+{}
+{}
+{}
+{350 3.070019}
+{4 1.293427,40 1.293427,51 1.293427,90 1.293427,102 1.029685,153 1.293427}
+{13 1.178777,38 1.178777,46 1.093683,112 1.178777,124 1.178777,146 1.178777,165 1.131946}
+{57 2.023792,86 2.023792,140 1.110654}
+{}
+{}
+{}
+{}
+{96 3.070019}
+{}
+{}
+{96 2.242129,168 2.097111}
+{}
+{}
+{2 1.407911,79 1.929094,149 1.929094}
+{}
+{}
+{239 3.070019}
+{140 3.070019}
+{}
+{20 3.070019}
+{115 3.070019}
+{}
+{239 3.070019}
+{}
+{}
+{69 3.070019}
+{140 3.070019}
+{89 3.070019}
+{}
+{}
+{42 3.070019}
+{}
+{50 1.59841,71 1.367871,72 1.59841,139 1.563367}
+{}
+{69 1.883575,327 2.424287}
+{10 1.25333,33 1.25333,58 1.25333,59 1.25333,152 1.25333,164 1.25333}
+{}
+{}
+{}
+{15 2.170832,108 2.170832}
+{}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{}
+{46 2.133195,165 2.207827}
+{222 3.070019}
+{27 2.053667,130 1.984246,140 1.127049}
+{}
+{74 3.070019}
+{259 3.070019}
+{}
+{4 1.53501,40 1.53501,90 1.53501,153 1.53501}
+{}
+{}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{}
+{}
+{}
+{}
+{96 3.070019}
+{168 3.070019}
+{5 1.404352,73 1.231046,106 1.404352,140 0.740088,147 1.34856,158 1.264433}
+{}
+{7 1.759235,66 1.798668,137 1.759235}
+{}
+{}
+{}
+{}
+{}
+{55 3.070019}
+{23 2.279685,111 2.056224}
+{}
+{7 0.895551,34 0.938065,44 0.895551,65 0.915624,66 0.915624,67 1.070125,102 0.895551,109 0.915624,117 0.915624,136 0.915624,137 0.895551}
+{25 3.070019}
+{10 1.25333,33 1.25333,58 1.25333,59 1.25333,152 1.25333,164 1.25333}
+{}
+{}
+{99 3.070019}
+{1 1.293135,83 1.607568,145 1.607568,172 1.607568}
+{71 1.807932,72 2.112638,140 1.301216}
+{}
+{140 3.070019}
+{13 1.032347,27 0.991334,38 1.032347,46 0.957824,112 1.032347,124 1.032347,130 0.957824,140 0.544042,146 1.032347,165 0.991334}
+{140 3.070019}
+{}
+{15 1.628355,108 1.628355,141 2.030255}
+{}
+{8 3.070019}
+{}
+{}
+{13 1.178777,38 1.178777,46 1.093683,112 1.178777,124 1.178777,146 1.178777,165 1.131946}
+{1 1.407106,139 1.463887,229 1.574968,304 1.679757}
+{}
+{1 0.875181,3 1.143711,80 1.143711,83 1.087986,123 1.143711,145 1.087986,162 1.087986,172 1.087986}
+{}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{9 1.53501,53 1.53501,77 1.53501,151 1.53501}
+{}
+{17 1.396264,64 1.396264,84 1.396264,85 1.396264,171 1.275465}
+{61 3.070019}
+{39 3.070019}
+{}
+{50 1.42436,71 1.218924,72 1.42436,98 1.393133,139 1.393133}
+{23 1.870646,115 1.621834,208 1.815312}
+{4 1.372954,40 1.372954,51 1.372954,90 1.372954,153 1.372954}
+{}
+{}
+{7 1.07332,44 1.07332,65 1.097378,102 1.07332,109 1.097378,117 1.097378,136 1.097378,137 1.07332}
+{7 0.889889,34 0.932134,44 0.889889,45 1.117824,65 0.909836,66 0.909836,102 0.889889,109 0.909836,117 0.909836,136 0.909836,137 0.889889}
+{28 2.279495,138 1.669084,140 1.201284}
+{}
+{140 3.070019}
+{28 2.476997,138 1.813699}
+{1 0.875181,3 1.143711,80 1.143711,83 1.087986,123 1.143711,145 1.087986,162 1.087986,172 1.087986}
+{}
+{}
+{140 3.070019}
+{15 2.034185,108 2.034185,140 1.072007}
+{}
+{101 3.070019}
+{115 2.567993,140 1.682388}
+{}
+{}
+{120 3.070019}
+{}
+{71 1.499847,72 1.752628,98 1.714205,140 1.079479}
+{17 1.396264,64 1.396264,84 1.396264,85 1.396264,171 1.275465}
+{50 1.42436,71 1.218924,72 1.42436,98 1.393133,139 1.393133}
+{}
+{}
+{}
+{}
+{11 3.070019}
+{289 3.070019}
+{}
+{}
+{}
+{18 3.070019}
+{}
+{}
+{61 3.070019}
+{}
+{}
+{}
+{101 3.070019}
+{}
+{8 3.070019}
+{}
+{}
+{244 3.070019}
+{140 3.070019}
+{}
+{}
+{19 1.212828,22 1.176952,57 1.255259,78 1.307192,86 1.255259,107 1.307192}
+{45 2.006116,166 1.718235,168 1.564668}
+{99 3.070019}
+{71 1.499847,72 1.752628,98 1.714205,140 1.079479}
+{2 1.213658,25 1.556075,79 1.662932,149 1.662932}
+{9 1.53501,53 1.53501,77 1.53501,151 1.53501}
+{140 3.070019}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{}
+{32 1.936156,71 1.417686,98 1.620302,140 1.020346}
+{}
+{}
+{71 2.021559,98 2.31048}
+{18 3.070019}
+{71 1.499847,72 1.752628,98 1.714205,140 1.079479}
+{}
+{140 3.070019}
+{}
+{}
+{}
+{62 2.357817,96 1.966144}
+{}
+{}
+{}
+{}
+{168 3.070019}
+{140 3.070019}
+{32 1.521073,50 1.301466,71 1.113755,97 1.59898,139 1.272933}
+{}
+{128 2.154565,130 1.901632,140 1.080124}
+{}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{27 2.053667,130 1.984246,140 1.127049}
+{}
+{}
+{167 3.070019}
+{}
+{303 3.070019}
+{5 1.275475,27 1.224803,106 1.275475,130 1.183401,140 0.67217,147 1.224803,158 1.148396}
+{}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{39 3.070019}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{}
+{}
+{}
+{}
+{16 1.200156,30 1.200156,31 1.141681,60 1.141681,103 1.200156,163 1.200156,166 1.027932}
+{73 2.631142,140 1.581806}
+{}
+{69 3.070019}
+{}
+{19 1.340407,22 1.300757,57 1.387302,86 1.387302,107 1.444697}
+{16 1.200156,30 1.200156,31 1.141681,60 1.141681,103 1.200156,163 1.200156,166 1.027932}
+{55 3.070019}
+{7 0.955477,34 1.000836,44 0.955477,65 0.976894,66 0.976894,102 0.955477,109 0.976894,117 0.976894,136 0.976894,137 0.955477}
+{15 1.657067,50 1.417825,108 1.657067,139 1.386741}
+{}
+{129 1.731945,155 1.850879,159 1.731945}
+{}
+{}
+{}
+{}
+{19 1.340407,22 1.300757,57 1.387302,86 1.387302,107 1.444697}
+{}
+{127 3.070019}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{89 3.070019}
+{}
+{}
+{61 2.357817,96 1.966144}
+{115 1.091474,129 1.426369,155 1.524319,159 1.426369,237 1.356872}
+{24 1.008652,26 0.959507,43 0.959507,75 0.959507,92 0.959507,94 1.008652,105 1.008652,121 0.921388,125 0.959507,135 0.959507}
+{}
+{}
+{73 2.06816,115 1.897845,140 1.243349}
+{41 3.070019}
+{69 3.070019}
+{5 1.589003,106 1.589003,147 1.525875,158 1.430686}
+{9 1.082812,21 0.967717,53 1.082812,77 1.082812,111 1.059073,122 1.174168,132 1.139436,151 1.082812}
+{}
+{}
+{26 1.083576,43 1.083576,75 1.083576,92 1.083576,94 1.139076,121 1.040528,125 1.083576,135 1.083576}
+{9 1.53501,53 1.53501,77 1.53501,151 1.53501}
+{}
+{}
+{}
+{}
+{26 1.166867,43 1.166867,75 1.166867,92 1.166867,121 1.12051,125 1.166867,135 1.166867}
+{}
+{24 1.823503,105 1.823503,121 1.665742}
+{}
+{24 1.008652,26 0.959507,43 0.959507,75 0.959507,92 0.959507,94 1.008652,105 1.008652,121 0.921388,125 0.959507,135 0.959507}
+{81 3.070019}
+{81 3.070019}
+{}
+{}
+{28 2.476997,138 1.813699}
+{48 3.070019}
+{212 3.070019}
+{12 1.278468,76 1.278468,82 1.278468,95 1.227677,126 1.227677,143 1.227677}
+{2 3.070019}
+{214 1.177246,216 1.177246,225 1.137451,226 1.177246,274 1.137451,306 1.177246,359 1.137451}
+{}
+{}
+{}
+{}
+{12 1.278468,76 1.278468,82 1.278468,95 1.227677,126 1.227677,143 1.227677}
+{167 3.070019}
+{}
+{}
+{}
+{}
+{74 3.070019}
+{67 3.070019}
+{23 2.031519,161 2.301728}
+{56 3.070019}
+{}
+{212 3.070019}
+{}
+{}
+{166 3.070019}
+{19 2.203172,22 2.138002}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{12 1.278468,76 1.278468,82 1.278468,95 1.227677,126 1.227677,143 1.227677}
+{28 2.476997,138 1.813699}
+{}
+{42 3.070019}
+{12 1.278468,76 1.278468,82 1.278468,95 1.227677,126 1.227677,143 1.227677}
+{}
+{}
+{}
+{73 2.631142,140 1.581806}
+{158 3.070019}
+{140 3.070019}
+{71 1.499847,72 1.752628,98 1.714205,140 1.079479}
+{}
+{}
+{5 1.589003,106 1.589003,147 1.525875,158 1.430686}
+{127 2.519145,138 1.754688}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{129 2.170832,159 2.170832}
+{167 3.070019}
+{161 3.070019}
+{51 3.070019}
+{130 2.669459,140 1.516249}
+{19 2.203172,22 2.138002}
+{}
+{}
+{}
+{}
+{}
+{48 2.20036,73 1.834843,140 1.103082}
+{81 3.070019}
+{74 3.070019}
+{95 1.772477,126 1.772477,143 1.772477}
+{140 3.070019}
+{21 1.912422,55 2.401596}
+{2 3.070019}
+{}
+{73 2.631142,140 1.581806}
+{138 3.070019}
+{18 2.744459,140 1.375849}
+{}
+{20 1.840899,55 1.681633,73 1.535095,140 0.922878}
+{39 2.20036,73 1.834843,140 1.103082}
+{45 2.006116,166 1.718235,168 1.564668}
+{}
+{}
+{}
+{}
+{128 3.070019}
+{}
+{16 1.200156,30 1.200156,31 1.141681,60 1.141681,103 1.200156,163 1.200156,166 1.027932}
+{48 3.070019}
+{}
+{93 1.772477,118 1.772477,142 1.772477}
+{}
+{}
+{93 1.772477,118 1.772477,142 1.772477}
+{6 1.044601,29 1.044601,63 1.044601,93 0.979435,118 0.979435,133 1.044601,142 0.979435,148 1.044601,170 1.044601}
+{6 0.978897,29 0.978897,49 1.071608,63 0.978897,93 0.91783,118 0.91783,133 0.978897,142 0.91783,148 0.978897,170 0.978897}
+{}
+{}
+{}
+{6 1.044601,29 1.044601,63 1.044601,93 0.979435,118 0.979435,133 1.044601,142 0.979435,148 1.044601,170 1.044601}
+{}
+{20 2.125727,55 1.941819,140 1.065667}
+{140 3.070019}
+{}
+{6 0.978897,29 0.978897,49 1.071608,63 0.978897,93 0.91783,118 0.91783,133 0.978897,142 0.91783,148 0.978897,170 0.978897}
+{}
+{}
+{6 0.978897,29 0.978897,49 1.071608,63 0.978897,93 0.91783,118 0.91783,133 0.978897,142 0.91783,148 0.978897,170 0.978897}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{21 3.070019}
+{}
+{}
+{}
+{2 0.846173,88 0.957547,175 0.991047,176 0.991047,182 0.991047,203 0.957547,265 0.991047,266 0.991047,278 0.991047,326 0.991047}
+{}
+{}
+{160 3.070019}
+{}
+{}
+{}
+{127 3.070019}
+{}
+{}
+{69 3.070019}
+{}
+{}
+{}
+{2 0.785016,50 0.819223,88 0.88834,139 0.801263,175 0.919419,176 0.919419,182 0.919419,203 0.88834,265 0.919419,266 0.919419,278 0.919419,326 0.919419}
+{}
+{11 2.224343,56 2.115967}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{}
+{}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{}
+{}
+{50 2.194757,139 2.14664}
+{}
+{17 1.396264,64 1.396264,84 1.396264,85 1.396264,171 1.275465}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{}
+{14 1.160358,37 1.160358,54 1.160358,70 1.160358,87 1.160358,100 1.160358,169 1.160358}
+{}
+{}
+{}
+{}
+{120 2.1264,362 2.214372}
+{138 3.070019}
+{}
+{62 1.823503,120 1.665742,173 1.823503}
+{304 3.070019}
+{62 1.823503,120 1.665742,173 1.823503}
+{}
+{223 3.070019}
+{56 1.871637,96 1.640664,116 1.79728}
+{293 3.070019}
+{}
+{140 3.070019}
+{67 3.070019}
+{140 3.070019}
+{116 2.170832,255 2.170832}
+{67 3.070019}
+{}
+{}
+{}
+{162 3.070019}
+{35 1.02334,47 1.02334,91 1.02334,113 1.02334,114 1.02334,134 1.02334,150 1.02334,154 1.02334,157 1.02334}
+{}
+{35 1.02334,47 1.02334,91 1.02334,113 1.02334,114 1.02334,134 1.02334,150 1.02334,154 1.02334,157 1.02334}
+{35 1.02334,47 1.02334,91 1.02334,113 1.02334,114 1.02334,134 1.02334,150 1.02334,154 1.02334,157 1.02334}
+{}
+{235 3.070019}
+{}
+{50 2.194757,139 2.14664}
+{}
+{}
+{}
+{}
+{}
+{}
+{41 3.070019}
+{}
+{168 3.070019}
+{}
+{119 3.070019}
+{88 3.070019}
+{}
+{}
+{71 1.62275,97 2.329727,140 1.167936}
+{131 2.691364,140 1.477016}
+{131 3.070019}
+{110 3.070019}
+{}
+{11 2.0907,32 1.988835,140 1.048107}
+{99 3.070019}
+{}
+{71 2.491749,140 1.793378}
+{}
+{119 3.070019}
+{}
+{}
+{1 3.070019}
+{}
+{}
+{}
+{144 3.070019}
+{104 3.070019}
+{}
+{}
+{}
+{104 2.715955,140 1.431296}
+{71 2.491749,140 1.793378}
+{140 3.070019}
+{158 3.070019}
+{}
+{}
+{71 1.826787,98 2.087871,140 1.314787}
+{36 1.383773,52 1.383773,68 1.383773,144 1.328799,156 1.383773}
+{140 3.070019}
+{36 1.383773,52 1.383773,68 1.383773,144 1.328799,156 1.383773}
+{}
+{318 3.070019}
+{}
+{110 2.170832,173 2.170832}
+{10 1.160358,33 1.160358,58 1.160358,59 1.160358,110 1.160358,152 1.160358,164 1.160358}
+{}
+{140 3.070019}
+{36 1.383773,52 1.383773,68 1.383773,144 1.328799,156 1.383773}
+{}
+{71 3.070019}
+{56 3.070019}
+{41 3.070019}
+{168 3.070019}
+{}
+{8 2.744459,140 1.375849}
+{36 1.383773,52 1.383773,68 1.383773,144 1.328799,156 1.383773}
+{46 2.170832,274 2.170832}
+{}
+{111 3.070019}
+{324 3.070019}
+{}
+{324 3.070019}
+{}
+{}
+{}
+{140 3.070019}
+{}
+{}
+{}
+{21 3.070019}
+{}
+{}
+{104 3.070019}
+{}
+{}
+{}
+{104 2.214372,255 2.1264}
+{238 3.070019}
+{}
+{101 1.823503,131 1.665742,322 1.823503}
+{78 3.070019}
+{211 1.430686,271 1.589003,285 1.589003,346 1.525875}
+{}
+{}
+{}
+{116 2.070565,160 2.266667}
+{116 2.070565,160 2.266667}
+{}
+{}
+{0 NEG,119 2.266667,120 2.070565}
+{0 NEG}
+{0 NEG,41 3.070019}
+{0 NEG,208 1.997076,246 2.331675}
+{0 NEG,21 1.912422,131 2.401596}
+{0 NEG,131 1.6944,242 1.854876,318 1.764501}
+{0 NEG,241 3.070019}
+{0 NEG}
+{0 NEG,69 1.824751,188 2.468867}
+{0 NEG}
+{0 NEG,2 2.245118,21 2.093911}
+{0 NEG}
+{0 NEG}
+{0 NEG,2 1.475875,71 1.318045,98 1.50642,318 1.800075}
+{0 NEG,69 1.375482,190 1.593953,232 1.64254,297 1.514742}
+{0 NEG,27 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,212 1.590381,290 1.85684,329 1.85684}
+{0 NEG,230 1.716625,289 1.716625,296 1.879206}
+{0 NEG,230 1.716625,289 1.716625,296 1.879206}
+{0 NEG,314 3.070019}
+{0 NEG}
+{0 NEG,168 3.070019}
+{0 NEG}
+{0 NEG,303 3.070019}
+{0 NEG}
+{0 NEG,204 1.083668,206 1.121581,218 1.083668,228 1.083668,239 1.051613,300 1.051613,315 1.121581,334 1.083668}
+{0 NEG,204 1.546317,218 1.546317,228 1.546317,300 1.500577}
+{0 NEG}
+{0 NEG,115 1.701985,138 1.549247,304 2.031773}
+{0 NEG,222 3.070019}
+{0 NEG,210 2.170832,279 2.170832}
+{0 NEG,204 1.083668,206 1.121581,218 1.083668,228 1.083668,239 1.051613,300 1.051613,315 1.121581,334 1.083668}
+{0 NEG}
+{0 NEG}
+{0 NEG,212 1.412146,229 1.412146,290 1.648743,329 1.648743}
+{0 NEG}
+{0 NEG,138 1.19191,212 1.465627,290 1.711185,329 1.711185}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,69 2.005695,238 2.324265}
+{0 NEG,245 2.170832,263 2.170832}
+{0 NEG}
+{0 NEG,267 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,304 2.070565,305 2.266667}
+{0 NEG,264 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,191 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,1 2.01108,23 2.319607}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,318 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,69 1.154115,115 1.194882,190 1.337426,269 1.561504,298 1.561504}
+{0 NEG,222 3.070019}
+{0 NEG}
+{0 NEG,305 3.070019}
+{0 NEG,330 3.070019}
+{0 NEG,138 3.070019}
+{0 NEG,238 3.070019}
+{0 NEG}
+{0 NEG,362 3.070019}
+{0 NEG,282 3.070019}
+{0 NEG}
+{0 NEG,222 3.070019}
+{0 NEG}
+{0 NEG,22 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,231 2.281511,238 2.054197}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,204 1.083668,206 1.121581,218 1.083668,228 1.083668,239 1.051613,300 1.051613,315 1.121581,334 1.083668}
+{0 NEG}
+{0 NEG}
+{0 NEG,168 3.070019}
+{0 NEG,138 1.861499,171 2.441279}
+{0 NEG,191 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,41 1.762116,115 1.52774,270 1.996492}
+{0 NEG,241 3.070019}
+{0 NEG,115 2.045397,238 2.289404}
+{0 NEG}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,181 0.995845,192 1.04685,217 1.04685,221 1.04685,281 1.04685,335 1.04685,344 1.04685,348 0.872951,360 1.04685}
+{0 NEG,270 3.070019}
+{0 NEG,190 1.782916,232 1.837262,297 1.694314}
+{0 NEG,198 3.070019}
+{0 NEG,21 3.070019}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,1 3.070019}
+{0 NEG,264 3.070019}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,69 1.526765,188 2.065696,297 1.681342}
+{0 NEG,115 3.070019}
+{0 NEG,195 1.25333,219 1.25333,268 1.25333,336 1.25333,343 1.25333,352 1.25333}
+{0 NEG}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,210 2.170832,279 2.170832}
+{0 NEG}
+{0 NEG,264 3.070019}
+{0 NEG,42 3.070019}
+{0 NEG}
+{0 NEG,69 1.044273,190 1.210137,232 1.247024,246 1.412889,297 1.15,321 1.412889}
+{0 NEG,96 3.070019}
+{0 NEG}
+{0 NEG,225 2.170832,359 2.170832}
+{0 NEG,13 1.178777,38 1.178777,46 1.093683,112 1.178777,124 1.178777,146 1.178777,165 1.131946}
+{0 NEG}
+{0 NEG}
+{0 NEG,180 1.25333,199 1.25333,202 1.25333,227 1.25333,280 1.25333,311 1.25333}
+{0 NEG,174 0.906553,183 0.952986,229 0.816231,286 0.870538,302 0.952986,339 0.906553,345 0.952986,356 0.952986,357 0.952986,361 0.952986,363 0.952986}
+{0 NEG}
+{0 NEG,189 1.372954,224 1.372954,310 1.372954,337 1.372954,340 1.372954}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,168 3.070019}
+{0 NEG,300 2.138002,334 2.203172}
+{0 NEG,238 3.070019}
+{0 NEG,1 3.070019}
+{0 NEG,189 1.372954,224 1.372954,310 1.372954,337 1.372954,340 1.372954}
+{0 NEG}
+{0 NEG,174 0.906553,183 0.952986,229 0.816231,286 0.870538,302 0.952986,339 0.906553,345 0.952986,356 0.952986,357 0.952986,361 0.952986,363 0.952986}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG}
+{0 NEG,115 3.070019}
+{0 NEG,19 1.212828,22 1.176952,57 1.255259,78 1.307192,86 1.255259,107 1.307192}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,42 3.070019}
+{0 NEG,181 1.038722,192 1.091923,217 1.091923,221 1.091923,281 1.091923,335 1.091923,344 1.091923,360 1.091923}
+{0 NEG}
+{0 NEG}
+{0 NEG,180 1.25333,199 1.25333,202 1.25333,227 1.25333,280 1.25333,311 1.25333}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,204 1.083668,206 1.121581,218 1.083668,228 1.083668,239 1.051613,300 1.051613,315 1.121581,334 1.083668}
+{0 NEG}
+{0 NEG,195 1.081705,219 1.081705,268 1.081705,294 1.111042,336 1.081705,343 1.081705,348 1.081705,352 1.081705}
+{0 NEG,69 1.375482,190 1.593953,232 1.64254,297 1.514742}
+{0 NEG}
+{0 NEG}
+{0 NEG,231 3.070019}
+{0 NEG,270 3.070019}
+{0 NEG}
+{0 NEG,305 3.070019}
+{0 NEG}
+{0 NEG,189 1.372954,224 1.372954,310 1.372954,337 1.372954,340 1.372954}
+{0 NEG,189 1.372954,224 1.372954,310 1.372954,337 1.372954,340 1.372954}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,190 1.475675,232 1.520657,297 1.402342,321 1.722917}
+{0 NEG}
+{0 NEG}
+{0 NEG,297 3.070019}
+{0 NEG,180 1.25333,199 1.25333,202 1.25333,227 1.25333,280 1.25333,311 1.25333}
+{0 NEG,189 1.372954,224 1.372954,310 1.372954,337 1.372954,340 1.372954}
+{0 NEG}
+{0 NEG,21 1.621627,111 1.774714,132 1.909381}
+{0 NEG}
+{0 NEG}
+{0 NEG,351 3.070019}
+{0 NEG}
+{0 NEG,210 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,138 3.070019}
+{0 NEG}
+{0 NEG,269 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,214 1.177246,216 1.177246,225 1.137451,226 1.177246,274 1.137451,306 1.177246,359 1.137451}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,235 3.070019}
+{0 NEG,245 2.170832,263 2.170832}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,1 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,214 1.177246,216 1.177246,225 1.137451,226 1.177246,274 1.137451,306 1.177246,359 1.137451}
+{0 NEG,214 1.177246,216 1.177246,225 1.137451,226 1.177246,274 1.137451,306 1.177246,359 1.137451}
+{0 NEG}
+{0 NEG}
+{0 NEG,181 1.038722,192 1.091923,217 1.091923,221 1.091923,281 1.091923,335 1.091923,344 1.091923,360 1.091923}
+{0 NEG}
+{0 NEG}
+{0 NEG,208 3.070019}
+{0 NEG,23 2.203172,208 2.138002}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,214 1.177246,216 1.177246,225 1.137451,226 1.177246,274 1.137451,306 1.177246,359 1.137451}
+{0 NEG,282 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,69 1.824751,188 2.468867}
+{0 NEG}
+{0 NEG,23 2.203172,208 2.138002}
+{0 NEG}
+{0 NEG}
+{0 NEG,303 3.070019}
+{0 NEG}
+{0 NEG,295 3.070019}
+{0 NEG}
+{0 NEG,204 1.083668,206 1.121581,218 1.083668,228 1.083668,239 1.051613,300 1.051613,315 1.121581,334 1.083668}
+{0 NEG,295 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,168 3.070019}
+{0 NEG,174 0.906553,183 0.952986,229 0.816231,286 0.870538,302 0.952986,339 0.906553,345 0.952986,356 0.952986,357 0.952986,361 0.952986,363 0.952986}
+{0 NEG}
+{0 NEG,194 3.070019}
+{0 NEG,194 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,291 3.070019}
+{0 NEG}
+{0 NEG,138 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,254 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,223 2.070565,330 2.266667}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,184 1.80795,197 1.754471,233 1.754471}
+{0 NEG}
+{0 NEG,267 3.070019}
+{0 NEG,203 3.070019}
+{0 NEG,213 2.022693,295 1.68669,331 1.577597}
+{0 NEG,297 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,2 0.802065,32 0.978251,88 0.907633,175 0.939387,176 0.939387,182 0.939387,203 0.907633,265 0.939387,266 0.939387,278 0.939387,326 0.939387}
+{0 NEG,2 0.846173,88 0.957547,175 0.991047,176 0.991047,182 0.991047,203 0.957547,265 0.991047,266 0.991047,278 0.991047,326 0.991047}
+{0 NEG}
+{0 NEG,2 0.846173,88 0.957547,175 0.991047,176 0.991047,182 0.991047,203 0.957547,265 0.991047,266 0.991047,278 0.991047,326 0.991047}
+{0 NEG,138 1.754688,354 2.519145}
+{0 NEG,298 3.070019}
+{0 NEG,196 3.070019}
+{0 NEG,258 3.070019}
+{0 NEG,279 3.070019}
+{0 NEG,184 1.394542,197 1.353291,233 1.353291,248 1.580028,283 1.149343}
+{0 NEG}
+{0 NEG}
+{0 NEG,178 1.032311,186 1.032311,205 1.032311,234 1.032311,244 0.9913,299 1.032311,319 1.032311,350 0.9913,355 1.032311}
+{0 NEG}
+{0 NEG}
+{0 NEG,283 3.070019}
+{0 NEG}
+{0 NEG,223 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,116 3.070019}
+{0 NEG,235 3.070019}
+{0 NEG,242 3.070019}
+{0 NEG}
+{0 NEG,283 3.070019}
+{0 NEG,289 3.070019}
+{0 NEG,242 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,314 3.070019}
+{0 NEG}
+{0 NEG,25 3.070019}
+{0 NEG,184 1.80795,197 1.754471,233 1.754471}
+{0 NEG}
+{0 NEG,256 3.070019}
+{0 NEG,138 3.070019}
+{0 NEG,178 0.927786,186 0.927786,205 0.927786,234 0.927786,244 0.890927,256 0.927786,299 0.927786,319 0.927786,325 0.975306,350 0.890927,355 0.927786}
+{0 NEG,178 0.927786,186 0.927786,205 0.927786,234 0.927786,244 0.890927,256 0.927786,299 0.927786,319 0.927786,325 0.975306,350 0.890927,355 0.927786}
+{0 NEG,178 0.927786,186 0.927786,205 0.927786,234 0.927786,244 0.890927,256 0.927786,299 0.927786,319 0.927786,325 0.975306,350 0.890927,355 0.927786}
+{0 NEG}
+{0 NEG,250 3.070019}
+{0 NEG,250 3.070019}
+{0 NEG}
+{0 NEG,316 3.070019}
+{0 NEG,181 2.214372,259 2.1264}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,21 3.070019}
+{0 NEG}
+{0 NEG,230 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,283 3.070019}
+{0 NEG}
+{0 NEG,21 2.07088,111 2.266379}
+{0 NEG,247 2.339983,283 1.987335}
+{0 NEG}
+{0 NEG}
+{0 NEG,31 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,316 3.070019}
+{0 NEG}
+{0 NEG,138 3.070019}
+{0 NEG,41 2.203172,208 2.138002}
+{0 NEG}
+{0 NEG,231 1.797911,238 1.61878,251 1.889997}
+{0 NEG}
+{0 NEG,251 3.070019}
+{0 NEG}
+{0 NEG,286 3.070019}
+{0 NEG,223 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,42 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,291 3.070019}
+{0 NEG}
+{0 NEG,185 1.096824,207 1.096824,209 1.096824,215 1.096824,313 1.001931,333 1.096824,341 1.096824,347 1.096824}
+{0 NEG,138 1.901894,293 2.409942}
+{0 NEG,245 3.070019}
+{0 NEG,185 1.096824,207 1.096824,209 1.096824,215 1.096824,313 1.001931,333 1.096824,341 1.096824,347 1.096824}
+{0 NEG,185 1.096824,207 1.096824,209 1.096824,215 1.096824,313 1.001931,333 1.096824,341 1.096824,347 1.096824}
+{0 NEG,201 1.707449,249 1.767185,339 1.840297}
+{0 NEG,353 3.070019}
+{0 NEG,353 3.070019}
+{0 NEG,331 2.12406,353 2.216616}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG}
+{0 NEG,212 1.658852,316 1.709416,354 1.936783}
+{0 NEG,354 3.070019}
+{0 NEG}
+{0 NEG,179 1.599506,248 1.599506,293 1.411734,327 1.521574}
+{0 NEG,1 3.070019}
+{0 NEG}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG}
+{0 NEG}
+{0 NEG,179 1.599506,248 1.599506,293 1.411734,327 1.521574}
+{0 NEG,179 1.873942,293 1.653953,327 1.782638}
+{0 NEG}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG,316 3.070019}
+{0 NEG,349 3.070019}
+{0 NEG,313 3.070019}
+{0 NEG}
+{0 NEG,69 0.839422,115 0.869073,190 0.97275,232 1.002401,246 1.135729,251 1.135729,269 1.135729,297 0.924409,321 1.135729}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,289 3.070019}
+{0 NEG,284 2.269897,331 2.067024}
+{0 NEG,138 3.070019}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG,331 3.070019}
+{0 NEG,331 3.070019}
+{0 NEG,291 3.070019}
+{0 NEG}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG}
+{0 NEG,284 1.589102,331 1.447076,349 1.589102,353 1.510132}
+{0 NEG,286 3.070019}
+{0 NEG,257 2.333648,324 1.994769}
+{0 NEG}
+{0 NEG}
+{0 NEG,177 1.030471,184 1.09068,197 1.058417,233 1.058417,243 0.983769,261 0.983769,275 0.983769,292 1.030471,320 0.983769}
+{0 NEG,177 1.102385,197 1.132283,233 1.132283,243 1.052424,261 1.052424,275 1.052424,292 1.102385,320 1.052424}
+{0 NEG}
+{0 NEG}
+{0 NEG,177 1.292065,243 1.233507,261 1.233507,275 1.233507,292 1.292065,320 1.233507}
+{0 NEG,177 1.292065,243 1.233507,261 1.233507,275 1.233507,292 1.292065,320 1.233507}
+{0 NEG,177 1.030471,184 1.09068,197 1.058417,233 1.058417,243 0.983769,261 0.983769,275 0.983769,292 1.030471,320 0.983769}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,240 1.396264,255 1.275465,262 1.396264,328 1.396264,351 1.396264}
+{0 NEG,241 2.031519,252 2.301728}
+{0 NEG}
+{0 NEG,194 3.070019}
+{0 NEG}
+{0 NEG,263 2.266667,324 2.070565}
+{0 NEG,316 3.070019}
+{0 NEG}
+{0 NEG,295 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,240 1.53501,262 1.53501,328 1.53501,351 1.53501}
+{0 NEG}
+{0 NEG,295 3.070019}
+{0 NEG,293 3.070019}
+{0 NEG,60 2.170832,258 2.170832}
+{0 NEG,254 3.070019}
+{0 NEG,237 3.070019}
+{0 NEG,177 1.185997,198 1.218162,243 1.132246,261 1.132246,275 1.132246,292 1.185997,320 1.132246}
+{0 NEG}
+{0 NEG,283 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,316 3.070019}
+{0 NEG,200 1.441619,243 1.147659,260 1.441619,261 1.147659,275 1.147659,320 1.147659}
+{0 NEG,177 1.18026,196 1.249221,243 1.126769,261 1.126769,275 1.126769,292 1.18026,320 1.126769}
+{0 NEG,255 3.070019}
+{0 NEG,253 2.266667,324 2.070565}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,304 3.070019}
+{0 NEG}
+{0 NEG,295 3.070019}
+{0 NEG,240 1.308389,255 1.195193,257 1.398237,262 1.308389,283 0.951748,328 1.308389}
+{0 NEG,283 3.070019}
+{0 NEG,196 2.369093,283 1.952541}
+{0 NEG,200 1.441619,243 1.147659,260 1.441619,261 1.147659,275 1.147659,320 1.147659}
+{0 NEG,177 1.051657,200 1.261156,243 1.003995,260 1.261156,261 1.003995,275 1.003995,292 1.051657,320 1.003995}
+{0 NEG,362 3.070019}
+{0 NEG,198 3.070019}
+{0 NEG,322 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,249 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,208 2.099852,259 2.239563}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,231 3.070019}
+{0 NEG,44 2.056224,241 2.279685}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,212 2.054197,250 2.281511}
+{0 NEG,174 1.857114,229 1.672084,235 1.783334}
+{0 NEG,229 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG,314 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,211 1.133865,271 1.259337,272 1.323838,277 1.323838,285 1.259337,346 1.209305}
+{0 NEG,193 0.865979,211 0.74171,220 0.865979,287 0.865979,288 0.865979,301 0.865979,308 0.865979,309 0.865979,312 0.865979,323 0.865979,332 0.865979,338 0.791058,358 0.865979}
+{0 NEG,220 1.032883,288 1.032883,301 1.032883,308 1.032883,309 1.032883,323 1.032883,332 1.032883,338 0.943523,358 1.032883}
+{0 NEG,211 1.133865,271 1.259337,272 1.323838,277 1.323838,285 1.259337,346 1.209305}
+{0 NEG}
+{0 NEG,193 0.865979,211 0.74171,220 0.865979,287 0.865979,288 0.865979,301 0.865979,308 0.865979,309 0.865979,312 0.865979,323 0.865979,332 0.865979,338 0.791058,358 0.865979}
+{0 NEG}
+{0 NEG}
+{0 NEG,267 3.070019}
+{0 NEG,193 1.436402,211 1.230276,287 1.436402,312 1.436402,338 1.312131}
+{0 NEG,211 1.133865,271 1.259337,272 1.323838,277 1.323838,285 1.259337,346 1.209305}
+{0 NEG,346 3.070019}
+{0 NEG,235 3.070019}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,187 1.112054,198 1.001257,236 1.112054,247 1.001257,273 1.112054,276 1.112054,307 1.112054,317 1.112054}
+{0 NEG,241 1.585398,252 1.79627,342 1.919621}
+{0 NEG}
+{0 NEG,241 1.585398,252 1.79627,342 1.919621}
+{0 NEG,187 1.112054,198 1.001257,236 1.112054,247 1.001257,273 1.112054,276 1.112054,307 1.112054,317 1.112054}
+{0 NEG,187 1.112054,198 1.001257,236 1.112054,247 1.001257,273 1.112054,276 1.112054,307 1.112054,317 1.112054}
+{0 NEG}
+{0 NEG,187 1.112054,198 1.001257,236 1.112054,247 1.001257,273 1.112054,276 1.112054,307 1.112054,317 1.112054}
+{0 NEG,223 2.070565,253 2.266667}
+{0 NEG,313 3.070019}
+{0 NEG,196 2.369093,283 1.952541}
+{0 NEG,253 2.482662,283 1.805937}
+{0 NEG}
+{0 NEG,1 3.070019}
+{0 NEG}
+{0 NEG,250 2.170832,362 2.170832}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG}
+{0 NEG,338 3.070019}
+{0 NEG}
+{0 NEG,230 2.170832,249 2.170832}
+{0 NEG,283 3.070019}
+{0 NEG,230 2.170832,249 2.170832}
+{0 NEG,201 3.070019}
+{0 NEG,201 1.473994,213 1.670048,258 1.588678,295 1.392625}
+{0 NEG,171 2.401596,283 1.912422}
+{0 NEG,201 1.707449,237 1.840297,259 1.767185}
+{0 NEG,201 1.707449,237 1.840297,259 1.767185}
+{0 NEG,201 1.473994,213 1.670048,258 1.588678,295 1.392625}
+{0 NEG,322 3.070019}
+{0 NEG,283 3.070019}
+{0 NEG,254 2.170832,330 2.170832}
+{0 NEG}
+{0 NEG,184 1.358249,197 1.318072,233 1.318072,247 1.318072,282 1.538908}
+{0 NEG,196 2.031519,296 2.301728}
+{0 NEG,196 2.203172,247 2.138002}
+{0 NEG}
+{0 NEG,283 1.805937,298 2.482662}
+{0 NEG,249 3.070019}

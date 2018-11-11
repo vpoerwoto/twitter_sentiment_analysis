@@ -1,0 +1,7 @@
+java weka.filters.unsupervised.attribute.Standardize -b -i train.arff -o train_std.arff -r test.arff -s test_std.arff
+
+java -cp weka.jar weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 1200 -prune-rate -1.0 -T -I -N 1 -L -stemmer weka.core.stemmers.NullStemmer -M 3 -stopwords D:\\~tesis\\~play\\stopword_list_tala.txt -tokenizer "weka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1" -b -i D:\~awx\jkw_train.arff -o D:\~awx\jkw_train_std.arff -r D:\~awx\jkw_test.arff -s D:\~awx\jkw_test_std.arff
+
+java -cp weka.jar weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 1200 -prune-rate -1.0 -T -I -N 1 -L -stemmer weka.core.stemmers.NullStemmer -M 3 -stopwords D:\\~tesis\\~play\\stopword_list_tala.txt -tokenizer "weka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1" -b -i D:\~awx\JKW_TWEETCL1_TRAIN.arff -o D:\~awx\JKW_TWEETCL1_TRAIN_std.arff -r D:\~awx\JKW_TWEETCL1_TEST.arff -s D:\~awx\JKW_TWEETCL1_TEST_std.arff
+
+java -cp weka.jar weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 1200 -prune-rate -1.0 -T -I -N 1 -L -stemmer weka.core.stemmers.NullStemmer -M 3 -stopwords D:\\~tesis\\~play\\stopword_list_tala.txt -tokenizer "weka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1" -b -i D:\~awx\PRAB_TWEETCL1_TRAIN.arff -o D:\~awx\PRAB_TWEETCL1_TRAIN_std.arff -r D:\~awx\PRAB_TWEETCL1_TEST.arff -s D:\~awx\PRAB_TWEETCL1_TEST_std.arff
